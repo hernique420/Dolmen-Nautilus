@@ -13,11 +13,11 @@ nav_order: 3
 
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Humanoides amadeirados, retorcidos, dos quais a carne fértil hospeda musgos, mofos, e fungos. |
-| **Tipo**          | Mortais                                                                   |
-| **Classes comuns** | Lutadores, e Caçadores                                  |
-| **Classes raras** | Cavaleiros, Clérigos, e Freis                                                   |
-| **Classes proibidas** | Encantadores                                                      |
-| **Línguas nativas** | Woldish, Mulch                                             |
+| **Tipo**          | Mortais                                                                  |
+| **Classes comuns**| Lutadores, e Caçadores                                                  |
+| **Classes raras** | Cavaleiros, Clérigos, e Freis                                           |
+| **Classes proib.**| Encantadores                                                            |
+| **Línguas nativas**| Woldish, Mulch                                                          |
 
 ## Breggle
 
