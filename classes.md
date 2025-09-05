@@ -11,6 +11,7 @@ nav_order: 4
 *Músicos e poetas atraídos por uma vida de viagem e aventura.*
 
 #### Atributos & Combate
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributos Principais** | Carisma e Destreza |
@@ -20,6 +21,7 @@ nav_order: 4
 | **Armas** | Pequenas e médias |
 
 #### Perícias & Habilidades Especiais
+
 | | |
 | :--- | :--- |
 | **Perícias** | Decifrar Documento, Prestidigitação, Conhecimento sobre Monstros |
@@ -30,6 +32,7 @@ nav_order: 4
 *Guerreiros sagrados a serviço da Igreja Pluritina.*
 
 #### Atributos & Combate
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Sabedoria |
@@ -51,6 +54,7 @@ nav_order: 4
 *Andarilhos que manipulam a magia das Fadas, conquistando favores da nobreza feérica.*
 
 #### Atributos & Combate
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Carisma e Inteligência |
@@ -71,6 +75,7 @@ nav_order: 4
 *Mercenários, soldados, e rufiões que usam seus talentos para uma vida de aventura.*
 
 #### Atributos & Combate
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Força |
@@ -88,6 +93,7 @@ nav_order: 4
 *Andarilhos ascetas que espalham o evangelho da Igreja Pluritina.*
 
 #### Atributos & Combate
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Inteligência e Sabedoria |
@@ -111,6 +117,7 @@ nav_order: 4
 *Guerreiros sagrados a serviço da Igreja Pluritina.*
 
 #### Atributos & Combate
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Sabedoria |
@@ -131,6 +138,7 @@ nav_order: 4
 *Guerreiros sagrados a serviço da Igreja Pluritina.*
 
 #### Atributos & Combate
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Sabedoria |
@@ -151,6 +159,7 @@ nav_order: 4
 *Guerreiros sagrados a serviço da Igreja Pluritina.*
 
 #### Atributos & Combate
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Sabedoria |
