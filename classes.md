@@ -23,7 +23,7 @@ nav_order: 4
 | **Contra-encanto** | Enquanto toca e canta, concede aliados próximos imunidade a efeitos mágicos sonoros e +2 em Salvaguarda contra magia de fadas. |
 | **Encantamento** | Através de sua música e canto, pode fascinar criaturas em uma área. |
 
-## Bardo
+## Clérigo
 *Guerreiros sagrados a serviço da Igreja Pluritina.*
 
 | | |
