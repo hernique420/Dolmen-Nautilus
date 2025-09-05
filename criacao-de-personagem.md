@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Criação de Personagem
+title: Kins de Dolmenwood
 parent: 🧭 Guia do Jogador
 nav_order: 3
 ---
