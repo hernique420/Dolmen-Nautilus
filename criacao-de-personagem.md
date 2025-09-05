@@ -14,7 +14,7 @@ nav_order: 3
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Criaturas pequenas e resistentes, cobertas por musgo e fungos.           |
-| **Tipo**          | Mortal                                                                   |
+| **Tipo**          | Mortais                                                                   |
 | **Classes**       | Bardo, Lutador, Ranger, Ladino                                           |
 | **Traços**        | Visão no escuro, Resistência a venenos, Movimento lento em ambientes secos |
 | **Afinidade**     | Bosques úmidos, pântanos, cavernas                                       |
@@ -24,7 +24,7 @@ nav_order: 3
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Um povo pequeno e robusto, conhecido por sua teimosia e conexão com a terra. |
-| **Tipo**          | Mortal                                                                   |
+| **Tipo**          | Mortais                                                                   |
 | **Classes**       | Clérigo, Lutador, Mago, Ranger                                          |
 | **Traços**        | +2 em testes de resistência, Cansee em infravermelho, Teimoso           |
 | **Afinidade**     | Montanhas, colinas, minas                                               |
@@ -34,7 +34,7 @@ nav_order: 3
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Seres enigmáticos e silenciosos, quase imperceptíveis na floresta.       |
-| **Tipo**          | Imortal                                                                  |
+| **Tipo**          | Demi-fey                                                                  |
 | **Classes**       | Druida, Ranger, Ladino, Mago                                            |
 | **Traços**        | Camuflagem natural, Silêncio natural, Vulnerável a ferro                 |
 | **Afinidade**     | Florestas densas, lugares não mapeados                                   |
@@ -44,7 +44,7 @@ nav_order: 3
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Adaptáveis e ambiciosos, os humanos se espalham por todos os cantos.     |
-| **Tipo**          | Mortal                                                                   |
+| **Tipo**          | Mortais                                                                   |
 | **Classes**       | Todas as classes                                                         |
 | **Traços**        | Bônus em qualquer habilidade, Versáteis, Sem resistências especiais      |
 | **Afinidade**     | Qualquer lugar, especialmente cidades e estradas                         |
@@ -54,7 +54,7 @@ nav_order: 3
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Povo-gato misterioso, conhecido por sua curiosidade e habilidades furtivas. |
-| **Tipo**          | Mortal                                                                   |
+| **Tipo**          | Fadas                                                                   |
 | **Classes**       | Ladino, Bardo, Mago, Druida                                             |
 | **Traços**        | Visão noturna, Passos silenciosos, 7 vidas (vantagem contra morte)       |
 | **Afinidade**     | Telhados, florestas noturnas, lugares altos                              |
@@ -64,7 +64,7 @@ nav_order: 3
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Seres feéricos de beleza etérea e vida longa, conectados aos segredos do bosque. |
-| **Tipo**          | Imortal                                                                  |
+| **Tipo**          | Fadas                                                                  |
 | **Classes**       | Mago, Druida, Ranger, Bardo                                             |
 | **Traços**        | Imune a sono, Encantamento com palavras, Vulnerável a ferro frio         |
 | **Afinidade**     | Clareiras lunares, bosques antigos, lugares mágicos                      |
