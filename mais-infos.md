@@ -40,7 +40,7 @@ Esperamos que essa introdução tenha despertado sua curiosidade.
 *  Se você ainda não se sente pronto, você pode participar criando um **[Companheiro](companheiros.md)** que pode ser contratado pelos jogadores, ou disputar no **[Conselho](conselho.md)** para decidir como aplicar os fundos do Banco Comum. 
 *  Mas se você está seguindo o chamado da aventura, aqui estão os seus primeiros passos:
 
-[Acesse nosso Discord!](LINK). É lá onde nossos jogos acontecem, e você pode encontrar todas as informações atualizadas.
+[Acesse nosso Discord!](LINK) É lá onde nossos jogos acontecem, e você pode encontrar todas as informações atualizadas.
 
 1.  **[Leia o Guia do Jogador](guia-do-jogador.md)** - O essencial para jogar em nosso mundo compartilhado.
 2.  **[Crie seu Personagem](criacao-de-personagem.md)** - Use nosso guia passo a passo.
