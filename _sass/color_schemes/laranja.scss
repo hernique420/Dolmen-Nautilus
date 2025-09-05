@@ -3,28 +3,6 @@ $link-color: #c17a5f;
 $button-color: #c17a5f;
 $border-color: #4a4a4a;
 
-// Hide the header used for targeting
-h6 {
-  display: none;
-}
-
-// Style the table that comes immediately after the hidden header
-h6 + table {
-  border: 2px solid #8c977d;
-  border-radius: 8px;
-  overflow: hidden; // This is key for the border-radius to work on the table
-}
-
-// Optional: Style the cells inside that specific table
-h6 + table td {
-  background-color: #1e2a2f;
-  border-color: #8c977d55;
-}
-
-h6 + table td:first-child {
-  color: #b59f74;
-}
-
 thead {
     display: none;
 }
