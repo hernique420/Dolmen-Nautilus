@@ -22,7 +22,7 @@ Esta campanha é um **"sandbox"**, um mundo aberto sem um objetivo ou enredo pr�
 
 Um RPG é um jogo de interpretação de papéis onde jogadores e um narrador colaboram para criar uma história coletiva. Quando o resultado de uma ação é incerto ou oferece risco, uma rolagem de dados decide o destino.
 
-Normalmente, um RPG envolve um grupo fixo de 4 ou 5 pessoas que se reúnem semanalmente. Mas esta campanha é ao estilo **West Marches**, um formato codificado originalmente por Ben Robbins, mas com aquele nosso tempero.
+Normalmente, um RPG envolve um grupo fixo de 4 ou 5 pessoas que se reúnem semanalmente. Mas esta campanha é ao estilo **West Marches**, um formato codificado originalmente por [Ben Robbins](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/), mas com aquele nosso tempero.
 
 ### Como Funciona Nossa Campanha Aberta?
 
