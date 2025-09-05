@@ -5,7 +5,7 @@ nav_order: 2
 description: "Mais Informações"
 ---
 
-![[Uma cavaleira enfrenta um monstro em Dolmenwood](https://images.squarespace-cdn.com/content/v1/55e4bbe1e4b0b7c5853c06e7/a902b370-ff54-4cf9-8866-eabeaf245bbb/Dolmenwood-Hazards_Original.jpg?format=2500w])
+![[Uma cavaleira enfrenta um monstro em Dolmenwood](https://images.squarespace-cdn.com/content/v1/55e4bbe1e4b0b7c5853c06e7/a902b370-ff54-4cf9-8866-eabeaf245bbb/Dolmenwood-Hazards_Original.jpg?format=1100w)]
 *Ilustração oficial de Dolmenwood por Pauliina Hannuniemi*
 
 ### Como Funciona Nossa Campanha Aberta?
