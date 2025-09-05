@@ -153,6 +153,7 @@ nav_order: 4
 | **Armas** | Qualquer arma corpo-a-corpo |
 
 #### Perícias & Habilidades Especiais
+
 | | |
 | :--- | :--- |
 | **Suseranos** | Serve a uma das casas nobres menores em Dolmenwood (à partir do nível 3; até lá, é um escudeiro errante). |
@@ -175,6 +176,7 @@ nav_order: 4
 | **Armas** | Adaga, água benta, óleo, cajado, tocha. |
 
 #### Perícias & Habilidades Especiais
+
 | | |
 | :--- | :--- |
 | **Magia Arcana** | Conjura magias arcanas (ver p. 78). |
@@ -194,6 +196,7 @@ nav_order: 4
 | **Armas** | Pequenas e médias |
 
 #### Perícias & Habilidades Especiais
+
 | | |
 | :--- | :--- |
 | **Golpe pelas Costas** | +4 de bônus de ataque e causa 2d4+4 ao atacar pelas costas com uma adaga. |
