@@ -11,6 +11,7 @@ nav_order: 3
 
 ## Mossling
 
+| :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Humanoides amadeirados, retorcidos, dos quais a carne fértil hospeda musgos, mofos, e fungos. |
 | **Tipo**          | Mortais                                                                   |
 | **Classes comuns** | Lutadores, e Caçadores                                  |
@@ -20,6 +21,7 @@ nav_order: 3
 
 ## Breggle
 
+| :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Cabeças-de-bode, o tamanho de seus chifres indicam sua posição social. |
 | **Tipo**          | Mortais                                                                   |
 | **Classes comuns** | Guerreiros, Cavaleiros, ou Mágicos                                   |
@@ -29,6 +31,7 @@ nav_order: 3
 
 ## Woodgrue
 
+| :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Goblins com face de morcegos conhecidos pelo seu amor da música, da folia, e do incêndio criminoso. |
 | **Tipo**          | Mortais                                                                   |
 | **Classes comuns** | Bardos, Mágicos, e Ladinos                                |
@@ -38,6 +41,7 @@ nav_order: 3
 
 ## Humano
 
+| :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Pessoas do mundo cotidiano, em todas as variedades que conhecemos. |
 | **Tipo**          | Mortais                                                                   |
 | **Classes comuns** | Bardo, Clérigo, Lutador, Frei, Caçador, Cavaleiro, Mágico, Ladino                                                                |
@@ -47,6 +51,7 @@ nav_order: 3
 
 ## Grimalkin
 
+| :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Fadas felinas mercuriais que mudam para três formas diferentes. |
 | **Tipo**          | Fadas                                                                |
 | **Classes comuns** | Bardos, Encantadores, Caçadores, Ladinos                                   |
@@ -56,6 +61,7 @@ nav_order: 3
 
 ## Elfo
 
+| :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Fadas atemporais que cruzaram para o mundo mortal por razões que raramente revelam. |
 | **Tipo**          | Fadas                                                                  |
 | **Classes comuns** | Encantadores, Lutadores, Caçadores, Mágicos                                   |
