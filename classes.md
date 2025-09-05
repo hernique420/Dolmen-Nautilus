@@ -7,7 +7,7 @@ nav_order: 4
 ![Banner com vários woodgrues de diferentes classes](assets/images/ending-list.jpg)
 # Classes
 
-## Bardo ![banner do bardo](assets/images/bardo.jpg)
+## Bardo
 *Músicos e poetas atraídos por uma vida de viagem e aventura.*
 
 #### Atributos & Combate
