@@ -10,12 +10,16 @@ nav_order: 4
 ## Bardo
 *Músicos e poetas atraídos por uma vida de viagem e aventura.*
 
+<div class="tabela-bardo">
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributos Principais** | Carisma e Destreza |
 | **Aptidão em Combate** | Semimarcial |
 | **Armaduras** | Leves e médias (escudos não permitidos) |
 | **Armas** | Pequenas e médias |
+
+</div>
 
 | | |
 | :--- | :--- |
