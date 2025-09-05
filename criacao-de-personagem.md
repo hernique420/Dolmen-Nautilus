@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Criação de Personagem
-parent: "🏰 Guilda & Companhias"
+parent: 🧭 Guia do Jogador
 nav_order: 2
 ---
