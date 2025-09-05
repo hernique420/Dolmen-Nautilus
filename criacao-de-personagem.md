@@ -22,7 +22,7 @@ nav_order: 3
 ## Breggle
 *Cabeças-de-bode, o tamanho de seus chifres indicam sua posição social.*
 
-| Tipo | Mortais |
+| Tipo: | *Mortais* |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Classes comuns** | Guerreiros, Cavaleiros, ou Mágicos                                   |
 | **Classes raras** | Clérigos, e Freis                                                         |
@@ -32,7 +32,7 @@ nav_order: 3
 ## Woodgrue
 *Goblins com face de morcegos conhecidos pelo seu amor da música, da folia, e do incêndio criminoso.*
 
-| Tipo | Mortais |
+| Tipo: | *Mortais* |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Classes comuns** | Bardos, Mágicos, e Ladinos                                |
 | **Classes raras** | Clérigos, e Cavaleiros                                                         |
@@ -42,7 +42,7 @@ nav_order: 3
 ## Humano
 *Pessoas do mundo cotidiano, em todas as variedades que conhecemos.*
 
-| Tipo | Mortais |
+| Tipo: | *Mortais* |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Classes comuns** | Bardo, Clérigo, Lutador, Frei, Caçador, Cavaleiro, Mágico, Ladino                                                                |
 | **Classes raras** | Encantadores                                                         |
@@ -52,7 +52,7 @@ nav_order: 3
 ## Grimalkin
 *Fadas felinas mercuriais que mudam para três formas diferentes.*
 
-| Tipo | Fadas |
+| Tipo: | *Fadas* |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Classes comuns** | Bardos, Encantadores, Caçadores, Ladinos                                   |
 | **Classes raras** | Cavaleiros                                                         |
@@ -62,7 +62,7 @@ nav_order: 3
 ## Elfo
 *Fadas atemporais que cruzaram para o mundo mortal por razões que raramente revelam.*
 
-| Tipo | Fadas |
+| Tipo: | *Fadas* |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Classes comuns** | Encantadores, Lutadores, Caçadores, Mágicos                                   |
 | **Classes raras** | Cavaleiros                                                              |
