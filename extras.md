@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Extras
+title: ⛺ Extras
 has_children: true
 nav_order: 4
 ---
