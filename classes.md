@@ -16,6 +16,9 @@ nav_order: 4
 | **Aptidão em Combate** | Semimarcial |
 | **Armaduras** | Leves e médias (escudos não permitidos) |
 | **Armas** | Pequenas e médias |
+
+| | |
+| :--- | :--- |
 | **Perícias** | Decifrar Documento, Prestidigitação, Conhecimento sobre Monstros |
 | **Contra-encanto** | Enquanto toca e canta, concede aliados próximos imunidade a efeitos mágicos sonoros e +2 em Salvaguarda contra magia de fadas. |
 | **Encantamento** | Através de sua música e canto, pode fascinar criaturas em uma área. |
@@ -29,6 +32,9 @@ nav_order: 4
 | **Aptidão em Combate** | Semimarcial |
 | **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
 | **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
+
+| | |
+| :--- | :--- |
 | **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
 | **Magia Sagrada** | Conjura magias divinas (ver sistema de magia sagrada na p. 100 do DPB). |
 | **Ordem Sagrada** | No nível 2, o clérigo é iniciado em uma ordem sagrada. |
