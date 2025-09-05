@@ -10,7 +10,7 @@ description: "Um portal para a campanha de RPG comunitária de Dolmenwood no Nau
 ![Uma cavaleira enfrenta um monstro em Dolmenwood](https://necroticgnome.com/cdn/shop/articles/Pauliina_Hannuniemi_-_Knight_and_Phlegm_Wyrm.jpg?v=1578737762&width=1100)
 *Ilustração oficial de Dolmenwood por Pauliina Hannuniemi*
 
-Talvez você tenha vindo em busca de aventura, talvez alguém tenha te convencido, talvez você não saiba o que está fazendo aqui. **Não entre em pânico!** A Guilda dos Aventureiros, na cidade de Ponta do Chifre Fino, é como nossa casa no reino estranho e maravilhoso de Dolmenwood.
+Bem-vinde! Talvez você tenha vindo em busca de aventura, talvez alguém tenha te convencido, talvez você não saiba o que está fazendo aqui. **Não entre em pânico!** A Guilda dos Aventureiros, na cidade de Ponta do Chifre Fino, é como nossa casa no reino estranho e maravilhoso de Dolmenwood.
 
 ## O que é Dolmenwood?
 
