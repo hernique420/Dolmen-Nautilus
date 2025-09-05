@@ -14,6 +14,7 @@ nav_order: 3
 
 | Tipo:    | *Mortais*       |
 | :---------------- | :----------------------------------------------------------------------- |
+| **Tipo** | Mortais                                                  |
 | **Classes comuns**| Lutadores, e Caçadores                                                  |
 | **Classes raras** | Cavaleiros, Clérigos, e Freis                                           |
 | **Classes proib.**| Encantadores                                                            |
@@ -24,6 +25,7 @@ nav_order: 3
 
 | Tipo: | *Mortais* |
 | :---------------- | :----------------------------------------------------------------------- |
+| **Tipo** | Mortais                                                  |
 | **Classes comuns** | Guerreiros, Cavaleiros, ou Mágicos                                   |
 | **Classes raras** | Clérigos, e Freis                                                         |
 | **Classes proibidas** | Encantador                                                         |
@@ -34,6 +36,7 @@ nav_order: 3
 
 | Tipo: | *Mortais* |
 | :---------------- | :----------------------------------------------------------------------- |
+| **Tipo** | Mortais                                                  |
 | **Classes comuns** | Bardos, Mágicos, e Ladinos                                |
 | **Classes raras** | Clérigos, e Cavaleiros                                                         |
 | **Classes proibidas** | Encantadores                                                         |
@@ -44,6 +47,7 @@ nav_order: 3
 
 | Tipo: | *Mortais* |
 | :---------------- | :----------------------------------------------------------------------- |
+| **Tipo** | Mortais                                                  |
 | **Classes comuns** | Bardo, Clérigo, Lutador, Frei, Caçador, Cavaleiro, Mágico, Ladino                                                                |
 | **Classes raras** | Encantadores                                                         |
 | **Classes proibidas** | Nenhuma                                                         |
@@ -54,6 +58,7 @@ nav_order: 3
 
 | Tipo: | *Fadas* |
 | :---------------- | :----------------------------------------------------------------------- |
+| **Tipo** | Mortais                                                  |
 | **Classes comuns** | Bardos, Encantadores, Caçadores, Ladinos                                   |
 | **Classes raras** | Cavaleiros                                                         |
 | **Classes proibidas** | Clérigos, e Freis                                                         |
@@ -64,6 +69,7 @@ nav_order: 3
 
 | Tipo: | *Fadas* |
 | :---------------- | :----------------------------------------------------------------------- |
+| **Tipo** | Mortais                                                  |
 | **Classes comuns** | Encantadores, Lutadores, Caçadores, Mágicos                                   |
 | **Classes raras** | Cavaleiros                                                              |
 | **Classes proibidas** | Clérigos, e Freis                                                            |
