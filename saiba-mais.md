@@ -5,6 +5,9 @@ nav_order: 2
 description: "Mais Informações"
 ---
 
+![[Uma cavaleira enfrenta um monstro em Dolmenwood](https://images.squarespace-cdn.com/content/v1/55e4bbe1e4b0b7c5853c06e7/a902b370-ff54-4cf9-8866-eabeaf245bbb/Dolmenwood-Hazards_Original.jpg?format=2500w])
+*Ilustração oficial de Dolmenwood por Pauliina Hannuniemi*
+
 ### Como Funciona Nossa Campanha Aberta?
 
 Temos uma campanha **comunitária e dirigida pelos jogadores**. Isso significa que dezenas de jogadores estão participando de um mesmo mundo **compartilhado e consistente**, onde as ações de um grupo podem repercutir e afetar todos os outros, e onde toda informação importante deve ser registrada e compartilhada pelos jogadores.
