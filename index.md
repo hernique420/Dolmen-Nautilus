@@ -24,6 +24,8 @@ Um RPG é um jogo de interpretação de papéis onde jogadores e um narrador col
 
 Normalmente, um RPG envolve um grupo fixo de 4 ou 5 pessoas que se reúnem semanalmente. Mas esta campanha é ao estilo **West Marches**, um formato de jogo codificado originalmente por [Ben Robbins](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/), mas com aquele nosso tempero.
 
+Saiba mais, ou navegue pelas abas na lateral esquerda!
+
 ### Como Funciona Nossa Campanha Aberta?
 
 Temos uma campanha **comunitária e dirigida pelos jogadores**. Isso significa que dezenas de jogadores estão participando de um mesmo mundo **compartilhado e consistente**, onde as ações de um grupo podem repercutir e afetar todos os outros, e onde toda informação importante deve ser registrada e compartilhada pelos jogadores.
