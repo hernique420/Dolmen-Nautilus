@@ -131,6 +131,7 @@ nav_order: 4
 | **Armas** | Qualquer uma |
 
 #### Perícias & Habilidades Especiais
+
 | | |
 | :--- | :--- |
 | **Companheiros Animais** | Pode formar um vínculo com um animal que se torna seu companheiro (limite de 1). |
@@ -187,6 +188,7 @@ nav_order: 4
 *Trapaceiros que vivem de habilidades de engano e furtividade.*
 
 #### Atributos & Combate
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Destreza |
