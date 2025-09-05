@@ -16,7 +16,7 @@ Bem-vinde! Talvez você tenha vindo em busca de aventura, talvez alguém tenha t
 
 Dolmenwood é um reino de fantasia no meio de bosques emaranhados, clareiras incrustadas de musgo, e pântanos fétidos nas bordas selvagens da civilização. São suas intrigas, seus segredos, e sua mágica que atraem aventureiros e viajantes com a coragem de caminhar sob suas árvores antigas.
 
-Esta campanha é um **"sandbox"**, um mundo aberto sem um objetivo ou enredo pré-definido, com tesouros, mistérios e perigos espalhados por toda parte. Sua única missão é explorar o mundo e, mais importante ainda do que obter ouro, **voltar pra casa vivo**.
+Esta campanha é um **"sandbox"**, um mundo aberto sem um objetivo ou enredo pré-definido, com tesouros, mistérios, e perigos espalhados por toda parte. Sua única missão é explorar o mundo e, mais importante ainda do que obter ouro, **voltar pra casa vivo**.
 
 ## O que é um RPG (e o que é um West Marches)?
 
@@ -24,4 +24,4 @@ Um RPG é um jogo de interpretação de papéis onde jogadores e um narrador col
 
 Normalmente, um RPG envolve um grupo fixo de 4 ou 5 pessoas que se reúnem semanalmente. Mas esta campanha é ao estilo **West Marches**, um formato de jogo codificado originalmente por [Ben Robbins](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/), mas com aquele nosso tempero.
 
-### <center>[Saiba mais aqui](mais-infos.md), ou navegue pelas abas na lateral esquerda!</center>
+### [Saiba mais aqui](mais-infos.md), ou navegue pelas abas na lateral esquerda!
