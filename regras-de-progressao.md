@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Regras de Progressão
-parent: Extras
+parent: ⛺ Extras
 nav_order: 3
 ---
