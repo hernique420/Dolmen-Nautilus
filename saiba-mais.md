@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saiba Mais
+title: Mais infos
 nav_order: 2
 description: "Mais Informações"
 ---
