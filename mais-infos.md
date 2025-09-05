@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mais infos
-parent: Intro
+parent: 🕯️ Intro
 nav_order: 1
 description: "Mais Informações"
 ---
