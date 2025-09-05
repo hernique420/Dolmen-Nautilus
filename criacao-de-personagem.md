@@ -13,11 +13,12 @@ nav_order: 3
 
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Descrição**     | Criaturas pequenas e resistentes, cobertas por musgo e fungos.           |
+| **Descrição**     | Humanoides amadeirados, retorcidos, dos quais a carne fértil hospeda musgos, mofos, e fungos. |
 | **Tipo**          | Mortais                                                                   |
-| **Classes**       | Bardo, Lutador, Ranger, Ladino                                           |
-| **Traços**        | Visão no escuro, Resistência a venenos, Movimento lento em ambientes secos |
-| **Afinidade**     | Bosques úmidos, pântanos, cavernas                                       |
+| **Classes comuns** | Lutadores, e Caçadores                                  |
+| **Classes raras** | Cavaleiros, Clérigos, e Freis                                                   |
+| **Classes proibidas** | Encantadores                                                      |
+| **Línguas nativas** | Woldish, Mulch                                             |
 
 ## Breggle
 
@@ -26,46 +27,50 @@ nav_order: 3
 | **Descrição**     | Cabeças-de-bode, o tamanho de seus chifres indicam sua posição social. |
 | **Tipo**          | Mortais                                                                   |
 | **Classes comuns** | Guerreiros, Cavaleiros, ou Mágicos                                   |
-| **Classes raras** | Clérigos e Freis                                                         |
+| **Classes raras** | Clérigos, e Freis                                                         |
 | **Classes proibidas** | Encantador                                                         |
-| **Línguas nativas** | Woldish, Gaffe, Caprice                                               |
+| **Línguas nativas** | Woldish, Gaffe, Caprica                                               |
 
 ## Woodgrue
 
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Descrição**     | Seres enigmáticos e silenciosos, quase imperceptíveis na floresta.       |
-| **Tipo**          | Demi-fey                                                                  |
-| **Classes**       | Druida, Ranger, Ladino, Mago                                            |
-| **Traços**        | Camuflagem natural, Silêncio natural, Vulnerável a ferro                 |
-| **Afinidade**     | Florestas densas, lugares não mapeados                                   |
+| **Descrição**     | Goblins com face de morcegos conhecidos pelo seu amor da música, da folia, e do incêndio criminoso. |
+| **Tipo**          | Mortais                                                                   |
+| **Classes comuns** | Bardos, Mágicos, e Ladinos                                |
+| **Classes raras** | Clérigos, e Cavaleiros                                                         |
+| **Classes proibidas** | Encantadores                                                         |
+| **Línguas nativas** | Woldish, Sylvano                                             |
 
 ## Humano
 
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Descrição**     | Adaptáveis e ambiciosos, os humanos se espalham por todos os cantos.     |
+| **Descrição**     | Pessoas do mundo cotidiano, em todas as variedades que conhecemos. |
 | **Tipo**          | Mortais                                                                   |
-| **Classes**       | Todas as classes                                                         |
-| **Traços**        | Bônus em qualquer habilidade, Versáteis, Sem resistências especiais      |
-| **Afinidade**     | Qualquer lugar, especialmente cidades e estradas                         |
+| **Classes comuns** | Bardo, Clérigo, Lutador, Frei, Caçador, Cavaleiro, Mágico, Ladino                                                                |
+| **Classes raras** | Encantadores                                                         |
+| **Classes proibidas** | Nenhuma                                                         |
+| **Línguas nativas** | Woldish                                            |
 
 ## Grimalkin
 
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Descrição**     | Povo-gato misterioso, conhecido por sua curiosidade e habilidades furtivas. |
-| **Tipo**          | Fadas                                                                   |
-| **Classes**       | Ladino, Bardo, Mago, Druida                                             |
-| **Traços**        | Visão noturna, Passos silenciosos, 7 vidas (vantagem contra morte)       |
-| **Afinidade**     | Telhados, florestas noturnas, lugares altos                              |
+| **Descrição**     | Fadas felinas mercuriais que mudam para três formas diferentes. |
+| **Tipo**          | Fadas                                                                |
+| **Classes comuns** | Bardos, Encantadores, Caçadores, Ladinos                                   |
+| **Classes raras** | Cavaleiros                                                         |
+| **Classes proibidas** | Clérigos, e Freis                                                         |
+| **Línguas nativas** | Woldish, Mewl                                            |
 
 ## Elfo
 
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Descrição**     | Seres feéricos de beleza etérea e vida longa, conectados aos segredos do bosque. |
+| **Descrição**     | Fadas atemporais que cruzaram para o mundo mortal por razões que raramente revelam. |
 | **Tipo**          | Fadas                                                                  |
-| **Classes**       | Mago, Druida, Ranger, Bardo                                             |
-| **Traços**        | Imune a sono, Encantamento com palavras, Vulnerável a ferro frio         |
-| **Afinidade**     | Clareiras lunares, bosques antigos, lugares mágicos                      |
+| **Classes comuns** | Encantadores, Lutadores, Caçadores, Mágicos                                   |
+| **Classes raras** | Cavaleiros                                                              |
+| **Classes proibidas** | Clérigos, e Freis                                                            |
+| **Línguas nativas**  | Woldish, Sylvano, Alto Élfico         |
