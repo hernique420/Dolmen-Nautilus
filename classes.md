@@ -42,6 +42,7 @@ nav_order: 4
 | **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
 
 #### Perícias & Habilidades Especiais
+
 | | |
 | :--- | :--- |
 | **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
@@ -64,6 +65,7 @@ nav_order: 4
 | **Armas** | Pequenas e médias |
 
 #### Perícias & Habilidades Especiais
+
 | | |
 | :--- | :--- |
 | **Detectar Magia** | Pode detectar magia em objetos encantados, lugares, ou criaturas. |
@@ -85,6 +87,7 @@ nav_order: 4
 | **Armas** | Qualquer uma |
 
 #### Perícias & Habilidades Especiais
+
 | | |
 | :--- | :--- |
 | **Talentos de Combate** | No nível 2, 6, 10, e 14, escolhe um talento especial. |
@@ -103,6 +106,7 @@ nav_order: 4
 | **Armas** | Clava, adaga, água benta, óleo, funda, cajado, tocha |
 
 #### Perícias & Habilidades Especiais
+
 | | |
 | :--- | :--- |
 | **Armadura de Fé** | Bônus de AC baseado em nível. |
@@ -113,145 +117,85 @@ nav_order: 4
 | **Voto de Pobreza** | Posses limitadas ao que pode ser carregado. Excesso deve ser doado para causas nobres (não para outros jogadores). |
 | **Repelir Mortos-Vivos** | Pode tentar afastar mortos-vivos com seu símbolo sagrado. |
 
-## Clérigo
-*Guerreiros sagrados a serviço da Igreja Pluritina.*
+## Caçador
+*Rastreadores, perseguidores, e assassinos, em casa na floresta selvagem.*
 
 #### Atributos & Combate
 
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Atributo Principal** | Sabedoria |
-| **Aptidão em Combate** | Semimarcial |
-| **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
-| **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
+| **Atributo Principal** | Constituição e Destreza |
+| **Vida** | 1d8 por Nível, +2 após Nível 10. |
+| **Aptidão em Combate** | Marcial |
+| **Armaduras** | Leve, escudos |
+| **Armas** | Qualquer uma |
 
 #### Perícias & Habilidades Especiais
 | | |
 | :--- | :--- |
-| **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
-| **Magia Sagrada** | Conjura magias divinas (ver sistema de magia sagrada na p. 100 do DPB). |
-| **Ordem Sagrada** | No nível 2, o clérigo é iniciado em uma ordem sagrada. |
-| **Idiomas** | Fala Litúrgico, o idioma das escrituras da Igreja, além de seus idiomas nativos. |
-| **Repelir Mortos-Vivos** | Pode tentar afastar mortos-vivos com seu símbolo sagrado. |
+| **Companheiros Animais** | Pode formar um vínculo com um animal que se torna seu companheiro (limite de 1). |
+| **Habilidades especializadas** | Alerta, Econder-se, Rastrear. |
+| **Ataque à Distância** | +1 de bônus de ataque com armas à distância |
+| **Troféus** | Após uma caça, pode pegar um troféu para ganhar +1 permanente contra a criatura. |
+| **Orientação** | Tem uma chance de 3-em-6 de se reorientar quando o grupo se perde. |
 
-## Clérigo
-*Guerreiros sagrados a serviço da Igreja Pluritina.*
+## Cavaleiro
+*Guerreiros que servem a um nobre, cumprindo suas ordens e garantindo sua honra.*
 
 #### Atributos & Combate
 
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Atributo Principal** | Sabedoria |
-| **Aptidão em Combate** | Semimarcial |
-| **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
-| **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
+| **Atributo Principal** | Carisma e Força |
+| **Vida** | 1d8 por Nível, +2 após Nível 10. |
+| **Aptidão em Combate** | Marcial |
+| **Armaduras** | Médias, pesadas, e escudos |
+| **Armas** | Qualquer arma corpo-a-corpo |
 
 #### Perícias & Habilidades Especiais
 | | |
 | :--- | :--- |
-| **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
-| **Magia Sagrada** | Conjura magias divinas (ver sistema de magia sagrada na p. 100 do DPB). |
-| **Ordem Sagrada** | No nível 2, o clérigo é iniciado em uma ordem sagrada. |
-| **Idiomas** | Fala Litúrgico, o idioma das escrituras da Igreja, além de seus idiomas nativos. |
-| **Repelir Mortos-Vivos** | Pode tentar afastar mortos-vivos com seu símbolo sagrado. |
+| **Suseranos** | Serve a uma das casas nobres menores em Dolmenwood (à partir do nível 3; até lá, é um escudeiro errante). |
+| **Código de Cavaleiro** | Deve seguir um código estrito: honra, serviço, glória, proteger os fracos, e hierarquia. |
+| **Montaria** | Peritos em montar cavalos |
+| **Matador de Monstros** | +2 em ataques e dano contra criaturas Grandes (a partir do nível 5) |
+| **Força de Vontade** | +2 em Testes de Resistência contra magia de fadas e efeitos de medo. |
 
-## Clérigo
-*Guerreiros sagrados a serviço da Igreja Pluritina.*
+## Mágico
+*Connoisseurs de conhecimento arcano secreto que manipulam magia poderosa.*
 
 #### Atributos & Combate
 
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Atributo Principal** | Sabedoria |
-| **Aptidão em Combate** | Semimarcial |
-| **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
-| **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
+| **Atributo Principal** | Inteligência |
+| **Vida** | 1d4 por Nível, +1 após Nível 10 |
+| **Aptidão em Combate** | Não-marcial |
+| **Armaduras** | Nenhuma |
+| **Armas** | Adaga, água benta, óleo, cajado, tocha. |
 
 #### Perícias & Habilidades Especiais
 | | |
 | :--- | :--- |
-| **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
-| **Magia Sagrada** | Conjura magias divinas (ver sistema de magia sagrada na p. 100 do DPB). |
-| **Ordem Sagrada** | No nível 2, o clérigo é iniciado em uma ordem sagrada. |
-| **Idiomas** | Fala Litúrgico, o idioma das escrituras da Igreja, além de seus idiomas nativos. |
-| **Repelir Mortos-Vivos** | Pode tentar afastar mortos-vivos com seu símbolo sagrado. |
+| **Magia Arcana** | Conjura magias arcanas (ver p. 78). |
+| **Detectar Magia** | Pode detectar magia em objetos encantados, lugares, ou criaturas. |
+| **Livro de Feitiços Inicial** | Começa escolhendo um livro de feitiços contendo 3 feitiços de Ranque 1. |
 
-## Clérigo
-*Guerreiros sagrados a serviço da Igreja Pluritina.*
+## Ladino
+*Trapaceiros que vivem de habilidades de engano e furtividade.*
 
 #### Atributos & Combate
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Atributo Principal** | Sabedoria |
+| **Atributo Principal** | Destreza |
+| **Vida** | 1d4 por Nível, +1 após Nível 10 |
 | **Aptidão em Combate** | Semimarcial |
-| **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
-| **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
+| **Armaduras** | Leves, sem escudos |
+| **Armas** | Pequenas e médias |
 
 #### Perícias & Habilidades Especiais
 | | |
 | :--- | :--- |
-| **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
-| **Magia Sagrada** | Conjura magias divinas (ver sistema de magia sagrada na p. 100 do DPB). |
-| **Ordem Sagrada** | No nível 2, o clérigo é iniciado em uma ordem sagrada. |
-| **Idiomas** | Fala Litúrgico, o idioma das escrituras da Igreja, além de seus idiomas nativos. |
-| **Repelir Mortos-Vivos** | Pode tentar afastar mortos-vivos com seu símbolo sagrado. |
-
-## Clérigo
-*Guerreiros sagrados a serviço da Igreja Pluritina.*
-
-#### Atributos & Combate
-| | |
-| :---------------- | :----------------------------------------------------------------------- |
-| **Atributo Principal** | Sabedoria |
-| **Aptidão em Combate** | Semimarcial |
-| **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
-| **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
-
-#### Perícias & Habilidades Especiais
-| | |
-| :--- | :--- |
-| **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
-| **Magia Sagrada** | Conjura magias divinas (ver sistema de magia sagrada na p. 100 do DPB). |
-| **Ordem Sagrada** | No nível 2, o clérigo é iniciado em uma ordem sagrada. |
-| **Idiomas** | Fala Litúrgico, o idioma das escrituras da Igreja, além de seus idiomas nativos. |
-| **Repelir Mortos-Vivos** | Pode tentar afastar mortos-vivos com seu símbolo sagrado. |
-
-## Clérigo
-*Guerreiros sagrados a serviço da Igreja Pluritina.*
-
-#### Atributos & Combate
-| | |
-| :---------------- | :----------------------------------------------------------------------- |
-| **Atributo Principal** | Sabedoria |
-| **Aptidão em Combate** | Semimarcial |
-| **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
-| **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
-
-#### Perícias & Habilidades Especiais
-| | |
-| :--- | :--- |
-| **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
-| **Magia Sagrada** | Conjura magias divinas (ver sistema de magia sagrada na p. 100 do DPB). |
-| **Ordem Sagrada** | No nível 2, o clérigo é iniciado em uma ordem sagrada. |
-| **Idiomas** | Fala Litúrgico, o idioma das escrituras da Igreja, além de seus idiomas nativos. |
-| **Repelir Mortos-Vivos** | Pode tentar afastar mortos-vivos com seu símbolo sagrado. |
-
-## Clérigo
-*Guerreiros sagrados a serviço da Igreja Pluritina.*
-
-#### Atributos & Combate
-| | |
-| :---------------- | :----------------------------------------------------------------------- |
-| **Atributo Principal** | Sabedoria |
-| **Aptidão em Combate** | Semimarcial |
-| **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
-| **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
-
-#### Perícias & Habilidades Especiais
-| | |
-| :--- | :--- |
-| **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
-| **Magia Sagrada** | Conjura magias divinas (ver sistema de magia sagrada na p. 100 do DPB). |
-| **Ordem Sagrada** | No nível 2, o clérigo é iniciado em uma ordem sagrada. |
-| **Idiomas** | Fala Litúrgico, o idioma das escrituras da Igreja, além de seus idiomas nativos. |
-| **Repelir Mortos-Vivos** | Pode tentar afastar mortos-vivos com seu símbolo sagrado. |
+| **Golpe pelas Costas** | +4 de bônus de ataque e causa 2d4+4 ao atacar pelas costas com uma adaga. |
+| **Perícias** | Escalar paredes, decifrar documentos, desarmar mecanismos, prestidigitação, escutar, arrombar fechaduras, furtividade. |
+| **Canto dos Ladrões** | Além de sua língua nativa, ladinos podem aprender uma língua secreta de gestos e códigos que permitem esconder mensagens em conversas aparentemente normais. |
