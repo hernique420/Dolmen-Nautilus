@@ -7,7 +7,7 @@ nav_order: 3
 
 # Kins de Dolmenwood
 
-![Banner com todos os Kins](/assets/images/kins-banner.png)
+![Banner com todos os Kins](assets/images/kins-banner.jpg)
 
 ## Mossling
 
