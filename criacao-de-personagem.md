@@ -34,9 +34,9 @@ nav_order: 3
 ## Woodgrue
 *Goblins com face de morcegos conhecidos pelo seu amor da música, da folia, e do incêndio criminoso.*
 
-| Tipo: | *Mortais* |
+| Tipo: | *Demi-fey* |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Tipo** | Mortais                                                  |
+| **Tipo** | Demi-fey                                                  |
 | **Classes comuns** | Bardos, Mágicos, e Ladinos                                |
 | **Classes raras** | Clérigos, e Cavaleiros                                                         |
 | **Classes proibidas** | Encantadores                                                         |
@@ -58,7 +58,7 @@ nav_order: 3
 
 | Tipo: | *Fadas* |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Tipo** | Mortais                                                  |
+| **Tipo** | Fadas                                                  |
 | **Classes comuns** | Bardos, Encantadores, Caçadores, Ladinos                                   |
 | **Classes raras** | Cavaleiros                                                         |
 | **Classes proibidas** | Clérigos, e Freis                                                         |
@@ -69,7 +69,7 @@ nav_order: 3
 
 | Tipo: | *Fadas* |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Tipo** | Mortais                                                  |
+| **Tipo** | Fadas                                                  |
 | **Classes comuns** | Encantadores, Lutadores, Caçadores, Mágicos                                   |
 | **Classes raras** | Cavaleiros                                                              |
 | **Classes proibidas** | Clérigos, e Freis                                                            |
