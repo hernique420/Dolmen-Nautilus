@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Um portal para a campanha de RPG comunitária de Dolmenwood no Nautilus."
+description: "portalzin"
 ---
 
 # Guilda dos Aventureiros de Dolmenwood
