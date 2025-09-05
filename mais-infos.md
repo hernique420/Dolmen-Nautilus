@@ -28,10 +28,10 @@ Se você é um cavaleiro e quer explorar um calabouço cheio de esqueletos, talv
 Mas dito isso, existem poucas razões para passar seu tempo participando de um jogo esquisito como esse: **conhecer e passar tempo com pessoas novas** e **fazer algo divertido com pessoas que você já conhece**.
 
 Portanto:
-*   🎲 **Não se intimide com as regras.**
-*   🔬 **Não tenha medo de arriscar e experimentar.**
-*   💀 **Aceite a possibilidade da morte do seu personagem com graça.**
-*   🤝 **E nunca, nunca culpe ninguém pelo que acontecer com seu personagem em Dolmenwood, nem a si mesmo.** É, afinal de contas, um jogo de dados e a sorte pode ser caprichosa.
+*   🎲 - **Não se intimide com as regras.**
+*   🔬 - **Não tenha medo de arriscar e experimentar.**
+*   💀 - **Aceite a possibilidade da morte do seu personagem com graça.**
+*   🤝 - **E nunca, nunca culpe ninguém pelo que acontecer com seu personagem em Dolmenwood, nem a si mesmo.** É, afinal de contas, um jogo de dados e a sorte pode ser caprichosa.
 
 ## Próximos Passos na Guilda
 
