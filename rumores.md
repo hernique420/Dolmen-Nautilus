@@ -1,6 +1,6 @@
 ---
 layout: default
-title: rumores
+title: Rumores e Missões
 parent: Guilda & Companhias
 nav_order: 2
 ---
