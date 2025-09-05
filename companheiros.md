@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Companheiros
-parent: Extras
+parent: ⛺ Extras
 nav_order: 1
 ---
