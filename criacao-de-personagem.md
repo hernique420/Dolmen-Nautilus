@@ -12,7 +12,7 @@ nav_order: 3
 ## Mossling 
 *Humanoides amadeirados, retorcidos, dos quais a carne fértil hospeda musgos, mofos, e fungos.*
 
-| **Tipo**    | Mortais       |
+| Tipo:    | *Mortais*       |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Classes comuns**| Lutadores, e Caçadores                                                  |
 | **Classes raras** | Cavaleiros, Clérigos, e Freis                                           |
