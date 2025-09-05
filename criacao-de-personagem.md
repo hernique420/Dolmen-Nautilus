@@ -11,7 +11,6 @@ nav_order: 3
 
 ## Mossling
 
-| Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Humanoides amadeirados, retorcidos, dos quais a carne fértil hospeda musgos, mofos, e fungos. |
 | **Tipo**          | Mortais                                                                   |
@@ -22,7 +21,6 @@ nav_order: 3
 
 ## Breggle
 
-| Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Cabeças-de-bode, o tamanho de seus chifres indicam sua posição social. |
 | **Tipo**          | Mortais                                                                   |
@@ -33,7 +31,6 @@ nav_order: 3
 
 ## Woodgrue
 
-| Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Goblins com face de morcegos conhecidos pelo seu amor da música, da folia, e do incêndio criminoso. |
 | **Tipo**          | Mortais                                                                   |
@@ -44,7 +41,6 @@ nav_order: 3
 
 ## Humano
 
-| Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Pessoas do mundo cotidiano, em todas as variedades que conhecemos. |
 | **Tipo**          | Mortais                                                                   |
@@ -55,7 +51,6 @@ nav_order: 3
 
 ## Grimalkin
 
-| Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Fadas felinas mercuriais que mudam para três formas diferentes. |
 | **Tipo**          | Fadas                                                                |
@@ -66,7 +61,6 @@ nav_order: 3
 
 ## Elfo
 
-| Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Descrição**     | Fadas atemporais que cruzaram para o mundo mortal por razões que raramente revelam. |
 | **Tipo**          | Fadas                                                                  |
