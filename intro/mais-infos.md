@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Mais infos
-nav_order: 2
+parent: Intro
+nav_order: 1
 description: "Mais Informações"
 ---
 ![Breggles viajam pela montanha cheia de neve](https://images.squarespace-cdn.com/content/v1/55e4bbe1e4b0b7c5853c06e7/a902b370-ff54-4cf9-8866-eabeaf245bbb/Dolmenwood-Hazards_Original.jpg?format=1100w)
