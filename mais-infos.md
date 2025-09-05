@@ -19,7 +19,7 @@ Temos uma campanha **comunitária e dirigida pelos jogadores**. Isso significa q
 Nossas mesas **não têm horário fixo**. Cabe a **você**:
 1.  Montar um grupo.
 2.  Escolher um objetivo para a expedição (baseado nos [rumores](rumores.md) e nas informações compartilhadas entre jogadores).
-3.  [Agendar uma Expedição](missoes.md) em um dos horários disponíveis.
+3.  [Agendar uma Expedição](rumores.md) em um dos horários disponíveis.
 
 Se você é um cavaleiro e quer explorar um calabouço cheio de esqueletos, talvez seja bom chamar um clérigo. Mas um grupo de 2 bardos e 2 freis provavelmente não teriam problema numa simples pescaria. ...Certo? A liberdade (e a responsabilidade) de montar seu grupo é dos jogadores, e também de informar seus colegas para os perigos que sua expedição promete.
 
@@ -40,8 +40,11 @@ Esperamos que essa introdução tenha despertado sua curiosidade. Se você...
 *   ...está escutando o chamado da aventura, aqui estão os seus primeiros passos:
 
 ### 📖 Guia do Jogador
-1.  **[Leia as Regras da Casa](regras-da-casa.md)** - O essencial para jogar em nosso mundo compartilhado.
+
+[Acesse nosso Discord!](LINK). É lá onde nossos jogos acontecem, e você pode encontrar todas as informações atualizadas.
+
+1.  **[Leia o Guia do Jogador](guia-do-jogador.md)** - O essencial para jogar em nosso mundo compartilhado.
 2.  **[Crie seu Personagem](criacao-de-personagem.md)** - Use nosso guia passo a passo.
 3.  **[Se informe sobre o mundo](lore.md)** - Tudo que sabíamos sobre Dolmenwood quando chegamos aqui.
 4.  **[Consulte o Banco de Rumores](rumores.md)** - Para planejar sua próxima expedição.
-5.  **[Veja o Quadro de Expedições](missoes.md)** - Para marcar sua sessão.
+5.  **[Veja o Quadro de Expedições no nosso Discord](XXX LINK PARA O DISCORD XXX)** - Para marcar sua sessão.
