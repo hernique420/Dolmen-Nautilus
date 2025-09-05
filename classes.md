@@ -11,14 +11,12 @@ nav_order: 4
 *Músicos e poetas atraídos por uma vida de viagem e aventura.*
 
 <div class="tabela-bardo">
-
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributos Principais** | Carisma e Destreza |
 | **Aptidão em Combate** | Semimarcial |
 | **Armaduras** | Leves e médias (escudos não permitidos) |
 | **Armas** | Pequenas e médias |
-
 </div>
 
 | | |
@@ -30,12 +28,14 @@ nav_order: 4
 ## Clérigo
 *Guerreiros sagrados a serviço da Igreja Pluritina.*
 
+<div class="tabela-bardo">
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Sabedoria |
 | **Aptidão em Combate** | Semimarcial |
 | **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
 | **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
+</div>
 
 | | |
 | :--- | :--- |
