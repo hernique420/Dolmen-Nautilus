@@ -7,12 +7,11 @@ nav_order: 4
 
 # Classes
 
-## Mossling 
-*Humanoides amadeirados, retorcidos, dos quais a carne fértil hospeda musgos, mofos, e fungos.*
+## Bardo
+*Músicos e poetas atraídos por uma vida de viagem e aventura.*
 
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Descrição** | Músicos e poetas atraídos por uma vida de errância e aventura. |
 | **Atributos Principais** | Carisma e Destreza |
 | **Aptidão em Combate** | Semimarcial |
 | **Armaduras** | Leves e médias (escudos não permitidos) |
@@ -21,9 +20,11 @@ nav_order: 4
 | **Contra-encanto** | **Música Protetora:** Enquanto toca e canta, concede aliados próximos imunidade a efeitos mágicos sonoros e +2 em Salvaguarda contra magia de fadas. |
 | **Encantamento** | **Fascinar:** Através de sua música e canto, pode fascinar criaturas em uma área. |
 
+## Bardo
+*Guerreiros sagrados a serviço da Igreja Pluritina.*
+
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Descrição** | Guerreiros sagrados a serviço da Igreja Pluritina. |
 | **Atributo Principal** | Sabedoria |
 | **Aptidão em Combate** | Semimarcial |
 | **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
