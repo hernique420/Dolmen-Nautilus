@@ -23,11 +23,12 @@ nav_order: 3
 
 | Categoria         | Detalhes                                                                 |
 | :---------------- | :----------------------------------------------------------------------- |
-| **Descrição**     | Um povo pequeno e robusto, conhecido por sua teimosia e conexão com a terra. |
+| **Descrição**     | Cabeças-de-bode, o tamanho de seus chifres indicam sua posição social. |
 | **Tipo**          | Mortais                                                                   |
-| **Classes**       | Clérigo, Lutador, Mago, Ranger                                          |
-| **Traços**        | +2 em testes de resistência, Cansee em infravermelho, Teimoso           |
-| **Afinidade**     | Montanhas, colinas, minas                                               |
+| **Classes comuns** | Guerreiros, Cavaleiros, ou Mágicos                                   |
+| **Classes raras** | Clérigos e Freis                                                         |
+| **Classes proibidas** | Encantador                                                         |
+| **Línguas nativas** | Woldish, Gaffe, Caprice                                               |
 
 ## Woodgrue
 
