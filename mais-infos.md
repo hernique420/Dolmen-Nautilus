@@ -35,9 +35,10 @@ Portanto:
 
 ## Próximos Passos na Guilda
 
-Esperamos que essa introdução tenha despertado sua curiosidade. Se você...
-*   ...ainda não se sente pronto para se jogar na aventura, você pode participar criando um **[Companheiro](companheiros.md)** que pode ser contratado pelos jogadores, ou disputar no **[Conselho](conselho.md)** para decidir como aplicar os fundos do Banco Comum. Mas se você...
-*   ...está escutando o chamado da aventura, aqui estão os seus primeiros passos:
+Esperamos que essa introdução tenha despertado sua curiosidade. 
+
+*  Se você ainda não se sente pronto, você pode participar criando um **[Companheiro](companheiros.md)** que pode ser contratado pelos jogadores, ou disputar no **[Conselho](conselho.md)** para decidir como aplicar os fundos do Banco Comum. 
+*  Mas se você está seguindo o chamado da aventura, aqui estão os seus primeiros passos:
 
 ### 📖 Guia do Jogador
 
