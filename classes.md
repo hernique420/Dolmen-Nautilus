@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Criação de Personagem
+title: Classes
 parent: 🧭 Guia do Jogador
 nav_order: 4
 ---
