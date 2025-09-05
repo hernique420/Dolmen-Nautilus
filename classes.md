@@ -10,7 +10,7 @@ nav_order: 4
 ## Bardo
 *Músicos e poetas atraídos por uma vida de viagem e aventura.*
 
-###### Bardo Table
+### Atributos & Combate
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributos Principais** | Carisma e Destreza |
@@ -18,6 +18,7 @@ nav_order: 4
 | **Armaduras** | Leves e médias (escudos não permitidos) |
 | **Armas** | Pequenas e médias |
 
+### Perícias & Habilidades Especiais
 | | |
 | :--- | :--- |
 | **Perícias** | Decifrar Documento, Prestidigitação, Conhecimento sobre Monstros |
@@ -27,15 +28,15 @@ nav_order: 4
 ## Clérigo
 *Guerreiros sagrados a serviço da Igreja Pluritina.*
 
-<div class="tabela-bardo">
+### Atributos & Combate
 | | |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Sabedoria |
 | **Aptidão em Combate** | Semimarcial |
 | **Armaduras** | Qualquer, incluindo escudos (exceto armaduras de magia arcana ou feérica) |
 | **Armas** | Qualquer (exceto armas de magia arcana ou feérica) |
-</div>
 
+### Perícias & Habilidades Especiais
 | | |
 | :--- | :--- |
 | **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
