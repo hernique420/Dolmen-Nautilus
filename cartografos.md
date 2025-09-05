@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Cartógrafos
-parent: Guilda & Companhias
+parent: "🏰 Guilda & Companhias"
 nav_order: 3
 ---
