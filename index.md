@@ -26,7 +26,7 @@ Normalmente, um RPG envolve um grupo fixo de 4 ou 5 pessoas que se reúnem seman
 
 ### Como Funciona Nossa Campanha Aberta?
 
-Temos uma campanha **comunitária e dirigida pelos jogadores**. Isso significa que dezenas de jogadores estão participando de um mesmo mundo compartilhado, onde as ações de um grupo podem repercutir e afetar todos os outros.
+Temos uma campanha **comunitária e dirigida pelos jogadores**. Isso significa que dezenas de jogadores estão participando de um mesmo mundo **compartilhado e consistente**, onde as ações de um grupo podem repercutir e afetar todos os outros, e onde toda informação importante deve ser registrada e compartilhada pelos jogadores.
 
 *   🏹 Uma confusão na cidade vizinha pode deixar toda a guilda mal falada naquela região.
 *   🧭 A descoberta de um novo local, assim como um mapa e guia para evitar seus perigos, beneficia toda a comunidade.
@@ -37,11 +37,11 @@ Nossas mesas **não têm horário fixo**. Cabe a **você**:
 2.  Escolher um objetivo para a expedição (baseado nos [rumores](rumores.md) e nas informações compartilhadas entre jogadores).
 3.  Agendar uma sessão em um dos horários disponíveis.
 
-Se você é um cavaleiro e quer explorar um calabouço cheio de esqueletos, talvez seja bom chamar um clérigo. Mas um grupo de 2 bardos e 2 freis provavelmente não teriam problema numa simples pescaria. Certo? A liberdade (e a responsabilidade) de montar seu grupo é dos jogadores, e também de informar seu grupo para os perigos que sua expedição promete.
+Se você é um cavaleiro e quer explorar um calabouço cheio de esqueletos, talvez seja bom chamar um clérigo. Mas um grupo de 2 bardos e 2 freis provavelmente não teriam problema numa simples pescaria. ...Certo? A liberdade (e a responsabilidade) de montar seu grupo é dos jogadores, e também de informar seu grupo para os perigos que sua expedição promete.
 
 ## O Espírito do Jogo
 
-Existem poucas razões para passar seu tempo participando de um jogo esquisito como esse: **conhecer e passar tempo com pessoas novas** e **fazer algo divertido com pessoas que você já conhece**.
+Mas dito isso, existem poucas razões para passar seu tempo participando de um jogo esquisito como esse: **conhecer e passar tempo com pessoas novas** e **fazer algo divertido com pessoas que você já conhece**.
 
 Portanto:
 *   🎲 **Não se intimide com as regras.**
@@ -52,7 +52,7 @@ Portanto:
 ## Próximos Passos na Guilda
 
 Esperamos que esta introdução tenha despertado sua curiosidade. Se você...
-*   ...ainda não se sente pronto para se jogar na aventura, você pode participar criando um **[Colega](colegoes.md)** para ser contratado pelos jogadores, ou disputar no **[Conselho](conselho.md)** para decidir como aplicar os fundos do Banco Comum.
+*   ...ainda não se sente pronto para se jogar na aventura, você pode participar criando um **[Companheiro](companheiro.md)** que pode ser contratado pelos jogadores, ou disputar no **[Conselho](conselho.md)** para decidir como aplicar os fundos do Banco Comum. Mas se você...
 *   ...está escutando o chamado da aventura, aqui estão os seus primeiros passos:
 
 ### 📖 Guia do Jogador
@@ -60,4 +60,4 @@ Esperamos que esta introdução tenha despertado sua curiosidade. Se você...
 2.  **[Crie seu Personagem](criacao-de-personagem.md)** - Use nosso guia passo a passo.
 3.  **[Se informe sobre o mundo](lore.md)** - Tudo que sabíamos sobre Dolmenwood quando chegamos aqui.
 4.  **[Consulte o Banco de Rumores](rumores.md)** - Para planejar sua próxima expedição.
-5.  **[Veja a Agenda](agenda.md)** - Para marcar sua sessão.
+5.  **[Veja o Quadro de Expedições](missoes.md)** - Para marcar sua sessão.
