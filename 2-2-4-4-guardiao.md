@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guardião
+title: Guardiões
 parent: Cargos dos Aventureiros
 nav_order: 4
 ---
