@@ -34,7 +34,7 @@ Em outras palavras, o rótulo OSR implica, entre outras coisas, que
 
 ---
 
-![O Lutador lutando contra uma serpente](https://images.squarespace-cdn.com/content/55e4bbe1e4b0b7c5853c06e7/e6f705f2-b8e2-4be6-8a63-d2ad1fee6acc/Dolmenwood-Fighter_Original.jpg?format=1500w&content-type=image%2Fjpeg)
+![O Lutador lutando contra uma serpente](https://images.squarespace-cdn.com/content/55e4bbe1e4b0b7c5853c06e7/e6f705f2-b8e2-4be6-8a63-d2ad1fee6acc/Dolmenwood-Fighter_Original.jpg?format=1500w&content-type=image%2Fjpeg){width=250}
 *Ilustração oficial de Dolmenwood por Elliot Lang*
 
 ### ⚙️ Mais detalhes sobre OSR
