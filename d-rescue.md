@@ -1,6 +1,6 @@
 ---
 layout: default
-title: rescue
+title: Rescue
 parent: Downtime
 nav_order: 1
 ---
