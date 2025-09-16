@@ -6,6 +6,9 @@ nav_order: 2
 description: "Uma introdução de OSR e Hexcrawls"
 ---
 
+![Breggles viajam pela montanha cheia de neve](https://necroticgnome.com/cdn/shop/products/ClassicFantasyReferee_sScreen-DeluxeEditionThreePanel-Outside.png?v=1588090769&width=1946)
+*Ilustração oficial de Old School Essentials por Peter Mullen*
+
 **Dolmenwood**, criado por Gavin Norman, é um jogo que se inspira nas edições antigas de Dungeons & Dragons -- o que significa que ele se situa em uma tradição de RPG chamada de **OSR (Old School Revival, ou Old School Renaissance)**
 
 Se você quer se aprofundar, eu recomendo o seminal [Principia Apocrypha](https://amarcelo.itch.io/principia-apochrypha-em-portugus) (tradução para o brasileiro por Tony Garcia), mas eu vou tentar resumir.
