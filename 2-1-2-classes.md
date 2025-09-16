@@ -4,8 +4,9 @@ title: Classes
 parent: Criação de Personagem
 nav_order: 2
 ---
+# Classes  
+
 ![Banner com vários woodgrues de diferentes classes](assets/images/ending-list.jpg)
-# Classes
 
 ## Bardo
 *Músicos e poetas atraídos por uma vida de viagem e aventura.*
