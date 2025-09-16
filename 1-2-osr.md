@@ -62,7 +62,7 @@ Este é um jogo que foca bastante nas amplas possibilidades e longas travessias 
 
 Ficar sem comida talvez force uma **aliança indesejada**, ou necessite uma **caça arriscada**; levar mais tempo no caminho de casa também significa o risco de **mais encontros** (nem todos hostis, mas ninguém quer pagar pra ver); acampar **sem o equipamento adequado** e dormir no sereno pode não ser ideal se o plano é explorar **aquela ruína assombrada** amanhã.
 
-É um pequeno preço que pagamos para jogar em um mundo responsivo, onde as decisões dos jogadores são relevantes, e para que a sobrevivência dos jogadores e o sucesso de cada expedição estejam em suas próprias mãos - e não sob o controle incondicional do árbitro.
+É um pequeno preço que pagamos para jogar em um mundo responsivo, onde as decisões dos jogadores são relevantes, e para que a sobrevivência dos jogadores e o sucesso de cada expedição estejam em suas próprias mãos -- e não sob o controle incondicional do árbitro.
 
 Se no início é necessário contar a quantidade de tochas, isso também significa que mais tarde os jogadores podem usar o seu tempo e dinheiro suado para 
 
