@@ -49,8 +49,6 @@ Da parte dos jogadores, de que o árbitro será justo e representará o mundo de
 
 Da parte do árbitro, de que os jogadores se envolverão com o mundo em boa fé, e usarão sua criatividade dentro da ficção e da lógica interna do mundo (play the world, not the rules)
 
-Tendo em mente essas duas coisas, nada pode dar errado. Mas se você quer saber mais...
-
 ---
 
 ![Caravana por Jason Bradley Thompson](assets/images/jason-bradley-thompson.jpg)
