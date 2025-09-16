@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ⛺ Extras
+title: 📚 O que sabemos até agora
 has_children: true
 nav_order: 4
 ---
