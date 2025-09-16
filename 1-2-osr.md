@@ -12,7 +12,7 @@ Se você quer se aprofundar, eu recomendo o seminal [Principia Apocrypha](https:
 
 Primeiro, uma lista por **Ben Milton** de elementos que conjuram o OSR: 
 
-> "Alta letalidade, um mundo aberto, uma falta de um roteiro pré-escrito, ênfase na resolução criativa de problemas, um sistema de recompensa centrado na exploração (geralmente XP por tesouro), uma desconsideração pelo “equilíbrio do encontro” [ou nivelamento], e o uso de tabelas aleatórias para gerar elementos do mundo que surpreendem tanto jogadores e Mestres. Além disso, uma forte ênfase no “faça você mesmo” e uma vontade de compartilhar seu trabalho e usar a criatividade de outras pessoas em seus jogos"
+> _"Alta letalidade, um mundo aberto, uma falta de um roteiro pré-escrito, ênfase na resolução criativa de problemas, um sistema de recompensa centrado na exploração (geralmente XP por tesouro), uma desconsideração pelo “equilíbrio do encontro” [ou nivelamento], e o uso de tabelas aleatórias para gerar elementos do mundo que surpreendem tanto jogadores e Mestres. Além disso, uma forte ênfase no “faça você mesmo” e uma vontade de compartilhar seu trabalho e usar a criatividade de outras pessoas em seus jogos"_
 
 Nada disso por si só explica a "filosofia" ou o "espírito" de jogos OSR, mas a combinação desses elementos costuma invocar um tipo de experiência que pode pegar desprevenido quem está acostumado com um sistema mais moderno e robusto como **D&D 5e**, ou quem espera uma maior flexibilidade narrativa como nos sistemas **PbtA**.
 
