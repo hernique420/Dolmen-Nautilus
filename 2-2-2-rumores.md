@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rumores e Missões
+title: Rumores e missões
 parent: Aventura!
 nav_order: 2
 ---
