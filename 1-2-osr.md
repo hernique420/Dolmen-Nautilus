@@ -6,7 +6,7 @@ nav_order: 2
 description: "Uma introdução de OSR e Hexcrawls"
 ---
 
-![Breggles viajam pela montanha cheia de neve](https://necroticgnome.com/cdn/shop/products/ClassicFantasyReferee_sScreen-DeluxeEditionThreePanel-Outside.png?v=1588090769&width=1946)
+![Ilustração da tela do árbitro de Old School Essentials](https://necroticgnome.com/cdn/shop/products/ClassicFantasyReferee_sScreen-DeluxeEditionThreePanel-Outside.png?v=1588090769&width=1946)
 *Ilustração oficial de Old School Essentials por Peter Mullen*
 
 **Dolmenwood**, criado por Gavin Norman, é um jogo que se inspira nas edições antigas de Dungeons & Dragons -- o que significa que ele se situa em uma tradição de RPG chamada de **OSR (Old School Revival, ou Old School Renaissance)**
@@ -33,6 +33,9 @@ Em outras palavras, o rótulo OSR implica, entre outras coisas, que
 "Comprar" essa filosofia de jogo não é necessária, e se ainda soa meio confuso não se preocupe, esse entendimento se constrói na mesa. Mas também é útil manter alguns princípios em mente, para que todos que venham jogar estejam com as expectativas mais ou menos alinhadas, pra que possamos aproveitar a experiência da melhor forma.
 
 ---
+
+![O Lutador lutando contra uma serpente](https://images.squarespace-cdn.com/content/55e4bbe1e4b0b7c5853c06e7/e6f705f2-b8e2-4be6-8a63-d2ad1fee6acc/Dolmenwood-Fighter_Original.jpg?format=1500w&content-type=image%2Fjpeg)
+*Ilustração oficial de Dolmenwood por Elliot Lang*
 
 ### ⚙️ Mais detalhes sobre OSR
 
