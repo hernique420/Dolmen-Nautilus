@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Como marcar uma sessão
+title: Como Marcar uma Sessão
 parent: Aventura!
 nav_order: 1
 ---
