@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mais infos
+title: O que é West Marches?
 parent: 🕯️ Intro
 nav_order: 1
 description: "Mais Informações"
