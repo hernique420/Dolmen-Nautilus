@@ -4,7 +4,7 @@ title: Classes
 parent: Criação de Personagem
 nav_order: 2
 ---
-# Classes  
+# Classes
 
 ![Banner com vários woodgrues de diferentes classes](assets/images/ending-list.jpg)
 
