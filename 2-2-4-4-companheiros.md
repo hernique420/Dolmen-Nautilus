@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Companheiros
-parent: ⛺ Extras
+parent: Cargos dos Aventureiros
 nav_order: 1
 ---
