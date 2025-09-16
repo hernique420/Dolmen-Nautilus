@@ -25,8 +25,7 @@ Em outras palavras, o rótulo OSR implica, entre outras coisas, que
 
 ## ❓ Você precisa entender alguma coisa do que eu estou falando pra jogar Dolmenwood?
 
-## ❌ É claro que não.
-
+## ❌ É claro que não.  
 
 "Comprar" essa filosofia de jogo não é necessária, e se ainda soa meio confuso não se preocupe, esse entendimento se constrói na mesa. Mas também é útil manter alguns princípios em mente, para que todos que venham jogar estejam com as expectativas mais ou menos alinhadas, pra que possamos aproveitar a experiência da melhor forma.
 
