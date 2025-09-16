@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cartógrafos
-parent: 🏰 Guilda & Companhias
+parent: Cargos dos Aventureiros
 nav_order: 2
 ---
 
