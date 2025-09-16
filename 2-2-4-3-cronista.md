@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Historiadores
+title: Cronista
 parent: Cargos dos Aventureiros
 nav_order: 3
 ---
