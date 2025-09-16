@@ -87,3 +87,4 @@ E essa recompensa talvez pareça mais valiosa, quando você lembrar que seu pers
 + Principia Apocrypha
 + Quick Primer
 + 6 Axioms of OSR
++ What is the OSR style (video)
