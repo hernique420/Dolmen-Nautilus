@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Caçadores de Monstros
+title: Guardião
 parent: Cargos dos Aventureiros
 nav_order: 4
 ---
