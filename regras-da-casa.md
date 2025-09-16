@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Regras da Casa
+title: Criação de Personagem
 parent: 🧭 Guia do Jogador
-nav_order: 2 # Controls order within the category
+nav_order: 1
 ---
