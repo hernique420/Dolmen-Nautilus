@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Como marcar uma sessão
-parent: Guilda & Companhias
+parent: Aventura!
 nav_order: 1
 ---
