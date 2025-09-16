@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Historiadores
-parent: 🏰 Guilda & Companhias
+parent: Cargos dos Aventureiros
 nav_order: 3
 ---
