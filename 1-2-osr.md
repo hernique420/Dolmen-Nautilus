@@ -75,7 +75,7 @@ E essa recompensa talvez pareça mais valiosa, quando você lembrar que seu pers
 
 ---
 
-📚 Mais alguns recursos sobre OSR e afins:
+### 📚 Mais alguns recursos sobre OSR e afins:
 
 + Principia Apocrypha
 + Quick Primer
