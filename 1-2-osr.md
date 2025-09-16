@@ -21,7 +21,7 @@ Em outras palavras, o rótulo OSR implica, entre outras coisas, que
 + "Esse é um jogo sobre interagir com o mundo ficcional **como se fosse um lugar que de fato existe**"
 + "Matar coisas **não é o objetivo**"
 + "**Você** joga como o seu personagem, e não como o roteirista do seu personagem"
-+ entre outras máximas e axiomas (e você vai perceber que é uma galera que gosta muito dos seus axiomas)
++ ...entre outras máximas e axiomas (e você vai perceber que é uma galera que gosta muito dos seus axiomas)
 
 ## ❓ Você precisa entender alguma coisa do que eu estou falando pra jogar Dolmenwood?
 
