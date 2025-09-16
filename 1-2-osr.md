@@ -18,9 +18,9 @@ Nada disso por si só explica a "filosofia" ou o "espírito" de jogos OSR, mas a
 
 Em outras palavras, o rótulo OSR implica, entre outras coisas, que 
 
-+ "esse é um jogo sobre interagir com o mundo ficcional como se fosse um lugar que de fato existe"
-+ "matar coisas não é o objetivo"
-+ "você joga como o seu personagem, e não como o roteirista do seu personagem"
++ "Esse é um jogo sobre interagir com o mundo ficcional **como se fosse um lugar que de fato existe**"
++ "Matar coisas **não é o objetivo**"
++ "**Você** joga como o seu personagem, e não como o roteirista do seu personagem"
 + entre outras máximas e axiomas (e você vai perceber que é uma galera que gosta muito dos seus axiomas)
 
 ## ❓ Você precisa entender alguma coisa do que eu estou falando pra jogar Dolmenwood?
