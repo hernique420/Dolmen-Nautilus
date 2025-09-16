@@ -33,7 +33,7 @@ Em outras palavras, o rótulo OSR implica, entre outras coisas, que
 "Comprar" essa filosofia de jogo não é necessária, e se ainda soa meio confuso não se preocupe, esse entendimento se constrói na mesa. Mas também é útil manter alguns princípios em mente, para que todos que venham jogar estejam com as expectativas mais ou menos alinhadas, pra que possamos aproveitar a experiência da melhor forma.
 
 ---
-<img src="https://images.squarespace-cdn.com/content/55e4bbe1e4b0b7c5853c06e7/e6f705f2-b8e2-4be6-8a63-d2ad1fee6acc/Dolmenwood-Fighter_Original.jpg?format=1500w&content-type=image%2Fjpeg" align="left" width="750">
+<img src="https://images.squarespace-cdn.com/content/55e4bbe1e4b0b7c5853c06e7/e6f705f2-b8e2-4be6-8a63-d2ad1fee6acc/Dolmenwood-Fighter_Original.jpg?format=1500w&content-type=image%2Fjpeg" align="center" width="750">
 
 ![O Lutador lutando contra uma serpente](https://images.squarespace-cdn.com/content/55e4bbe1e4b0b7c5853c06e7/e6f705f2-b8e2-4be6-8a63-d2ad1fee6acc/Dolmenwood-Fighter_Original.jpg?format=1500w&content-type=image%2Fjpeg)
 *Ilustração oficial de Dolmenwood por Elliot Lang*
