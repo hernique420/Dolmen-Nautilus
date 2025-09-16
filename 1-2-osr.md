@@ -53,6 +53,9 @@ Tendo em mente essas duas coisas, nada pode dar errado. Mas se você quer saber 
 
 ---
 
+![Caravana por Jason Bradley Thompson](assets/images/jason-bradley-thompson.jpg)
+*Ilustração oficial de Dreamland RPG por Jason Bradley Thompson*
+
 ### 🗺️ Mais alguns detalhes sobre RPGs focados na exploração
 
 Este é um jogo que foca bastante nas amplas possibilidades e longas travessias pelas florestas de Dolmenwood. Isso significa que você irá se preocupar com uma série de coisas que 
