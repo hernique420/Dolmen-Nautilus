@@ -22,10 +22,10 @@ O aventureiro pode invocar uma instituição relevante para ganhar um modificado
 
 O tamanho do dado e o multiplicador é definido pelo tamanho da cidade onde o aventureiro quer fazer a ação.
 
-x *Vilarejo* -- 1d6 x 250
-x *Cidade pequena* -- 1d8 x 500
-x *Cidade média* -- 1d10 x 700
-x *Cidade grande* -- 1d12 x 1.000
++ *Vilarejo* -- 1d6 x 250
++ *Cidade pequena* -- 1d8 x 500
++ *Cidade média* -- 1d10 x 700
++ *Cidade grande* -- 1d12 x 1.000
 
 Se o resultado da rolagem indica que o aventureiro gastou mais dinheiro do que possui, eles contraem uma dívida com um agiota pela diferença, e devem fazer um Teste do maior atributo da categoria que escolheram. Se o aventureiro falhar no teste, rode um 1d20 para descobrir o que aconteceu.
 
