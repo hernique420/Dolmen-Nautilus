@@ -9,7 +9,7 @@ nav_order: 1
 
 Aventureiros podem querer o serviço de indvíduos ou grupos especializados em diferentes campos. Os mais comuns estão listados aqui, mas o árbitro pode detalhar outros conforme necessário.
 
-Serviços básicos estão prontamente disponíveis na cidade (listados aqui), e não necessitam um turno de Downtime para serem contratados. Esta página serve para manter uma lista completa dos potenciais serviços disponíveis, e seus custos, mas caso o aventureiro ou a guilda não conheça nenhum especialista do tipo procurado, você pode gastar uma turno de Downtime para localizar um especialista, com 1-em-6 chance mínima de falha.
+Serviços que estão prontamente disponíveis (alguns também listados aqui) não necessitam um turno de Downtime para serem contratados. Esta página serve para manter uma lista completa dos potenciais serviços disponíveis, e seus custos, mas caso o aventureiro ou a guilda não conheça nenhum especialista do tipo procurado, você pode gastar uma turno de Downtime para localizar um especialista, com 1-em-6 chance mínima de falha.
 
 ## Alquimista
 - *Disponibilidade: Cidades Grandes*
@@ -82,8 +82,45 @@ Grupos de soldados de aluguel que lutarão em campanhas militares. Mercenários 
 | **Aventura** | Companhias de mercenários se recusam a entrar em calabouços ou participar no dia-a-dia de aventureiros sem um objetivo militar. |
 | **Kin** | A maioria dos mercenários são humanos, mas companhias às vezes incluem Breggles e outros Kins. |
 
-## Pack Handler
-## Rower
-## Sage
-## Sailor
-## Spell-Caster
+## Carroceiros
+- _Disponibilidade_: Qualquer cidade ou vilarejo_
+- _Comissão_: 2s por dia
+
+Condutores e almocreves semi-habilidosos que são úteis quando os personagens precisam lidar com montarias, carregar e descarregar equipamentos, pilotar veículos terrestres, montar ou vigiar acampamentos, e assim por diante.
+
+**Perigo**: Carroceiros absolutamente se recusam a entrar em regiões perigosas.
+
+## Remador
+- _Disponibilidade_: Qualquer cidade ou vilarejo
+- _Comissão_: 2s por dia
+
+Trabalhadores não qualificados contratados para remar embarcações.
+
+## Sábio
+- _Disponibilidade_: Cidades grandes_
+- _Comissão_: Por trabalho, abaixo_
+
+Indivíduos raros que devotaram sua vida ao estúdio de um único, muitas vezes obscuro, campo de conhecimento. Alguns exemplos de especializações: astronomia, demônios, fadas, gemas, ervas, histórias, wyrms
+
+| | |
+| :--- | :--- |
+| Traduzir texto | Um sábio pode traduzir qualquer língua associada a sua especialidade, custando 100g por inscrição ou por página de texto
+| Lore básico / identificação de item | Um sábio pode identificar items e responder perguntas básicas relacionadas a sua especialidade, custando 200g por consulta |
+| Lore detalhado | Perguntas mais obscuras podem levar um período de pesquisa dedicada, que pode durar um mês ou mais. Sábios tipicamente cobram 2000g por mês de pesquisa dedicada. Existe uma chance de 5% de que a pesquisa resulte em um resultado falso ou enganoso |
+
+## Marinheiro
+- _Disponibilidade_: Qualquer povoado ribeirinho_
+- _Comissão_: 10g por mês_
+
+Treinados no manuseio de veleiros e outras embarcações grandes. Marinheiros geralmente estão equipados com espadas pequenas, escudos, e armadura de couro.
+
+## Feiticeiro
+- _Disponibilidade_: Cidades grandes_
+- _Comissão_: Por magia, ver abaixo_
+
+Indivíduos raros dispostos a lançar magias arcanas, runas, ou magias sagradas em troca de pagamento.
+
+| | |
+| :--- | :--- |
+| **Feitiçaria** | O custo é determinado pelo NPC, que pode pedir que uma missão adicional seja completada além do pagamento monetário. O Árbitro pode usar os custos a seguir, baseado no Ranque da magia, como guia: 1: 100g, 2: 250g, 3: 500g, 4: 1000g, 5: 2500g, 6: 5000g. Feitiços para fins ilegais ou moralmente dúbios podem custar o dobro ou mais |
+| **Runas** | Trate runas menores como magias de Ranque 1, runas maiores como Ranque 4, e runas poderosas como Ranque 6 |
