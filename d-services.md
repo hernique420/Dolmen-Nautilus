@@ -82,7 +82,7 @@ Grupos de soldados de aluguel que lutarão em campanhas militares. Mercenários 
 | **Aventura** | Companhias de mercenários se recusam a entrar em calabouços ou participar no dia-a-dia de aventureiros sem um objetivo militar. |
 | **Kin** | A maioria dos mercenários são humanos, mas companhias às vezes incluem Breggles e outros Kins. |
 
-## Carroceiros
+## Carroceiro
 - _Disponibilidade: Qualquer cidade ou vilarejo_
 - _Comissão: 2s por dia_
 
