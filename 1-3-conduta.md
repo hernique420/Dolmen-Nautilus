@@ -6,6 +6,8 @@ nav_order: 3
 description: "código de conduta"
 ---
 
+<img width="740" height="375" alt="image" src="https://github.com/user-attachments/assets/ebf17e16-51a7-42a6-8c53-ec18760b90c5" />
+
 # Nosso Código de Conduta
 
 É nossa prioridade que esse seja uma experiêncioa livre de assédio para todos, independente de raça, gênero e identidade de gênero, orientação sexual, aparência física, idade, deficiência, relegião ou falta dela. Não toleraremos qualquer tipo de assédio dos participantes nesse espaço. Participantes que violarem essas regras podem ser temporariamente ou permanentemente expulsos sob nosso critério.
