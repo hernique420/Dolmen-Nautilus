@@ -44,7 +44,7 @@ Um construtor e engenheiro competente que pode liderar projetos, arquitetar a es
 | :--- | :--- |
 | **Permissão** | A não ser que esteja construindo nos ermos selvagens, é necessário a permissão do dono das terras (tipicamente uma casa nobre)
 | **Duração** | 1 semana por cada 500g do custo de construção, pelo mínimo de 1 mês
-| **Construindo em cidades** | Ao redor de cidades, os custos de construção são cortados na metade pela proximidade de recursos e trabalhadores
+| **Na Cidade** | Ao redor de cidades, os custos de construção são cortados na metade pela proximidade de recursos e trabalhadores
 
 | | |
 | :--- | :--- |
