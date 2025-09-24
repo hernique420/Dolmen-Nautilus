@@ -12,8 +12,8 @@ Aventureiros podem querer o serviço de indvíduos ou grupos especializados em d
 Serviços básicos estão prontamente disponíveis na cidade (listados aqui), e não necessitam um turno de Downtime para serem contratados. Esta página serve para manter uma lista completa dos potenciais serviços disponíveis, e seus custos, mas caso o aventureiro ou a guilda não conheça nenhum especialista do tipo procurado, você pode gastar uma turno de Downtime para localizar um especialista, com 1-em-6 chance mínima de falha.
 
 ## Alquimista
-*Disponibilidade: Cidades Grandes*
-*Comissão: por trabalho, abaixo*
+- *Disponibilidade: Cidades Grandes*
+- *Comissão: por trabalho, abaixo*
 
 Mestres das artes ocultas da purificação, mistura, e transmutação de substâncias para efeitos mágicos e espirituais.
 
