@@ -55,9 +55,21 @@ Especialistas nas trilhas e nos caminhos de Dolmenwood, cada guia é autoridade 
 **Orientação:** se o Árbitro determinar que o grupo se perdeu, existe 4-em-6 chances de que o guia seja capaz de encontrar o caminho novamente.\
 **Perigo:** guias podem às vezes entrar em regiões perigosas, mas cobram o dobro (10g por dia).
 
-
-
 ## Mercenário
+- _Disponibilidade: Cidades pequenas, médias, e grandes_
+- Comissão: 5g por mês / cavalaria 20g por mês / tenente 25g por mês / captão 150g por mês
+
+Grupos de soldados de aluguel que lutarão em campanhas militares. Mercenários são contratados como uma companhia, liderados por um capitão, com um número variável de tropas (tipicamente pelo menos 20) equipados com diferentes armas.
+
+**Capitão:** soldados e estrategistas experientes que lideram uma companhia de mercenários. Uma companhia não pode ser contrata sem seu capitão.\
+**Tenente:** veteranos que comandam um pequeno time de soldados dentro de uma companhia. É necessário um tenente para cada 10 mercenários.\
+**Cavalaria:** soldados fortemente blindados montados em cavalos de guerra.\
+**Mercenários:** infantaria, alguns podem ser especialistas em arcos ou bestas.\
+**Equipamento:** mercernários são equipados com seus próprios equipamentos básicos. O contratante pode adquirir equipamento adicional para eles se desejar.\
+**Guerra:** durante tempos de guerra, todos os mercenários pedem o dobro do preço comum.\
+**Aventura:** companhias de mercenários se recusam a entrar em calabouços ou participar no dia-a-dia de aventureiros sem um objetivo militar.\
+**Kin:** a maioria dos mercenários são humanos, mas companhias às vezes incluem Breggles e outros Kins.
+
 ## Pack Handler
 ## Rower
 ## Sage
