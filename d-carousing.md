@@ -33,6 +33,6 @@ Se o resultado da rolagem indica que o aventureiro gastou mais dinheiro do que p
 
 Enquanto tiver uma dívida, a ação **Farra & Filantropia** não pode ser utilizada. A dívida dobra a cada 30 dias, e como agiotas são geralmente sórdidos e inescrupulosos, podem haver ramificações por dívidas não pagas.
 
-### Rumores
+## Chance de Rumor
 
 Após a resolução, o aventureiro roda ***1d6*** para descobrir se ouviu algum rumor interessante durante a ação. Em um 5 ou 6, um novo rumor é descoberto.
