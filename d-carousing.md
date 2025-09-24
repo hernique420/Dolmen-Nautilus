@@ -29,10 +29,10 @@ O tamanho do dado e o multiplicador (em peças de ouro) é definido pelo tamanho
 + *Cidade média* -- 1d10 x 600
 + *Cidade grande* -- 1d12 x 800
 
-Se o resultado da rolagem indica que o aventureiro gastou mais dinheiro do que possui, ele contrai uma dívida com um agiota pela diferença, e devem fazer um **Teste** do atributo relevante à categoria que escolheram. Se o aventureiro falhar no teste, rode um 1d20 para descobrir o que aconteceu.
+Se o resultado da rolagem indica que o aventureiro gastou mais dinheiro do que possui, ele contrai uma dívida com um agiota pela diferença, e devem fazer um **Teste** do atributo relevante à categoria que escolheram. Se falhar no teste, o aventureiro roda ***1d20*** para descobrir o que aconteceu.
 
-Enquanto o aventureiro tiver uma dívida, a ação **Farra & Filantropia** não pode ser utilizada. A dívida dobra a cada 30 dias, e como agiotas são geralmente sórdidos e inescrupulosos, podem haver ramificações por dívidas não pagas.
+Enquanto tiver uma dívida, a ação **Farra & Filantropia** não pode ser utilizada. A dívida dobra a cada 30 dias, e como agiotas são geralmente sórdidos e inescrupulosos, podem haver ramificações por dívidas não pagas.
 
 ### Rumores
 
-Após a resolução, o aventureiro roda 1d6 para descobrir se ouviu algum rumor interessante durante a ação. Em um 5 ou 6, um novo rumor é descoberto.
+Após a resolução, o aventureiro roda ***1d6*** para descobrir se ouviu algum rumor interessante durante a ação. Em um 5 ou 6, um novo rumor é descoberto.
