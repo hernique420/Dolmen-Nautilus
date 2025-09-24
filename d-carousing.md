@@ -11,10 +11,12 @@ Os aventureiros podem gastar seu tempo e dinheiro fazendo farra ou filantropia, 
 
 Existem quatro categorias para essa ação:
 
-+ **Farra** (Força, Constituição) -- Festas, abuso de substâncias, bacanais, e resenha
-+ **Adorno** (Destreza) -- Alta costura, pratos refinados, hedonismo, modismos e tendências
-+ **Obscurantismo** (Inteligência, Sabedoria) -- Sofismos, pesquisa obsessiva e trivial, suprema pretensão
-+ **Filantropia** (Carisma) -- Filantropia desnecessária, pomposidade e ultraje moral, causas ineficazes, fúteis, ou impossíveis
+| | |
+| :--- | :--- |
+| **Farra** (Força, Constituição) | Festas, abuso de substâncias, bacanais, e resenha |
+| **Adorno** (Destreza) | Alta costura, pratos refinados, hedonismo, modismos e tendências |
+| **Obscurantismo** (Inteligência, Sabedoria) | Sofismos, pesquisa obsessiva e trivial, suprema pretensão |
+| **Filantropia** (Carisma) | Filantropia desnecessária, pomposidade e ultraje moral, causas ineficazes, fúteis, ou impossíveis |
 
 O aventureiro descreve o que fará e onde, e então roda um dado, que é multiplicado por uma quantidade definida, para descobrir quanto gastaram (e, consequentemente, quanta XP ganharam). 
 
