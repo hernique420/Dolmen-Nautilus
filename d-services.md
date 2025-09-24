@@ -37,17 +37,12 @@ Treinadores são necessários para criaturas incomuns ou para grandes grupos de 
 Um construtor e engenheiro competente que pode liderar projetos, arquitetar a estrutura, conseguir materiais, e contratar equipes (incluido nos custos de construção).
 
 **Permissão:** A não ser que esteja construindo nos ermos selvagens, é necessário a permissão do dono das terras (tipicamente uma casa nobre).
-
 **Duração:** 1 semana por cada 500g do custo de construção, pelo mínimo de 1 mês.
-
 **Construindo em cidades:** Ao redor de cidades, os custos de construção são cortados na metade pela proximidade de recursos e trabalhadores.
 
 **Residenciais:** Um andar, 9x9m, escadas internas de madeira, portas, pisos, e sótão. 1500g por paredes de pedra, 750g por paredes de madeira. Andares adicioneis (até 3 no total) podem ser adicionados pelo mesmo custo.
-
 **Torres:** Torre circular com paredes de 1m em pedra. 15000g por 6m de diâmetro, 9m de altura, e 3 andares. 30000g por 9m de diâmetro, 12m de altura, e 4 andares.
-
 **Fortalezas:** Paredes de castelo: 500g por cada seção de 3m de comprimento (6m de altura, 3m de largura). Forte: 75000g por um prédio central fortificado de 18m de largura e comprimento, e 24m de altura. Portão: 6500g pelas paredes e um alto portão fortificado com um rastrilho -- 12m de largura e comprimento, e 6m de altura. Fosso: 40g por 3m de comprimento (6m de largura, 3m de profundidade). Ponte levadiça: 1000 por uma ponte levadiça de 6m de comprimento.
-
 **Subterrâneas:** 500g por cada área de 3 por 3m.
 
 ## Guia
