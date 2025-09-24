@@ -22,12 +22,12 @@ O aventureiro descreve o que fará e onde (qualquer cidade conhecida pelos jogad
 
 O aventureiro pode invocar uma instituição relevante para ganhar um modificador no dado. Por exemplo, um aventureiro que quer fazer uma fézinha pode invocar uma casa de apostas que ele ou a guilda possui, e ganhar +1 na rolagem.
 
-O tamanho do dado e o multiplicador é definido pelo tamanho da cidade onde o aventureiro quer fazer a ação.
+O tamanho do dado e o multiplicador (em peças de ouro) é definido pelo tamanho da cidade onde o aventureiro quer fazer a ação.
 
-+ *Vilarejo* -- 1d6 x 250po
-+ *Cidade pequena* -- 1d8 x 500po
-+ *Cidade média* -- 1d10 x 700po
-+ *Cidade grande* -- 1d12 x 1.000po
++ *Vilarejo* -- 1d6 x 250
++ *Cidade pequena* -- 1d8 x 500
++ *Cidade média* -- 1d10 x 700
++ *Cidade grande* -- 1d12 x 1.000
 
 Se o resultado da rolagem indica que o aventureiro gastou mais dinheiro do que possui, eles contraem uma dívida com um agiota pela diferença, e devem fazer um **Teste** do atributo relevante à categoria que escolheram. Se o aventureiro falhar no teste, rode um 1d20 para descobrir o que aconteceu.
 
