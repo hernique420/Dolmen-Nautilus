@@ -104,9 +104,9 @@ Indivíduos raros que devotaram sua vida ao estúdio de um único, muitas vezes 
 
 | | |
 | :--- | :--- |
-| Traduzir texto | Um sábio pode traduzir qualquer língua associada a sua especialidade, custando 100g por inscrição ou por página de texto
-| Lore básico / identificação de item | Um sábio pode identificar items e responder perguntas básicas relacionadas a sua especialidade, custando 200g por consulta |
-| Lore detalhado | Perguntas mais obscuras podem levar um período de pesquisa dedicada, que pode durar um mês ou mais. Sábios tipicamente cobram 2000g por mês de pesquisa dedicada. Existe uma chance de 5% de que a pesquisa resulte em um resultado falso ou enganoso |
+| **Traduzir texto** | Um sábio pode traduzir qualquer língua associada a sua especialidade, custando 100g por inscrição ou por página de texto
+| **Lore básico e identificação de item** | Um sábio pode identificar items e responder perguntas básicas relacionadas a sua especialidade, custando 200g por consulta |
+| **Lore detalhado** | Perguntas mais obscuras podem levar um período de pesquisa dedicada, que pode durar um mês ou mais. Sábios tipicamente cobram 2000g por mês de pesquisa dedicada. Existe uma chance de 5% de que a pesquisa resulte em um resultado falso ou enganoso |
 
 ## Marinheiro
 - _Disponibilidade_: Qualquer povoado ribeirinho_
