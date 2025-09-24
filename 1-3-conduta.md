@@ -23,7 +23,7 @@ description: "código de conduta"
 + Intimidação deliberada.
 + Stalking.
 + Gravações de vídeo, áudio, mensagens, ou atividade online para propósitos de assédio.
-+ Interrupção da discussão constante.
++ Interrupções constantes da discussão.
 + Atenção sexual indesejada.
 + Contato social inapropriado e persistente, incluindo na comunicação privada.
 + Revelar informações sobre pessoas sem o seu consentimento, exceto em casos que seja necessário para protegê-las de abuso intencional.
