@@ -21,8 +21,8 @@ Mestres das artes ocultas da purificação, mistura, e transmutação de substâ
 **Cozinhar poções:** um alquimista pode cozinhar uma poção à pedido. Custa o valor padrão da poção, e leva 1d6 dias a cada 500g do valor. Existe 1-em-6 chance de falhar.
 
 ## Treinador de Animais
-*Disponibilidade: Cidades Grandes*
-*Comissão: 500g por mês*
+- *Disponibilidade: Cidades Grandes*
+- *Comissão: 500g por mês*
 
 Treinadores são necessários para criaturas incomuns ou para grandes grupos de animais comuns (cachorros, cavalos, mulas). Cada treinador de animal se especializa em um único tipo de animal.
 
@@ -31,8 +31,8 @@ Treinadores são necessários para criaturas incomuns ou para grandes grupos de 
 **Interrupções:** O treinamento de todos os comportamentos desejados devem acontecer em sequência. Se interrompido, o animal se torna incapaz de aprender novos comportamentos.
 
 ## Construtor
-_Disponibilidade: Cidades pequenas, médias, e grandes_
-_Comissão: 25g por semana_
+- _Disponibilidade: Cidades pequenas, médias, e grandes_
+- _Comissão: 25g por semana_
 
 Um construtor e engenheiro competente que pode liderar projetos, arquitetar a estrutura, conseguir materiais, e contratar equipes (incluido nos custos de construção).
 
@@ -46,8 +46,8 @@ Um construtor e engenheiro competente que pode liderar projetos, arquitetar a es
 **Subterrâneas:** 500g por cada área de 3 por 3m.
 
 ## Guia
-_Disponibilidade: Qualquer cidade ou vilarejo_
-_Comissão: 5g por dia_
+- _Disponibilidade: Qualquer cidade ou vilarejo_
+- _Comissão: 5g por dia_
 
 Especialistas nas trilhas e nos caminhos de Dolmenwood, cada guia é autoridade em uma região particilar da Floresta.
 
