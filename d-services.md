@@ -12,8 +12,8 @@ Aventureiros podem querer o serviço de indvíduos ou grupos especializados em d
 Serviços básicos estão prontamente disponíveis na cidade (listados aqui), e não necessitam um turno de Downtime para serem contratados. Esta página serve para manter uma lista completa dos potenciais serviços disponíveis, e seus custos, mas caso o aventureiro ou a guilda não conheça nenhum especialista do tipo procurado, você pode gastar uma turno de Downtime para localizar um especialista, com 1-em-6 chance mínima de falha.
 
 ## Alquimista
-_Disponibilidade: Cidades Grandes_
-_Comissão: por trabalho, abaixo_
+*Disponibilidade: Cidades Grandes*
+*Comissão: por trabalho, abaixo*
 
 Mestres das artes ocultas da purificação, mistura, e transmutação de substâncias para efeitos mágicos e espirituais.
 
@@ -21,8 +21,8 @@ Mestres das artes ocultas da purificação, mistura, e transmutação de substâ
 **Cozinhar poções:** um alquimista pode cozinhar uma poção à pedido. Custa o valor padrão da poção, e leva 1d6 dias a cada 500g do valor. Existe 1-em-6 chance de falhar.
 
 ## Treinador de Animais
-_Disponibilidade: Cidades Grandes_
-_Comissão: 500g por mês_
+*Disponibilidade: Cidades Grandes*
+*Comissão: 500g por mês*
 
 Treinadores são necessários para criaturas incomuns ou para grandes grupos de animais comuns (cachorros, cavalos, mulas). Cada treinador de animal se especializa em um único tipo de animal.
 
