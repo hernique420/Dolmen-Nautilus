@@ -28,4 +28,6 @@ description: "código de conduta"
 + Contato social inapropriado e persistente, incluindo na comunicação privada.
 + Revelar informações sobre pessoas sem o seu consentimento, exceto em casos que seja necessário para protegê-las de abuso intencional.
 
-**A segurança e o conforto de pessoas marginalizadas é uma prioridade**, e isso garante a segurança e o conforto de todos. Aja com bom senso, aceite comunicações razoáveis de limites (como, "não quero falar disso"), e na dúvida, **procure falar com um moderador**.
+### A segurança e o conforto de pessoas marginalizadas é uma prioridade
+
+E isso garante a segurança e o conforto de todos. Aja com bom senso, aceite comunicações razoáveis de limites (como, "não quero falar disso"), e na dúvida, **procure falar com um moderador**.
