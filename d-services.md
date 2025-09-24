@@ -67,7 +67,7 @@ Especialistas nas trilhas e nos caminhos de Dolmenwood, cada guia é autoridade 
 
 ## Mercenário
 - _Disponibilidade: Cidades pequenas, médias, e grandes_
-- Comissão: 5g por mês / cavalaria 20g por mês / tenente 25g por mês / captão 150g por mês
+- Comissão: 5g por mês / cavalaria 20g por mês / tenente 25g por mês / captão 150g por mês_
 
 Grupos de soldados de aluguel que lutarão em campanhas militares. Mercenários são contratados como uma companhia, liderados por um capitão, com um número variável de tropas (tipicamente pelo menos 20) equipados com diferentes armas.
 
@@ -83,22 +83,22 @@ Grupos de soldados de aluguel que lutarão em campanhas militares. Mercenários 
 | **Kin** | A maioria dos mercenários são humanos, mas companhias às vezes incluem Breggles e outros Kins. |
 
 ## Carroceiros
-- _Disponibilidade_: Qualquer cidade ou vilarejo_
-- _Comissão_: 2s por dia
+- _Disponibilidade: Qualquer cidade ou vilarejo_
+- _Comissão: 2s por dia_
 
 Condutores e almocreves semi-habilidosos que são úteis quando os personagens precisam lidar com montarias, carregar e descarregar equipamentos, pilotar veículos terrestres, montar ou vigiar acampamentos, e assim por diante.
 
 **Perigo**: Carroceiros absolutamente se recusam a entrar em regiões perigosas.
 
 ## Remador
-- _Disponibilidade_: Qualquer cidade ou vilarejo
-- _Comissão_: 2s por dia
+- _Disponibilidade: Qualquer cidade ou vilarejo_
+- _Comissão: 2s por dia_
 
 Trabalhadores não qualificados contratados para remar embarcações.
 
 ## Sábio
-- _Disponibilidade_: Cidades grandes_
-- _Comissão_: Por trabalho, abaixo_
+- _Disponibilidade: Cidades grandes_
+- _Comissão: Por trabalho, abaixo_
 
 Indivíduos raros que devotaram sua vida ao estúdio de um único, muitas vezes obscuro, campo de conhecimento. Alguns exemplos de especializações: astronomia, demônios, fadas, gemas, ervas, histórias, wyrms
 
@@ -109,14 +109,14 @@ Indivíduos raros que devotaram sua vida ao estúdio de um único, muitas vezes 
 | **Lore detalhado** | Perguntas mais obscuras podem levar um período de pesquisa dedicada, que pode durar um mês ou mais. Sábios tipicamente cobram 2000g por mês de pesquisa dedicada. Existe uma chance de 5% de que a pesquisa resulte em um resultado falso ou enganoso |
 
 ## Marinheiro
-- _Disponibilidade_: Qualquer povoado ribeirinho_
-- _Comissão_: 10g por mês_
+- _Disponibilidade: Qualquer povoado ribeirinho_
+- _Comissão: 10g por mês_
 
 Treinados no manuseio de veleiros e outras embarcações grandes. Marinheiros geralmente estão equipados com espadas pequenas, escudos, e armadura de couro.
 
 ## Feiticeiro
-- _Disponibilidade_: Cidades grandes_
-- _Comissão_: Por magia, ver abaixo_
+- _Disponibilidade: Cidades grandes_
+- _Comissão: Por magia, ver abaixo_
 
 Indivíduos raros dispostos a lançar magias arcanas, runas, ou magias sagradas em troca de pagamento.
 
