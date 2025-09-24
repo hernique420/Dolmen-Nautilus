@@ -20,7 +20,7 @@ Existem quatro categorias para essa ação:
 
 O aventureiro descreve o que fará e onde, e então roda um dado, que é multiplicado por uma quantidade definida, para descobrir quanto gastaram (e, consequentemente, quanta XP ganharam). 
 
-O aventureiro pode invocar uma instituição relevante para ganhar um modificador no dado. Por exemplo, um aventureiro que quer uma apostinha pode invocar uma casa de apostas que ele ou a guilda possui, e ganhar +1 na rolagem.
+O aventureiro pode invocar uma instituição relevante para ganhar um modificador no dado. Por exemplo, um aventureiro que quer fazer uma fézinha pode invocar uma casa de apostas que ele ou a guilda possui, e ganhar +1 na rolagem.
 
 O tamanho do dado e o multiplicador é definido pelo tamanho da cidade onde o aventureiro quer fazer a ação.
 
