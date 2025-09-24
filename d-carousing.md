@@ -18,7 +18,7 @@ Existem quatro categorias para essa ação:
 | **Obscurantismo** (Inteligência, Sabedoria) | Sofismos, pesquisa obsessiva e trivial, suprema pretensão |
 | **Filantropia** (Carisma) | Filantropia desnecessária, pomposidade e ultraje moral, causas ineficazes, fúteis, ou impossíveis |
 
-O aventureiro descreve o que fará e onde, e então roda um dado, que é multiplicado por uma quantidade definida, para descobrir quanto gastaram (e, consequentemente, quanta XP ganharam). 
+O aventureiro descreve o que fará e onde (qualquer cidade conhecida pelos jogadores), e então roda um dado, que é multiplicado por uma quantidade definida abaixo, para descobrir quanto gastaram (e, consequentemente, quanta XP ganharam). 
 
 O aventureiro pode invocar uma instituição relevante para ganhar um modificador no dado. Por exemplo, um aventureiro que quer fazer uma fézinha pode invocar uma casa de apostas que ele ou a guilda possui, e ganhar +1 na rolagem.
 
@@ -31,7 +31,7 @@ O tamanho do dado e o multiplicador é definido pelo tamanho da cidade onde o av
 
 Se o resultado da rolagem indica que o aventureiro gastou mais dinheiro do que possui, eles contraem uma dívida com um agiota pela diferença, e devem fazer um **Teste** do maior atributo da categoria que escolheram. Se o aventureiro falhar no teste, rode um 1d20 para descobrir o que aconteceu.
 
-Enquanto o aventureiro tiver uma dívida, a ação **Farra & Filantropia** não pode ser utilizada. A dívida dobra a cada 30 dias, e podem haver ramificações por dívidas não pagas.
+Enquanto o aventureiro tiver uma dívida, a ação **Farra & Filantropia** não pode ser utilizada. A dívida dobra a cada 30 dias, e como agiotas são geralmente sórdidos e inescrupulosos, podem haver ramificações por dívidas não pagas.
 
 ### Rumores
 
