@@ -46,6 +46,17 @@ Um construtor e engenheiro competente que pode liderar projetos, arquitetar a es
 **Subterrâneas:** 500g por cada área de 3 por 3m.
 
 ## Guia
+_Disponibilidade: Qualquer cidade ou vilarejo_
+_Comissão: 5g por dia_
+
+Especialistas nas trilhas e nos caminhos de Dolmenwood, cada guia é autoridade em uma região particilar da Floresta.
+
+**Marcos:** um guia conhece os marcos mais significativos da região em que se especializa (determinado pelo Árbitro). Eles podem levar e trazer os aventureiros desses marcos sem risco de se perder.
+**Orientação:** se o Árbitro determinar que o grupo se perdeu, existe 4-em-6 chances de que o guia seja capaz de encontrar o caminho novamente.
+**Perigo:** guias podem às vezes entrar em regiões perigosas, mas cobram o dobro (10g por dia).
+
+
+
 ## Mercenário
 ## Pack Handler
 ## Rower
