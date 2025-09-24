@@ -27,9 +27,9 @@ O tamanho do dado e o multiplicador é definido pelo tamanho da cidade onde o av
 + *Cidade média* -- 1d10 x 700
 + *Cidade grande* -- 1d12 x 1.000
 
-Se o resultado da rolagem indica que o aventureiro gastou mais dinheiro do que possui, eles contraem uma dívida com um agiota pela diferença, e devem fazer um Teste do maior atributo da categoria que escolheram. Se o aventureiro falhar no teste, rode um 1d20 para descobrir o que aconteceu.
+Se o resultado da rolagem indica que o aventureiro gastou mais dinheiro do que possui, eles contraem uma dívida com um agiota pela diferença, e devem fazer um **Teste** do maior atributo da categoria que escolheram. Se o aventureiro falhar no teste, rode um 1d20 para descobrir o que aconteceu.
 
-Enquanto o aventureiro tiver uma dívida, a ação Farra & Filantropia não pode ser utilizada. A dívida dobra a cada 30 dias, e podem haver ramificações por dívidas não pagas.
+Enquanto o aventureiro tiver uma dívida, a ação **Farra & Filantropia** não pode ser utilizada. A dívida dobra a cada 30 dias, e podem haver ramificações por dívidas não pagas.
 
 ### Rumores
 
