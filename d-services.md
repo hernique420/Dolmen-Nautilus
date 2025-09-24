@@ -63,14 +63,14 @@ Grupos de soldados de aluguel que lutarão em campanhas militares. Mercenários 
 
 | | |
 | :--- | :--- |
-| **Capitão:** | soldados e estrategistas experientes que lideram uma companhia de mercenários. Uma companhia não pode ser contrata sem seu capitão. |
-| **Tenente:** | veteranos que comandam um pequeno time de soldados dentro de uma companhia. É necessário um tenente para cada 10 mercenários. |
-| **Cavalaria:** | soldados fortemente blindados montados em cavalos de guerra. |
-| **Mercenários:** | infantaria, alguns podem ser especialistas em arcos ou bestas. |
-| **Equipamento:** | mercernários são equipados com seus próprios equipamentos básicos. O contratante pode adquirir equipamento adicional para eles se desejar. |
-| **Guerra:** | durante tempos de guerra, todos os mercenários pedem o dobro do preço comum. |
-| **Aventura:** | companhias de mercenários se recusam a entrar em calabouços ou participar no dia-a-dia de aventureiros sem um objetivo militar. |
-| **Kin:** | a maioria dos mercenários são humanos, mas companhias às vezes incluem Breggles e outros Kins. |
+| **Capitão** | Soldados e estrategistas experientes que lideram uma companhia de mercenários. Uma companhia não pode ser contrata sem seu capitão. |
+| **Tenente** | Veteranos que comandam um pequeno time de soldados dentro de uma companhia. É necessário um tenente para cada 10 mercenários. |
+| **Cavalaria** | Soldados fortemente blindados montados em cavalos de guerra. |
+| **Mercenários** | Infantaria, alguns podem ser especialistas em arcos ou bestas. |
+| **Equipamento** | Mercernários são equipados com seus próprios equipamentos básicos. O contratante pode adquirir equipamento adicional para eles se desejar. |
+| **Guerra** | Durante tempos de guerra, todos os mercenários pedem o dobro do preço comum. |
+| **Aventura** | Companhias de mercenários se recusam a entrar em calabouços ou participar no dia-a-dia de aventureiros sem um objetivo militar. |
+| **Kin** | A maioria dos mercenários são humanos, mas companhias às vezes incluem Breggles e outros Kins. |
 
 ## Pack Handler
 ## Rower
