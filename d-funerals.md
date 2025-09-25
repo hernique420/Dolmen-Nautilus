@@ -15,4 +15,4 @@ Entre aventuras, os aventureiros podem organizar um _funeral_ para seus companhe
 
 Para cada 1g que o aventureiro gasta comemorando a vida de um companheiro caído, seja através do financiamento do seu velório, erguendo estátuas do falecido, ou coisas afins, ele pode "comprar" 1 XP do finado.
 
-O aventureiro também pode deixar mensagens, poemas, ou arte para serem exibidas na página Memento Mori, para ganhar de 5 XP, 30 XP, ou 100 XP respectivamente.
+O aventureiro também pode deixar mensagens, poemas, ou arte para serem exibidas na página Memento Mori, para ganhar 5 XP, 30 XP, ou 100 XP respectivamente.
