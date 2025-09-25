@@ -8,11 +8,11 @@ nav_order: 1
 <img width="829" height="425" alt="image" src="https://github.com/user-attachments/assets/dd79c8ca-e564-48f3-969b-173695d15e3e" />
 
 
-Aventureiros podem construir fortificações, fundar vilarejos, aumentar o tamanho de um povoado, ou aplicar seu tempo e dinheiro para projetos de infraestrutura que beneficiem a todos.
+Aventureiros podem construir fortificações, fundar vilarejos, aumentar o tamanho de um povoado, ou aplicar seu tempo e dinheiro para projetos de _Infraestrutura_ que beneficiem a todos.
 
-Para fundar novos vilarejos, a área ao seu redor deve ser mapeada e assegurada através de uma expedição, e uma estabelecimento da Guilda deve ser construído no lugar. O custo de construção de um pequeno vilarejo é 5000g.
+Para fundar novos vilarejos, a área ao seu redor deve ser mapeada pelos aventureiros, assegurada através de uma _Expedição_, e uma estabelecimento da Guilda deve ser construído no lugar. O custo de construção de um pequeno vilarejo é 5000g.
 
-Para a construção de edifícios específicos, use os preços de Equipamentos e Serviços.
+Para a construção de um estabelecimento da Guilda e edifícios específicos, use os preços em **Equipamentos e Serviços**.
 
 Para mudar o _tipo_ ao aumentar o tamanho de um vilarejo, é preciso ter acesso a uma rota para outros vilarejos ou cidades, seja por terra, água, ou outro método.
 
