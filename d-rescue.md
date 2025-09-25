@@ -8,7 +8,8 @@ nav_order: 1
 
 Se um aventureiro não consegue voltar para alguma cidade até o fim da sessão, ele precisa gastar seu **Turno de Downtime** com uma ação de _Resgate_, roda ***2d6***, e escolhe um dos dois resultados:
 
-
+| 2d6 | Resultado |
+| :-- | :-- |
 | 1 | Personagem sofre uma lesão debilitante. Uma habilidade aleatória é diminuida por -1 |
 | 2 | Um item aleatório é perdido no caminho de casa |
 | 3 | Deve pagar 1d20g por Nível do personagem para conseguir ajuda para voltar |
