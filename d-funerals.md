@@ -7,7 +7,7 @@ nav_order: 1
 
 # Funerais
 
-<img width="863" height="886" alt="image" src="https://github.com/user-attachments/assets/2c7c5d89-214f-4cc7-954d-a94801ad3901" />
+<img width="563" height="586" alt="image" src="https://github.com/user-attachments/assets/2c7c5d89-214f-4cc7-954d-a94801ad3901" />
 
 A morte é inevitável, e por isso é uma desculpa perfeita para dar uma festa.
 
