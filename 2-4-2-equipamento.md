@@ -14,7 +14,7 @@ Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na di
 
 Espadas, adagas, prateamento de lâminas, e gravações.
 
-### Estábulo: "O Atoleiro" -- Lumpo Chifre de Grog & Vimsle Caprichosa
+### Estábulo: "Atoleiro" -- Lumpo Chifre de Grog & Vimsle Caprichosa
 
 Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, por montaria.
 
