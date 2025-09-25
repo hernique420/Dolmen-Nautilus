@@ -83,7 +83,7 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 | Corda e Gancho | 20g |
 | Martelo | 2g |
 | Martelo | 5g |
-| Tinta (frasco) | 1, fornecido pela Guilda para o Cartógrafo designado) |
+| Tinta (frasco) | 1 | (fornecido pela Guilda para o Cartógrafo designado)
 | Cravos de Ferro (12) | 1g |
 | Tranca | 20g |
 | Lupa | 3g |
@@ -93,7 +93,7 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 | Espelho (pequeno) | 5g |
 | Instrumento Musical (Cordas) | 20g |
 | Instrumento Musical (Sopro) | 5g |
-| Papel ou Pergaminho (2 folhas) | 1g, fornecido pela Guilda para o Cartógrafo designado |
+| Papel ou Pergaminho (2 folhas) | 1g, fornecido pela Guilda para o Cartógrafo designado | 
 | Vara (3m, madeira) | 1g | 
 | Bico de Pena | 1g, fornecido pela Guilda para o Cartógrafo designado |
 | Corda (15m) | 1g |
