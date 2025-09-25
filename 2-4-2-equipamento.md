@@ -37,7 +37,7 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 | Frasco de vidro | 1g |
 | Cantil | 1g |
 
-### Iluminação
+#### Iluminação
 
 | Item | Custo | 
 | :--- | :--- |
@@ -48,7 +48,7 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 | Pederneira | 3g |
 | Tochas (3) | 1g |
 
-### Acampamento e Viagem
+#### Acampamento e Viagem
 
 | Item | Custo | 
 | :--- | :--- |
@@ -60,7 +60,7 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 | Rações (frescas, 1 dia) | 1g |
 | Barraca | 20g ||
 
-### Itens Sagrados
+#### Itens Sagrados
 
 | Item | Custo | 
 | :--- | :--- |
@@ -69,7 +69,7 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 | Símbolo sagrado (madeira) | 5g |
 | Água benta (frasco) | 25g |
 
-### 
+#### Itens gerais
 
 | Item | Custo | 
 | :--- | :--- |
