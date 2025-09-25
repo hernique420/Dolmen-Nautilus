@@ -120,7 +120,7 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 
 ### Moeda
 
-Peças de Ouro (g): Vale 10p, 100c
-Peças de Prata (p): Vale 1/10g, 10c
-Peças de Cobre (c): Vale 1/100g, 1/10p
-Peças de Pelucídio (pp): ???
+**Peças de Ouro (g):** Vale 10p, 100c\
+**Peças de Prata (p):** Vale 1/10g, 10c\
+**Peças de Cobre (c):** Vale 1/100g, 1/10p\
+**Peças de Pelucídio (pp):** ???\
