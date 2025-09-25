@@ -6,7 +6,7 @@ nav_order: 2
 description: "Equipamento, Serviços, e Animais"
 ---
 
-## Apotecário: "Homem de Ouro" -- Sidevique Sumoverbo
+### Apotecário: "Homem de Ouro" -- Sidevique Sumoverbo
 
 #### Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na disponibilidade indicada). Também oferecemos compostos alquímicos e psicodélicos, de acordo com a disponibilidade. Estoque renovado toda semana.
 
