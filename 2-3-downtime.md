@@ -6,8 +6,8 @@ nav_order: 3
 description: "Ações de Downtime"
 ---
 
-# Arcane Study
+# Downtime
 
-## Earn Money
+O Turno de Downtime dura um mês. A cada mês, após a primeira sessão do jogador, o aventureiro tem direito a 1 Ação de Downtime à sua escolha.
 
-### Carousing
+Adicionalmente, ao fim de cada mês, o aventureiro perde metade do dinheiro que tiver no momento. Isso representa despesas do dia a dia, assim como sua contribuição mensal à Guilda.
