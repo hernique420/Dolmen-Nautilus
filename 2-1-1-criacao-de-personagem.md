@@ -12,6 +12,7 @@ nav_order: 1
 ## Mossling 
 *Humanoides amadeirados, retorcidos, dos quais a carne fértil hospeda musgos, mofos, e fungos.*
 <table class="sem-cabecalho">
+  
 | Tipo:    | *Mortais*       |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Tipo** | Mortais                                                  |
@@ -19,7 +20,9 @@ nav_order: 1
 | **Classes raras** | Cavaleiros, Clérigos, e Freis                                           |
 | **Classes proib.**| Encantadores                                                            |
 | **Línguas nativas**| Woldish, Mulch                                                          |
+
 </table>
+
 ## Breggle
 *Cabeças-de-bode, o tamanho de seus chifres indicam sua posição social.*
 
