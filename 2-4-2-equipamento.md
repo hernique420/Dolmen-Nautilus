@@ -12,26 +12,28 @@ description: "Equipamento, Serviços, e Animais"
 
 Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na disponibilidade indicada). Também oferecemos compostos alquímicos e psicodélicos, de acordo com a disponibilidade. Estoque renovado toda semana.
 
-### Ferreiro: "O Ferreiro" -- Joremeias Pé de Pudim
+## Ferreiro: "O Ferreiro" -- Joremeias Pé de Pudim
 
 Espadas, adagas, prateamento de lâminas, e gravações.
 
-### Estábulo: "Atoleiro" -- Lumpo Chifre de Grog & Vimsle Caprichosa
+## Estábulo: "Atoleiro" -- Lumpo Chifre de Grog & Vimsle Caprichosa
 
 Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, por montaria.
 
-### Feira de Moot e Mercado do Sol
+## Feira de Moot e Mercado do Sol
 
 Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidra fresca, e uma vasta seleção de queijos.
 
-### Serviços Variados
+## "O Chamado do Aventureiro" -- Serviços mantidos pela Guilda
 
-+ A Guilda mantém um banco
-++ Câmbio: moedas de um tipo podem ser trocadas por um tipo equivalente, com uma taxa de câmbio de 3%.
-++ Depósito seguro: fundos podem ser mantidos no cofre
+### Serviços Bancários
+
++ **Câmbio**: Moedas de um tipo podem ser trocadas por outras de valor equivalente. A taxa de câmbio é de 3%.
++ **Depósito seguro**: Fundos guardados de forma segura no banco não são reduzidos ao fim do Turno de Downtime. Sem taxas por um mês, 10% de taxas a cada mês seguinte.
++ **Empréstimos**: Um item de igual valor deve ser deixado como depósito. A taxa é 10% do valor do empréstimo por mês. Personagens conhecidos e respeitados podem conseguir empréstimos por taxas menores e sem um depósito.
 
 
-### Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
+### Compra e venda de equipamentos básicos, listados abaixo
 
 #### Containers
 
