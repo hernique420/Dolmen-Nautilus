@@ -5,7 +5,8 @@ parent: Downtime
 nav_order: 1
 ---
 
-<img width="829" height="425" alt="image" src="https://github.com/user-attachments/assets/51d02399-21b9-4771-b059-cd5a4e2e92f6" />
+<img width="829" height="425" alt="image" src="https://github.com/user-attachments/assets/dd79c8ca-e564-48f3-969b-173695d15e3e" />
+
 
 Aventureiros podem construir fortificações, fundar vilarejos, aumentar o tamanho de um povoado, ou aplicar seu tempo e dinheiro para projetos de infraestrutura que beneficiem a todos.
 
