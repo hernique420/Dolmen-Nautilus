@@ -17,7 +17,7 @@ Serviços que estão prontamente disponíveis (alguns também listados aqui) nã
 
 Mestres das artes ocultas da purificação, mistura, e transmutação de substâncias para efeitos mágicos e espirituais.
 
-| | |
+| Característica | Detalhes |
 | :--- | :--- |
 | **Analisar poções** | Um alquimista pode analisar os efeitos de uma poção, a partir de uma pequena amostra. Custa 200g, e leva 1d6 dias. Existe 1-em-6 chance de um falso resultado |
 | **Cozinhar poções** | Um alquimista pode cozinhar uma poção à pedido. Custa o valor padrão da poção, e leva 1d6 dias a cada 500g do valor. Existe 1-em-6 chance de falhar |
@@ -28,7 +28,7 @@ Mestres das artes ocultas da purificação, mistura, e transmutação de substâ
 
 Treinadores são necessários para criaturas incomuns ou para grandes grupos de animais comuns (cachorros, cavalos, mulas). Cada treinador de animal se especializa em um único tipo de animal.
 
-| | |
+| Característica | Detalhes |
 | :--- | :--- |
 | **Número de animais** | Um treinador pode trabalhar com 6 animais ao mesmo tempo |
 | **Tempo necessário** | O tempo necessário para treinar um novo comportamento ou truque depende da dificuldade do treinamento e da inteligência do animal. Aprender o primeiro novo comportamento leva tipicamente um mês, e comportamentos subsequentes levam duas semanas cada |
@@ -40,13 +40,13 @@ Treinadores são necessários para criaturas incomuns ou para grandes grupos de 
 
 Um construtor e engenheiro competente que pode liderar projetos, arquitetar a estrutura, conseguir materiais, e contratar equipes (incluido nos custos de construção).
 
-| | |
+| Característica | Detalhes |
 | :--- | :--- |
 | **Permissão** | A não ser que esteja construindo nos ermos selvagens, é necessário a permissão do dono das terras (tipicamente uma casa nobre)
 | **Duração** | 1 semana por cada 500g do custo de construção, pelo mínimo de 1 mês
 | **Na Cidade** | Ao redor de cidades, os custos de construção são cortados na metade pela proximidade de recursos e trabalhadores
 
-| | |
+| Característica | Detalhes |
 | :--- | :--- |
 | **Residenciais** | Um andar, 9x9m, escadas internas de madeira, portas, pisos, e sótão. 1500g por paredes de pedra, 750g por paredes de madeira. Andares adicioneis (até 3 no total) podem ser adicionados pelo mesmo custo |
 | **Torres** | Torre circular com paredes de 1m em pedra. 15000g por 6m de diâmetro, 9m de altura, e 3 andares. 30000g por 9m de diâmetro, 12m de altura, e 4 andares |
@@ -59,7 +59,7 @@ Um construtor e engenheiro competente que pode liderar projetos, arquitetar a es
 
 Especialistas nas trilhas e nos caminhos de Dolmenwood, cada guia é autoridade em uma região particilar da Floresta.
 
-| | |
+| Característica | Detalhes |
 | :--- | :--- |
 | **Marcos** | Um guia conhece os marcos mais significativos da região em que se especializa (determinado pelo Árbitro). Eles podem levar e trazer os aventureiros desses marcos sem risco de se perder |
 | **Orientação** | Se o Árbitro determinar que o grupo se perdeu, existe 4-em-6 chances de que o guia seja capaz de encontrar o caminho novamente |
@@ -71,7 +71,7 @@ Especialistas nas trilhas e nos caminhos de Dolmenwood, cada guia é autoridade 
 
 Grupos de soldados de aluguel que lutarão em campanhas militares. Mercenários são contratados como uma companhia, liderados por um capitão, com um número variável de tropas (tipicamente pelo menos 20) equipados com diferentes armas.
 
-| | |
+| Característica | Detalhes |
 | :--- | :--- |
 | **Capitão** | Soldados e estrategistas experientes que lideram uma companhia de mercenários. Uma companhia não pode ser contrata sem seu capitão. |
 | **Tenente** | Veteranos que comandam um pequeno time de soldados dentro de uma companhia. É necessário um tenente para cada 10 mercenários. |
@@ -102,7 +102,7 @@ Trabalhadores não qualificados contratados para remar embarcações.
 
 Indivíduos raros que devotaram sua vida ao estúdio de um único, muitas vezes obscuro, campo de conhecimento. Alguns exemplos de especializações: astronomia, demônios, fadas, gemas, ervas, histórias, wyrms
 
-| | |
+| Característica | Detalhes |
 | :--- | :--- |
 | **Traduzir texto** | Um sábio pode traduzir qualquer língua associada a sua especialidade, custando 100g por inscrição ou por página de texto
 | **Lore básico e identificação de item** | Um sábio pode identificar items e responder perguntas básicas relacionadas a sua especialidade, custando 200g por consulta |
@@ -120,7 +120,7 @@ Treinados no manuseio de veleiros e outras embarcações grandes. Marinheiros ge
 
 Indivíduos raros dispostos a lançar magias arcanas, runas, ou magias sagradas em troca de pagamento.
 
-| | |
+| Característica | Detalhes |
 | :--- | :--- |
 | **Feitiçaria** | O custo é determinado pelo NPC, que pode pedir que uma missão adicional seja completada além do pagamento monetário. O Árbitro pode usar os custos a seguir, baseado no Ranque da magia, como guia: 1: 100g, 2: 250g, 3: 500g, 4: 1000g, 5: 2500g, 6: 5000g. Feitiços para fins ilegais ou moralmente dúbios podem custar o dobro ou mais |
 | **Runas** | Trate runas menores como magias de Ranque 1, runas maiores como Ranque 4, e runas poderosas como Ranque 6 |
