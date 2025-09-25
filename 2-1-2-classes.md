@@ -13,7 +13,7 @@ nav_order: 2
 
 #### Atributos & Combate
 
-| | |
+| Categoria | Detalhes |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributos Principais** | Carisma e Destreza |
 | **Vida** | 1d6 por Nível, +1 após Nível 10 |
@@ -23,7 +23,7 @@ nav_order: 2
 
 #### Perícias & Habilidades Especiais
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Perícias** | Decifrar Documento, Prestidigitação, Conhecimento sobre Monstros |
 | **Contra-encanto** | Enquanto toca e canta, concede aliados próximos imunidade a efeitos mágicos sonoros e +2 em Salvaguarda contra magia de fadas. |
@@ -34,7 +34,7 @@ nav_order: 2
 
 #### Atributos & Combate
 
-| | |
+| Categoria | Detalhes |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Sabedoria |
 | **Vida** | 1d6 por Nível, +1 após Nível 10 |
@@ -44,7 +44,7 @@ nav_order: 2
 
 #### Perícias & Habilidades Especiais
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Detectar Itens Sagrados** | Pode detectar itens encantados com magia sagrada. |
 | **Magia Sagrada** | Conjura magias divinas (ver sistema de magia sagrada na p. 100 do DPB). |
@@ -57,7 +57,7 @@ nav_order: 2
 
 #### Atributos & Combate
 
-| | |
+| Categoria | Detalhes |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Carisma e Inteligência |
 | **Vida** | 1d6 por Nível, +1 após Nível 10 |
@@ -67,7 +67,7 @@ nav_order: 2
 
 #### Perícias & Habilidades Especiais
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Detectar Magia** | Pode detectar magia em objetos encantados, lugares, ou criaturas. |
 | **Runas das Fadas** | Podem usar as runas das fadas. |
@@ -79,7 +79,7 @@ nav_order: 2
 
 #### Atributos & Combate
 
-| | |
+| Categoria | Detalhes |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Força |
 | **Vida** | 1d8 por Nível, +2 após Nível 10 |
@@ -89,7 +89,7 @@ nav_order: 2
 
 #### Perícias & Habilidades Especiais
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Talentos de Combate** | No nível 2, 6, 10, e 14, escolhe um talento especial. |
 
@@ -98,7 +98,7 @@ nav_order: 2
 
 #### Atributos & Combate
 
-| | |
+| Categoria | Detalhes |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Inteligência e Sabedoria |
 | **Vida** | 1d4 por Nível, +1 após Nível 10 |
@@ -108,7 +108,7 @@ nav_order: 2
 
 #### Perícias & Habilidades Especiais
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Armadura de Fé** | Bônus de AC baseado em nível. |
 | **Implementos Culinários** | Pode usar instrumentos de cozinha como arma de curta distância (panelas, salsichas, etc) por 1d4 de dano. |
@@ -123,7 +123,7 @@ nav_order: 2
 
 #### Atributos & Combate
 
-| | |
+| Categoria | Detalhes |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Constituição e Destreza |
 | **Vida** | 1d8 por Nível, +2 após Nível 10. |
@@ -133,7 +133,7 @@ nav_order: 2
 
 #### Perícias & Habilidades Especiais
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Companheiros Animais** | Pode formar um vínculo com um animal que se torna seu companheiro (limite de 1). |
 | **Habilidades especializadas** | Alerta, Econder-se, Rastrear. |
@@ -146,7 +146,7 @@ nav_order: 2
 
 #### Atributos & Combate
 
-| | |
+| Categoria | Detalhes |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Carisma e Força |
 | **Vida** | 1d8 por Nível, +2 após Nível 10. |
@@ -156,7 +156,7 @@ nav_order: 2
 
 #### Perícias & Habilidades Especiais
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Suseranos** | Serve a uma das casas nobres menores em Dolmenwood (à partir do nível 3; até lá, é um escudeiro errante). |
 | **Código de Cavaleiro** | Deve seguir um código estrito: honra, serviço, glória, proteger os fracos, e hierarquia. |
@@ -169,7 +169,7 @@ nav_order: 2
 
 #### Atributos & Combate
 
-| | |
+| Categoria | Detalhes |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Inteligência |
 | **Vida** | 1d4 por Nível, +1 após Nível 10 |
@@ -179,7 +179,7 @@ nav_order: 2
 
 #### Perícias & Habilidades Especiais
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Magia Arcana** | Conjura magias arcanas (ver p. 78). |
 | **Detectar Magia** | Pode detectar magia em objetos encantados, lugares, ou criaturas. |
@@ -190,7 +190,7 @@ nav_order: 2
 
 #### Atributos & Combate
 
-| | |
+| Categoria | Detalhes |
 | :---------------- | :----------------------------------------------------------------------- |
 | **Atributo Principal** | Destreza |
 | **Vida** | 1d4 por Nível, +1 após Nível 10 |
@@ -200,7 +200,7 @@ nav_order: 2
 
 #### Perícias & Habilidades Especiais
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Golpe pelas Costas** | +4 de bônus de ataque e causa 2d4+4 ao atacar pelas costas com uma adaga. |
 | **Perícias** | Escalar paredes, decifrar documentos, desarmar mecanismos, prestidigitação, escutar, arrombar fechaduras, furtividade. |
