@@ -11,7 +11,7 @@ Os aventureiros podem gastar seu tempo e dinheiro fazendo farra ou filantropia, 
 
 Existem quatro categorias para essa ação:
 
-| | |
+| Categoria | Detalhes |
 | :--- | :--- |
 | **Farra** (Força, Constituição) | Festas, abuso de substâncias, bacanais, e resenha |
 | **Adorno** (Destreza) | Alta costura, pratos refinados, hedonismo, modismos e tendências |
