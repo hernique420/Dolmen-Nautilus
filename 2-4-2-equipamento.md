@@ -28,37 +28,37 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 
 | Item | Custo | 
 | :--- | :--- |
-| Mochila | 4g |
+| Balde | 1g |
 | Barril | 1g |
 | Bolsa de Cinto | 1g |
-| Balde | 1g |
-| Sacola | 1g |
 | Caixa de Pergaminho | 1g |
-| Frasco de vidro | 1g |
 | Cantil | 1g |
+| Frasco de vidro | 1g |
+| Mochila | 4g |
+| Sacola | 1g |
 
 #### Iluminação
 
 | Item | Custo | 
 | :--- | :--- |
-| Velas (10) | 1g |
-| Lanterna (coberta) | 5g |
 | Lanterna (alvo) | 10g |
+| Lanterna (coberta) | 5g |
 | Óleo (frasco) | 1g |
 | Pederneira | 3g |
 | Tochas (3) | 1g |
+| Velas (10) | 1g |
 
 #### Acampamento e Viagem
 
 | Item | Custo | 
 | :--- | :--- |
-| Saco de dormir | 2g |
-| Panelas | 3g |
+| Barraca | 20g |
 | Lenha (8h) | 10g |
-| Vara de pescar e linha | 4g |
-| Rações (preservadas, 1 dia) | 2g |
+| Panelas | 3g |
 | Rações (frescas, 1 dia) | 1g |
-| Barraca | 20g ||
+| Rações (preservadas, 1 dia) | 2g |
+| Saco de dormir | 2g |
+| Vara de pescar e linha | 4g |
 
 #### Itens Sagrados
 
@@ -73,36 +73,54 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 
 | Item | Custo | 
 | :--- | :--- |
-| Sino (miniatura) | 1g |
-| Bloco de polias | 5g |
-| Estrepe (saco com 20) | 1g |
-| Corrente | 30g |
-| Giz (10) | 1g |
-| Cinzel | 2g |
-| Pé de Cabra | 10g |
-| Corda e Gancho | 20g |
-| Martelo | 2g |
-| Martelo | 5g |
-| Tinta (frasco) | 1g* |
-| Cravos de Ferro (12) | 1g |
-| Tranca | 20g |
-| Lupa | 3g |
 | Algemas | 15g |
+| Apito | 1g |
+| Barbante (bola de 30m) | 1g |
+| Bico de Pena | 1g* |
+| Bloco de polias | 5g |
 | Bolinhas de Gude (saco com 20) | 1g |
-| Picareta | 3g |
+| Cinzel | 2g |
+| Corda (15m) | 1g |
+| Corda e Gancho | 20g |
+| Corrente | 30g |
+| Cravos de Ferro (12) | 1g |
+| Escada de Corda (8m) | 5g |
 | Espelho (pequeno) | 5g |
+| Estrepe (saco com 20) | 1g |
+| Ferramentas de Ladrão | 25g |
+| Giz (10) | 1g |
 | Instrumento Musical (Cordas) | 20g |
 | Instrumento Musical (Sopro) | 5g |
-| Papel ou Pergaminho (2 folhas) | 1g*| 
-| Vara (3m, madeira) | 1g | 
-| Bico de Pena | 1g* |
-| Corda (15m) | 1g |
-| Escada de Corda (8m) | 5g |
-| Serra | 1g |
-| Pá | 2g |
 | Livro de Magia (em branco) | 100g |
-| Ferramentas de Ladrão | 25g |
-| Barbante (bola de 30m) | 1g |
-| Apito | 1g |
+| Lupa | 3g |
+| Marreta | 5g |
+| Martelo | 2g |
+| Pá | 2g |
+| Papel ou Pergaminho (2 folhas) | 1g*| 
+| Pé de Cabra | 10g |
+| Picareta | 3g |
+| Serra | 1g |
+| Sino (miniatura) | 1g |
+| Tinta (frasco) | 1g* |
+| Tranca | 20g |
+| Vara (3m, madeira) | 1g |
 
 **fornecido pela Guilda para o Cartógrafo designado*
+
+#### Itens gerais
+
+| Item | Custo | 
+| :--- | :--- |
+| Roupas, comuns | 1g |
+| Roupas, extravagantes | 100g |
+| Roupas, elegantes | 20g |
+| Hábito de Frei | 2g |
+| Mantos ritualísticos | 10g |
+| Capa de Inverno | 2g |
+
+### Moeda
+
+Peças de Ouro (g): Vale 10p, 100c
+Peças de Prata (p): Vale 1/10g, 10c
+Peças de Cobre (c): Vale 1/100g, 1/10p
+Peças de Pelucídio (pp): ???
