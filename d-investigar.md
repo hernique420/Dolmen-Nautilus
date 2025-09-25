@@ -5,6 +5,8 @@ parent: Downtime
 nav_order: 1
 ---
 
+# Investigação
+
 A coleta de informações a longo prazo, seja através da pesquisa de tomos esotéricos, adquiridas através de uma rede de sussurros, ou pela espionagem de um nobre, é resolvida através de _Investigações_.
 
 Para começar uma _Investigação_, o aventureiro precisa de uma _fonte_ de informações, seja acesso a uma vasta biblioteca, amizade com uma coalizão de moleques de rua, um sábio, um espião disfarçado, etc.
