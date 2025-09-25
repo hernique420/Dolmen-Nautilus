@@ -10,19 +10,19 @@ description: "Equipamento, Serviços, e Animais"
 
 Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na disponibilidade indicada). Também oferecemos compostos alquímicos e psicodélicos, de acordo com a disponibilidade. Estoque renovado toda semana.
 
-## Ferreiro: "O Ferreiro" -- Joremeias Pé de Pudim
+### Ferreiro: "O Ferreiro" -- Joremeias Pé de Pudim
 
 Espadas, adagas, prateamento de lâminas, e gravações.
 
-## Estábulo: "O Atoleiro" -- Lumpo Chifre de Grog & Vimsle Caprichosa
+### Estábulo: "O Atoleiro" -- Lumpo Chifre de Grog & Vimsle Caprichosa
 
 Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, por montaria.
 
-## Feira de Moot e Mercado do sol
+### Feira de Moot e Mercado do sol
 
 Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidra fresca, e uma vasta seleção de queijos.
 
-## Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
+### Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
 
 ### Containers
 
