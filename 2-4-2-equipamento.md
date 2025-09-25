@@ -24,6 +24,13 @@ Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, 
 
 Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidra fresca, e uma vasta seleção de queijos.
 
+### Serviços Variados
+
++ A Guilda mantém um banco
+++ Câmbio: moedas de um tipo podem ser trocadas por um tipo equivalente, com uma taxa de câmbio de 3%.
+++ Depósito seguro: fundos podem ser mantidos no cofre
+
+
 ### Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
 
 #### Containers
