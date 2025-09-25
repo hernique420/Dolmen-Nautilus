@@ -30,9 +30,9 @@ O custo de investimento base e pré-requisitos estão listados abaixo:
 
 | Tipo | Custo de Investimento Base | Bônus | Pré-requisitos |
 | :-- | :-- | :-- | :-- |
-| Vilarejo pequeno | 5000g | Nenhuma rolagem é necessária | Área deve ser assegurada, e conter um estabelecimento da Guilda de pelo menos 2000g |
-| Vilarejo | 20.000g | +1 por cada 5000g adicionais. +1 por cada _Instituição_ de _nível 1_ dos investidores no povoado | Deve estar conectado a pelo menos 2 vilarejos pequenos | 
-| Cidade pequena | 80.000g | +1 por cada 20.000g adicionais. +1 por cada _Instituição_ de _nível 2_ dos investidores no povoado | Deve estar conectado a pelo menos 2 vilarejos | 
-| Cidade média | 320.000g | +1 por cada 80.000g adicionais. +1 por cada _Instituição_ de _nível 4_ dos investidores no povoado | Deve estar conectado a pelo menos 2 cidades pequenas | 
-| Cidade grande | 1.280.000g | +1 por cada 320.000g adicionais. +1 por cada _Instituição_ de _nível 6_ dos investidores no povoado | Deve estar conectado a pelo menos 2 cidades médias | 
+| Vilarejo pequeno (20-49 habitantes) | 5000g | Nenhuma rolagem é necessária | Área deve ser assegurada, e conter um estabelecimento da Guilda de pelo menos 2000g |
+| Vilarejo (50-999) | 20.000g | +1 por cada 5000g adicionais. +1 por cada _Instituição_ de _nível 1_ dos investidores no povoado | Deve estar conectado a pelo menos 2 vilarejos pequenos | 
+| Cidade pequena (1000-3999) | 80.000g | +1 por cada 20.000g adicionais. +1 por cada _Instituição_ de _nível 2_ dos investidores no povoado | Deve estar conectado a pelo menos 2 vilarejos | 
+| Cidade média (4000-7999) | 320.000g | +1 por cada 80.000g adicionais. +1 por cada _Instituição_ de _nível 4_ dos investidores no povoado | Deve estar conectado a pelo menos 2 cidades pequenas | 
+| Cidade grande (8000+) | 1.280.000g | +1 por cada 320.000g adicionais. +1 por cada _Instituição_ de _nível 6_ dos investidores no povoado | Deve estar conectado a pelo menos 2 cidades médias | 
 
