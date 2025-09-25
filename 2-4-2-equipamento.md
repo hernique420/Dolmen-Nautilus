@@ -6,25 +6,25 @@ nav_order: 2
 description: "Equipamento, Serviços, e Animais"
 ---
 
-Apotecário: "Homem de Ouro" -- Sidevique Sumoverbo
+## Apotecário: "Homem de Ouro" -- Sidevique Sumoverbo
 
 Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na disponibilidade indicada) . Também oferecemos compostos alquímicos e psicodélicos, de acordo com a disponibilidade. Estoque renovado toda semana.
 
-Ferreiro: "O Ferreiro" -- Joremeias Pé de Pudim
+## Ferreiro: "O Ferreiro" -- Joremeias Pé de Pudim
 
 Espadas, adagas, prateamento de lâminas, e gravações.
 
-Estábulo: "O Atoleiro" -- Lumpo Chifre de Grog & Vimsle Caprichosa
+## Estábulo: "O Atoleiro" -- Lumpo Chifre de Grog & Vimsle Caprichosa
 
 Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, por montaria.
 
-Feira de Moot e Mercado do sol.
+## Feira de Moot e Mercado do sol.
 
 Comidas, bebidas, e produtos agropecuários. Tendas vendendo hortaliças locais, cidra fresca, e uma vasta seleção de queijos.
 
-Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
+## Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
 
-## Containers
+### Containers
 
 | Item | Custo | 
 | :--- | :--- |
@@ -37,7 +37,7 @@ Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
 | Frasco de vidro | 1g |
 | Cantil | 1g |
 
-## Luz
+### Iluminação
 
 | Item | Custo | 
 | :--- | :--- |
@@ -48,7 +48,7 @@ Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
 | Pederneira | 3g |
 | Tochas (3) | 1g |
 
-## Acampamento e Viagem
+### Acampamento e Viagem
 
 | Item | Custo | 
 | :--- | :--- |
@@ -60,7 +60,7 @@ Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
 | Rações (frescas, 1 dia) | 1g |
 | Barraca | 20g ||
 
-## Itens Sagrados
+### Itens Sagrados
 
 | Item | Custo | 
 | :--- | :--- |
@@ -69,7 +69,7 @@ Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
 | Símbolo sagrado (madeira) | 5g |
 | Água benta (frasco) | 25g |
 
-## 
+### 
 
 | Item | Custo | 
 | :--- | :--- |
