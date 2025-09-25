@@ -8,7 +8,7 @@ description: "Equipamento, Serviços, e Animais"
 
 ## Apotecário: "Homem de Ouro" -- Sidevique Sumoverbo
 
-Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na disponibilidade indicada) . Também oferecemos compostos alquímicos e psicodélicos, de acordo com a disponibilidade. Estoque renovado toda semana.
+Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na disponibilidade indicada). Também oferecemos compostos alquímicos e psicodélicos, de acordo com a disponibilidade. Estoque renovado toda semana.
 
 ## Ferreiro: "O Ferreiro" -- Joremeias Pé de Pudim
 
@@ -20,7 +20,7 @@ Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, 
 
 ## Feira de Moot e Mercado do sol
 
-Comidas, bebidas, e produtos agropecuários. Tendas vendendo hortaliças locais, cidra fresca, e uma vasta seleção de queijos.
+Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidra fresca, e uma vasta seleção de queijos.
 
 ## Equipamentos de Aventura "O Chamado do Aventureiro" -- Mantido pela Guilda
 
