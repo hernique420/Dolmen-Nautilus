@@ -14,9 +14,8 @@ Um aventureiro começa como um _leigo_ em qualquer Ofício.
 
 Para tentar aprender um **Ofício**, o aventureiro deve pagar os custos da certificação e rolar ***2d6***. Adicione qualquer bônus aplicável para despesas extras (cada 25% extra no custo adiciona +1) ou bônus situacionais, para um máximo de +3. Cada tentativa leva 1 turno de Downtime.
 
-| | |
-| :--- | :--- |
 | 2d6 | Resultado |
+| :--- | :--- |
 | 10+ | Sucesso |
 | 7-9 | A próxima tentativa de treino é um sucesso automático |
 | 2-6 | Nenhum progresso |
