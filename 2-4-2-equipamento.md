@@ -18,7 +18,7 @@ Espadas, adagas, prateamento de lâminas, e gravações.
 
 Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, por montaria.
 
-## Feira de Moot e Mercado do sol.
+## Feira de Moot e Mercado do sol
 
 Comidas, bebidas, e produtos agropecuários. Tendas vendendo hortaliças locais, cidra fresca, e uma vasta seleção de queijos.
 
