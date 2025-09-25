@@ -10,7 +10,7 @@ nav_order: 1
 ![Banner com todos os Kins](assets/images/kins-banner.jpg)
 
 ## Mossling 
-*Humanoides amadeirados, retorcidos, dos quais a carne fértil hospeda musgos, mofos, e fungos.*
+*Humanoides amadeirados e retorcidos. Sua carne fértil hospeda musgos, mofos, e fungos.*
 <table class="sem-cabecalho">
   
 | Tipo:    | *Mortais*       |
