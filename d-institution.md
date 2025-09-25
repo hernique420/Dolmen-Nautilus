@@ -13,7 +13,7 @@ _Instituições_ oferecem benefícios específicos aos aventureiros que investir
 
 _Instituições_ podem ser categorizadas em sete _níveis_. Para fundar uma _Instituição de nível 1_, um aventureiro deve ter algum tipo de recurso disponível que permita começar as operações. Por exemplo, se eles querem fundar um culto, eles já precisariam ter alguns seguidores comprometidos com a causa. Como uma ação durante o **Turno do Downtime**, eles então podem gastar 500g para estabelecer uma _Instituição_ na cidade da Guilda, e o dobro para outras cidades.
 
-Aventureiros também podem _investir_, _se tornar sócio_, ou _assumir direção_ de _Instituições_ pré-existentes.
+Aventureiros também podem _investir_, _se tornar sócio_, ou _assumir a direção_ de _Instituições_ pré-existentes.
 
 Para avançar o _nível_ de uma _Instituição_, se os pré-requisitos forem atendidos, o aventureiro deve descrever como fará para que essa _Instituição_ cresça. Então deve pagar o custo de investimento base do _nível_ para o qual a _Instituição_ avançaria, e roda 2d6. O aventureiro pode gastar mais para conseguir um bônus, para um máximo de +3. 
 
