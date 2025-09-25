@@ -73,28 +73,34 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 
 | Item | Custo | 
 | :--- | :--- |
-| Velas (10) | 1g |
-| Lanterna (coberta) | 5g |
-| Lanterna (alvo) | 10g |
-| Óleo (frasco) | 1g |
-| Pederneira | 3g |
-| Tochas (3) | 1g |
-| Velas (10) | 1g |
-| Lanterna (coberta) | 5g |
-| Lanterna (alvo) | 10g |
-| Óleo (frasco) | 1g |
-| Pederneira | 3g |
-| Tochas (3) | 1g |
-| Velas (10) | 1g |
-| Lanterna (coberta) | 5g |
-| Lanterna (alvo) | 10g |
-| Óleo (frasco) | 1g |
-| Pederneira | 3g |
-| Tochas (3) | 1g |
-| Velas (10) | 1g |
-| Lanterna (coberta) | 5g |
-| Lanterna (alvo) | 10g |
-| Óleo (frasco) | 1g |
-| Pederneira | 3g |
-| Tochas (3) | 1g |
-
+| Sino (miniatura) | 1g |
+| Bloco de polias | 5g |
+| Estrepe (saco com 20) | 1g |
+| Corrente | 30g |
+| Giz (10) | 1g |
+| Cinzel | 2g |
+| Pé de Cabra | 10g |
+| Corda e Gancho | 20g |
+| Martelo | 2g |
+| Martelo | 5g |
+| Tinta (frasco) | 1, fornecido pela Guilda para o Cartógrafo designado) |
+| Cravos de Ferro (12) | 1g |
+| Tranca | 20g |
+| Lupa | 3g |
+| Algemas | 15g |
+| Bolinhas de Gude (saco com 20) | 1g |
+| Picareta | 3g |
+| Espelho (pequeno) | 5g |
+| Instrumento Musical (Cordas) | 20g |
+| Instrumento Musical (Sopro) | 5g |
+| Papel ou Pergaminho (2 folhas) | 1g, fornecido pela Guilda para o Cartógrafo designado |
+| Vara (3m, madeira) | 1g | 
+| Bico de Pena | 1g, fornecido pela Guilda para o Cartógrafo designado |
+| Corda (15m) | 1g |
+| Escada de Corda (8m) | 5g |
+| Serra | 1g |
+| Pá | 2g |
+| Livro de Magia (em branco) | 100g |
+| Ferramentas de Ladrão | 25g |
+| Barbante (bola de 30m) | 1g |
+| Apito | 1g |
