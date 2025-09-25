@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Resgate
 
-Se um aventureiro não consegue voltar para uma cidade a tempo, ele precisa gastar seu turno de Downtime com a ação de _resgate_, e rodar ***1d6***:
+Se um aventureiro não consegue voltar para alguma cidade até o fim da sessão, ele precisa gastar seu turno de Downtime com a ação de _resgate_, e rodar ***1d6***:
 
 1. Personagem sofre uma lesão debilitante. Uma habilidade aleatória é diminuida por -1.
 2. Um item aleatório é perdido no caminho de casa.
