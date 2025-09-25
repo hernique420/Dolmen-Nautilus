@@ -3,6 +3,11 @@ $link-color: #c17a5f;
 $button-color: #c17a5f;
 $border-color: #4a4a4a;
 
-thead {
+table.sem-cabecalho thead {
     display: none;
+}
+
+table:not(.sem-cabecalho) thead {
+    background-color: #8c977d22; // Verde claro transparente
+    font-weight: bold;
 }
