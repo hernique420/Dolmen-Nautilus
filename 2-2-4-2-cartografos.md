@@ -25,7 +25,9 @@ _exemplo de mapa mais bonito e complexo do que o necessário_
 
 <img width="560" height="520" alt="image" src="https://github.com/user-attachments/assets/f33cad96-55f4-420e-aa60-c97c29729603" />\
  
-+ Quando se aventurando por calabouços, os Cartógrafos devem manter registro das salas e corredores, assim como armadilhas e problemas em potenciais, para auxiliar a navegação de futuros aventureiros. Para isso sugerimos o Dungeon Scrawl para facilitar, que é uma ferramenta que produz imagens como acioma, mas o Cartógrafo está livre para fazer como preferir. Cada "quadradinho" representa 1,5m, e os aventureiros da Guilda são encorajados a bolarem uma linguagem comum de símbolos para representar portas, armadilhas, e afins. Algumas sugestões podem ser vistas [aqui](https://matthewlowes.com/wp-content/uploads/2014/01/dungeon-symbols.jpg) e [aqui](https://dysonlogos.blog/wp-content/uploads/2013/12/map-key.jpg).
++ Quando se aventurando por calabouços, os Cartógrafos devem manter registro das salas e corredores, assim como armadilhas e problemas em potenciais, para auxiliar a navegação de futuros aventureiros. Para isso sugerimos o Dungeon Scrawl para facilitar, que é uma ferramenta que produz imagens como acioma, mas o Cartógrafo está livre para fazer como preferir.
+
++   Cada "quadradinho" representa 1,5m, e os aventureiros da Guilda são encorajados a bolarem uma linguagem comum de símbolos para representar portas, armadilhas, e afins. Algumas sugestões podem ser vistas [aqui](https://matthewlowes.com/wp-content/uploads/2014/01/dungeon-symbols.jpg) e [aqui](https://dysonlogos.blog/wp-content/uploads/2013/12/map-key.jpg).
 
 O cartógrafo recebe 50 XP por hex mapeado, e 50 XP por sala de calabouço. A recompensa por mapa consolidado no Discord é de 50 XP.
  
