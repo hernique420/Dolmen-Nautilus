@@ -21,17 +21,20 @@ Nossas mesas **não têm horário fixo**. Cabe a **você**:
 2.  Escolher um objetivo para a sessão (baseado nos [rumores](rumores.md) e nas informações compartilhadas entre jogadores).
 3.  [Agendar uma sessão](rumores.md) em um dos horários disponíveis.
 
-Se você é um cavaleiro e quer explorar um calabouço cheio de esqueletos, talvez seja bom chamar um clérigo. Mas um grupo de 2 bardos e 2 freis provavelmente não teriam problema numa simples pescaria. ...Certo? A liberdade (e a responsabilidade) de montar seu grupo é dos jogadores, e também de informar seus colegas para os perigos que sua expedição promete.
+Se você é um cavaleiro e quer explorar um calabouço cheio de esqueletos, talvez seja bom chamar um clérigo. Mas um grupo formado por 2 bardos e 2 freis, e a missão é uma simples pescaria, provavelmente não vai ter muitos problemas... certo? A liberdade (e a responsabilidade) de montar um grupo é dos jogadores, e também de informar seus colegas para os perigos que sua expedição promete. 
 
 ## O Espírito do Jogo
 
-Mas dito isso, existem poucas razões para passar seu tempo participando de um jogo esquisito como esse: **conhecer e passar tempo com pessoas novas** e **fazer algo divertido com pessoas que você já conhece**.
+Mas dito isso, existem poucas razões para passar seu tempo participando de um jogo esquisito como esse: **conhecer e passar tempo com pessoas novas** e **fazer algo divertido com pessoas que você já conhece**. Os grupos podem ser pré-formados, ou uma chamada aberta pode ser feita para quem estiver disponível, mas pede-se que nenhum grupo se repita por mais do que duas vezes seguidas. E além disso:
 
-Portanto:
 *   🎲 - **Não se intimide com as regras.**
 *   🔬 - **Não tenha medo de arriscar e experimentar.**
 *   💀 - **Aceite a possibilidade da morte do seu personagem com graça.**
 *   🤝 - **E nunca, nunca culpe ninguém pelo que acontecer com seu personagem em Dolmenwood, nem a si mesmo.** É, afinal de contas, um jogo de dados e a sorte pode ser caprichosa.
+
+Leia também o nosso Código de Conduta disponível aqui.
+
+MUDAR TUDO DAQUI PRA BAIXO VVVVVVVVVVVVVVVVV
 
 ## Próximos Passos na Guilda
 
