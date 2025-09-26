@@ -39,9 +39,9 @@ Em outras palavras, o rótulo OSR implica, entre outras coisas, que
 
 ### ⚙️ Mais detalhes sobre OSR
 
-Uma das vantagens do OSR para uma mesa aberta são seus sistemas de regras simples, e que permitem a tomada de decisões justas e narrativamente consistentes por parte do árbitro. 
+Uma das vantagens do OSR para uma mesa aberta são seus sistemas de regras simples, baseados na tomada de decisões justas e narrativamente consistentes por parte do árbitro. 
 
-A simplicidade das regras faz com que OSR seja bem intuitivo... contanto que você esteja disposto a jogar como um aventureiro competente mas não muito (talvez "um herói, não um super-herói"), interessado em sobreviver, fazer algum dinheiro, e conhecer o mundo de Dolmenwood e seus habitantes. 
+A simplicidade das regras faz com que OSR seja bem intuitivo... contanto que você esteja disposto a jogar como um aventureiro competente -- mas não muito (talvez "um herói, não um super-herói"), interessado em sobreviver, fazer algum dinheiro, e conhecer o mundo de Dolmenwood e seus habitantes. 
 
 Mas a simplicidade da regra funciona com base em outras regras implícitas. O acordo tácito que garante o espírito do jogo, a confiança mútua...
 
@@ -56,16 +56,15 @@ Da parte do árbitro, de que os jogadores se envolverão com o mundo em boa fé,
 
 ### 🗺️ Mais alguns detalhes sobre RPGs focados na exploração
 
-Este é um jogo que foca bastante nas amplas possibilidades e longas travessias pelas florestas de Dolmenwood. Isso significa que você irá se preocupar com uma série de coisas que 
-à primeira vista podem parecer mundanas e sacais pra muita gente, mas a promessa é que esse também é o motor que permite a aventura. 
+Este é um jogo que foca bastante nas amplas possibilidades e longas travessias pelas florestas de Dolmenwood. Isso significa que você irá se preocupar com uma série de coisas que à primeira vista podem parecer mundanas e sacais pra muita gente, mas a promessa é que esse também é o motor que move a aventura. 
 
 **Coisas como:**
 
 + **Suprimentos:** comida, tochas, e o preço da estalagem
 + **Inventário:** quantos itens seu personagem consegue carregar confortavelmente (e como tirar todo aquele tesouro daquela caverna)
-+ **Logística:** quantos quilômetros seu personagem consegue viajar por dia com esse peso todo, antes que seu grupo precise acampar
++ **Logística:** quantos quilômetros seu personagem consegue viajar por dia com esse peso todo antes que seu grupo precise acampar
 
-É essa pequena burocracia e essas pequenas decisões de gerenciamento de recursos (e o negligenciamento desses recursos...) que irão gerar situações, complicações, e possibilidades para os personagens viajando por esse mundo aberto sem uma história pré-estabelecida.
+É essa pequena burocracia e essas pequenas decisões de gerenciamento de recursos (e o negligenciamento dessa burocracia...) que irão gerar situações, complicações, e possibilidades para os personagens viajando por esse mundo aberto sem uma história pré-estabelecida.
 
 Ficar sem comida talvez force uma **aliança indesejada**, ou necessite uma **caça arriscada**; levar mais tempo no caminho de casa também significa o risco de **mais encontros** (nem todos hostis, mas ninguém quer pagar pra ver); acampar **sem o equipamento adequado** e dormir no sereno pode não ser ideal se o plano é explorar **aquela ruína assombrada** amanhã.
 
@@ -75,7 +74,7 @@ Se no início é necessário contar a quantidade de tochas, isso também signifi
 
 + estabelecer uma rota de comércio com uma cidade vizinha;
 + organizar uma célula revolucionária para derrubar um tirano local;
-+ fundar uma instituição para ajudar todos aqueles que sofrem de saudades eternas do mundo das fadas;
++ fundar uma grupo de ajuda para ajudar todos aqueles que sofrem de saudades eternas do mundo das fadas;
 + ou qualquer outra coisa que faça sentido dentro do mundo. 
 
 E essa recompensa talvez pareça mais valiosa, quando você lembrar que seu personagem e seus amigos da guilda quase foram de base tentando trazer aquele item mágico pra casa no meio da noite, com fome e frio. (Ok, um dos preceitos do OSR é que seu personagem tem uma boa chance de morrer, mas a gente cruza essa ponte quando chegarmos nela. Pensamento positivo).
