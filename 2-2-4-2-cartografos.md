@@ -29,7 +29,9 @@ _exemplo de mapa mais bonito e complexo do que o necessário_
 
 +   Cada "quadradinho" representa 1,5m, e os aventureiros da Guilda são encorajados a bolarem uma linguagem comum de símbolos para representar portas, armadilhas, e afins. Algumas sugestões podem ser vistas [aqui](https://matthewlowes.com/wp-content/uploads/2014/01/dungeon-symbols.jpg) e [aqui](https://dysonlogos.blog/wp-content/uploads/2013/12/map-key.jpg).
 
-O cartógrafo recebe 50 XP por hex mapeado, e 50 XP por sala de calabouço. A recompensa por mapa consolidado no Discord é de 50 XP.
+O cartógrafo recebe 50 XP por hex mapeado, e 50 XP por sala de calabouço. Novas descobertas em hexes ou salas previamente mapeadas também valem 50 XP.
+
+A recompensa por mapa consolidado no Discord é de 50 XP.
  
 
 
