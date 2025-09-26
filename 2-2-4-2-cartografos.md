@@ -32,7 +32,8 @@ _exemplo de mapa mais bonito e complexo do que o necessário_
 O cartógrafo recebe 50 XP por hex mapeado, e 50 XP por sala de calabouço. Novas descobertas em hexes ou salas previamente mapeadas também valem 50 XP.
 
 A recompensa por mapa consolidado no Discord é de 50 XP.
- 
+
+Cartógrafos recorrentes podem receber benefícios especiais.
 
 
 
