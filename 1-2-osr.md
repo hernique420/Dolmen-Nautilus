@@ -30,7 +30,7 @@ Em outras palavras, o rótulo OSR implica, entre outras coisas, que
 
 ## ❌ É claro que não.  
 
-"Comprar" essa filosofia de jogo não é necessária, e se ainda soa meio confuso não se preocupe, esse entendimento se constrói na mesa. Mas também é útil manter alguns princípios em mente, para que todos que venham jogar estejam com as expectativas mais ou menos alinhadas, pra que possamos aproveitar a experiência da melhor forma.
+"Comprar" essa filosofia de jogo não é necessária, e se ainda soa meio confuso não se preocupe, esse entendimento se constrói na mesa (ou, no nosso caso, no Discord). Mas também é útil manter alguns princípios em mente, para que todos que venham jogar estejam com as expectativas mais ou menos alinhadas, pra que possamos aproveitar a experiência da melhor forma.
 
 ---
 
