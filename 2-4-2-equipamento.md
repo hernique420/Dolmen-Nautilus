@@ -8,15 +8,15 @@ description: "Equipamento, Serviços, e Animais"
 
 # Equipamentos, Serviços, e Animais
 
-Apotecário: "Homem de Ouro" -- Sidevique Sumoverbo
+## Apotecário: "Homem de Ouro" -- _Sidevique Sumoverbo_
 
 Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na disponibilidade indicada). Também oferecemos compostos alquímicos e psicodélicos, de acordo com a disponibilidade. Estoque renovado toda semana.
 
-## Ferreiro: "O Ferreiro" -- Joremeias Pé de Pudim
+## Ferreiro: "O Ferreiro" -- _Joremeias Pé de Pudim_
 
 Espadas, adagas, prateamento de lâminas, e gravações.
 
-## Estábulo: "Atoleiro" -- Lumpo Chifre de Grog & Vimsle Caprichosa
+## Estábulo: "Atoleiro" -- _Lumpo Chifre de Grog & Vimsle Caprichosa_
 
 Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, por montaria.
 
