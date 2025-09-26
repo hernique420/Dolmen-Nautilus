@@ -6,7 +6,6 @@ nav_order: 1
 ---
 # Bicos 
 Aventureiros podem querer usar sua Classe para ganhar um dinheiro extra. Por exemplo, bardos podem se apresentar em tavernas, ladinos podem bater carteiras em um mercado movimentado. Personagens podem ganhar **3d6g** por dia dessa forma.
-
 # Ofício
 Em raras ocasiões, um aventureiro pode agir contra sua natureza e se dedicar à educação prática em um **Ofício**, como artesão, cozinheiro, artista, etc.
 
