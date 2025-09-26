@@ -21,7 +21,7 @@ O mapa acima é um mapa de toda a extensão de Dolmenwood, e ao início da campa
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b7d4d7bc-c064-4113-b1eb-f9097975c682" />\
 _exemplo de mapa mais bonito e complexo do que o necessário_
 
-+ Quando viajando pelos ermos, os aventureiros encontrarão locais marcantes que servem como pontos de referência em cada hex, chamados de marcos de navegação, assim como rios, estradas, e trilhas. O objetivo principal do Cartógrafo é se manter atento à descrição do Árbitro, esclarecer detalhes incompletos, e anotar os detalhes importantes e representar a região no hex apropriado. É mais sobre organizar informações e saber o caminho de casa, do que desenhar.
++ Quando viajando pelos ermos, os aventureiros encontrarão locais marcantes que servem como pontos de referência em cada hex, chamados de marcos de navegação, assim como rios, estradas, e trilhas. O objetivo principal do Cartógrafo é se manter atento à descrição do Árbitro, esclarecer detalhes incompletos, e anotar os detalhes importantes para representar a região no hex apropriado. É mais sobre organizar informações e saber o caminho de casa, do que desenhar.
 
 <img width="460" height="420" alt="image" src="https://github.com/user-attachments/assets/f33cad96-55f4-420e-aa60-c97c29729603" />\
  
