@@ -14,7 +14,7 @@ A Guilda requer que cada aventureiro saindo em expedição assuma um ou mais car
 + Cronistas são responsáveis por registrarem os acontecimentos e novos rumores
 + Guardiões ficam encarregados de cuidar do inventário do grupo durante viagens
 
-Companheiros são um tipo especial de personagem que podem ser contratados por aventureiros que precisam de uma mãozinha. Companheiros são criados jogadores da audiência.
+Companheiros são um tipo especial de personagem que podem ser contratados por aventureiros que precisam de uma mãozinha. Companheiros são criados por jogadores da audiência
 
-Mais detalhes sobre cada cargo em suas respectivas páginas.
+Mais detalhes sobre cada cargo em suas respectivas páginas
 
