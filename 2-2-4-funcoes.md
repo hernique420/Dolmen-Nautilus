@@ -16,3 +16,5 @@ A Guilda requer que cada aventureiro saindo em expedição assuma um ou mais car
 
 Companheiros são um tipo especial de personagem que podem ser contratados por aventureiros que precisam de uma mãozinha. Companheiros são criados jogadores da audiência.
 
+Mais detalhes sobre cada cargo em suas respectivas páginas.
+
