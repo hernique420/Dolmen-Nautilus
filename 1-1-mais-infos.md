@@ -18,7 +18,7 @@ Temos uma campanha **comunitária e dirigida pelos jogadores**. Isso significa q
 
 Nossas mesas **não têm horário fixo**. Cabe a **você**:
 1.  Formar um grupo.
-2.  Escolher um objetivo para a sessão (baseado nos [rumores](rumores.md) e nas informações compartilhadas entre jogadores).
+2.  Escolher um objetivo para a sessão (baseado nos [rumores](rumores.md), nas informações compartilhadas entre jogadores, e nos seus próprios interesses).
 3.  [Agendar uma sessão](rumores.md) em um dos horários disponíveis.
 
 Se você é um cavaleiro e quer explorar um calabouço cheio de esqueletos, talvez seja bom chamar um clérigo. Mas um grupo formado por 2 bardos e 2 freis, e a missão é uma simples pescaria, provavelmente não vai ter muitos problemas... certo? A liberdade (e a responsabilidade) de montar um grupo é dos jogadores, e também de informar seus colegas para os perigos que sua expedição promete. 
