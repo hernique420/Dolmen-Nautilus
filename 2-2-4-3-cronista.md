@@ -9,9 +9,4 @@ A responsabilidade do Cronista é manter registro dos acontecimentos da aventura
 
 Além disso, novas informações que parecem dignas de investigação devem ser colocadas logo abaixo dessa lista. Caso o rumor seja investigado por outro grupo de aventureiros, o Cronista também recebe XP.
 
-Exemplo:
-
-Sessão do dia 20/04: [nome dos participantes] 
-
-+ Encontramos um breggle sábio na saída da cidade, que nos falou de um covil ao norte
-+ 
+Após essa burocracia, o Cronista fica livre para descrever em quantos detalhes achar necessário a sessão e os acontecimentos. Nunca se sabe quais detalhes podem ser importantes.
