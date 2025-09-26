@@ -17,7 +17,7 @@ Temos uma campanha **comunitária e dirigida pelos jogadores**. Isso significa q
 *   ⚔️ A derrota de uma ameaça perigosa torna as estradas um pouco mais seguras para todo mundo.
 
 Nossas mesas **não têm horário fixo**. Cabe a **você**:
-1.  Montar um grupo.
+1.  Formar um grupo.
 2.  Escolher um objetivo para a expedição (baseado nos [rumores](rumores.md) e nas informações compartilhadas entre jogadores).
 3.  [Agendar uma Expedição](rumores.md) em um dos horários disponíveis.
 
