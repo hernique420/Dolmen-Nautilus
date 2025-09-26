@@ -18,7 +18,7 @@ Mantido por **Joremeias Pé de Pudim** -- Espadas, adagas, prateamento de lâmin
 
 ## Estábulo: "Atoleiro"
 
-Mantido por **Lumpo Chifre de Grog e Vimsle Caprichosa** -- Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, por montaria.
+Mantido por **Lumpo Chifre de Grog e Vimsle Caprichosa** -- Cavalos de viagem e mulas de boa qualidade quase toda semana. Estadia: 3sp por noite, por montaria.
 
 ## Feira de Moot e Mercado do Sol
 
