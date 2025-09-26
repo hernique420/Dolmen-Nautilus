@@ -8,32 +8,34 @@ description: "Equipamento, Serviços, e Animais"
 
 # Equipamentos, Serviços, e Animais
 
-## Apotecário: "Homem de Ouro" -- _Sidevique Sumoverbo_
+## Apotecário: "Homem de Ouro"
 
-Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na disponibilidade indicada). Também oferecemos compostos alquímicos e psicodélicos, de acordo com a disponibilidade. Estoque renovado toda semana.
+Mantido por **Sidovique Sumoverbo**: Compra e venda de fungos e ervas (todas as ervas e fungos da p.130 do DPB, na disponibilidade indicada). Também oferecemos compostos alquímicos e psicodélicos, de acordo com a disponibilidade. Estoque renovado toda semana.
 
-## Ferreiro: "O Ferreiro" -- _Joremeias Pé de Pudim_
+## Ferreiro: "O Ferreiro"
 
-Espadas, adagas, prateamento de lâminas, e gravações.
+Mantido por **Joremeias Pé de Pudim** -- Espadas, adagas, prateamento de lâminas, e gravações.
 
-## Estábulo: "Atoleiro" -- _Lumpo Chifre de Grog & Vimsle Caprichosa_
+## Estábulo: "Atoleiro"
 
-Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, por montaria.
+Mantido por **Lumpo Chifre de Grog e Vimsle Caprichosa** -- Cavalos de viagem e mulas de boa qualidade toda semana. Estadia: 3sp por noite, por montaria.
 
 ## Feira de Moot e Mercado do Sol
 
 Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidra fresca, e uma vasta seleção de queijos.
 
-## "O Chamado do Aventureiro" -- Serviços mantidos pela Guilda
+## Guilda: "O Chamado da Aventura"
+
+Serviços de estalagem e logística são mantidos por **Margarida Sebastiana**, enquanto as funções administrativas da Guilda são mantidas por **Bituca**.  
 
 ### Serviços Bancários
 
 + **Câmbio**: Moedas de um tipo podem ser trocadas por outras de valor equivalente. A taxa de câmbio é de 3%.
 + **Depósito seguro**: Fundos guardados de forma segura no banco não são reduzidos ao fim do Turno de Downtime. Sem taxas por um mês, 10% de taxas a cada mês seguinte.
 + **Empréstimos**: Um item de igual valor deve ser deixado como depósito. A taxa é 10% do valor do empréstimo por mês. Personagens conhecidos e respeitados podem conseguir empréstimos por taxas menores e sem um depósito.
-
-
-### Compra e venda de equipamentos básicos, listados abaixo
++ **Compra e Venda de Tesouros**: Gemas, jóias, e objetos de arte podem ser vendidas e compradas. Tipicamente aventureiros compram jóias por 100% do seu valor, e vendem por 80% do seu valor.
++ **Comissão de Armas e Armaduras**: Armas e armaduras incomuns ou indisponíveis podem ser comissionadas através da Guilda. O aventureiro declara o que quer, e a Guilda descobrirá se é possível, e o que custaria, após uma semana.
++ **Compra e Venda de Equipamentos**: Aventureiros podem comprar comprar equipamentos ao início da sessão, ou durante o **Downtime** sem gastar uma ação. A tabela abaixo mostra todos os itens prontamente disponíveis. Equipamentos em boas condições podem ser revendidos por 50% do seu valor em condições normais.
 
 #### Containers
 
@@ -134,4 +136,3 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 **Peças de Ouro (g):** Vale 10p, 100c\
 **Peças de Prata (p):** Vale 1/10g, 10c\
 **Peças de Cobre (c):** Vale 1/100g, 1/10p\
-**Peças de Pelucídio (pp):** ???\
