@@ -13,3 +13,4 @@ Adicionalmente, os Guardiões podem fazer anotações sobre criaturas, seus comp
 
 O Guardião recebe 200 XP por cada aventura bem sucedida.
 
+Guardiões recorrentes podem receber benefícios especiais.
