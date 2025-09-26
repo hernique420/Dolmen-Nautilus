@@ -26,7 +26,7 @@ Em outras palavras, o rótulo OSR implica, entre outras coisas, que
 + "**Você** joga como o seu personagem, e não como o roteirista do seu personagem"
 + ...entre outras máximas e axiomas (e você vai perceber que é uma galera que gosta muito dos seus axiomas)
 
-## ❓ Você precisa entender alguma coisa do que eu estou falando pra jogar Dolmenwood?
+## ❓ Você precisa entender alguma coisa do que eu estou falando pra jogar Dolmenwood com a gente?
 
 ## ❌ É claro que não.  
 
