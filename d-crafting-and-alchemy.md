@@ -5,6 +5,8 @@ parent: Downtime
 nav_order: 1
 ---
 
+<img width="702" height="522" alt="image" src="https://github.com/user-attachments/assets/17012426-7554-4d56-a8e3-d085d8fbb96f" />
+
 # Artesanato & Alquimia
 
 Através dessa ação, um aventureiro que é pelo menos um _aprendiz_ em um certo _Ofício_ pode tentar criar ou assegurar itens relacionados ao seu ofício.
