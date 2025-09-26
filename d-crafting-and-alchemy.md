@@ -14,6 +14,7 @@ Para fazer isso, eles inicialmente pagam 30% do valor do item que eles estão te
 Então, o aventureiro roda **2d6**, além de qualquer bônus do seu ofício. Cada tentativa leva um **Turno de Downtime**.
 
 | 2d6 | Resultado |
+| :-- | :-- |
 | 10+ | A tentativa é bem sucedida |
 | 7-9 | Trate a próxima tentativa como um sucesso automático |
 | 2-6 | Nenhum progresso é feito |
