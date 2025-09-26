@@ -28,7 +28,7 @@ Comidas, bebidas, e produtos agropecuários. Tendas com hortaliças locais, cidr
 
 Serviços de estalagem e logística são mantidos por **Margarida Sebastiana**, enquanto as funções administrativas da Guilda são mantidas por **Bituca**.  
 
-### Serviços Bancários
+### Serviços variados
 
 + **Câmbio**: Moedas de um tipo podem ser trocadas por outras de valor equivalente. A taxa de câmbio é de 3%.
 + **Depósito seguro**: Fundos guardados de forma segura no banco não são reduzidos ao fim do Turno de Downtime. Sem taxas por um mês, 10% de taxas a cada mês seguinte.
