@@ -10,4 +10,6 @@ A responsabilidade do Cronista é manter registro dos acontecimentos da aventura
 
 Além disso, novas informações que parecem dignas de investigação devem ser colocadas logo abaixo dessa lista. Caso o rumor seja investigado por outro grupo de aventureiros, o Cronista também recebe XP.
 
-Após essa burocracia, o Cronista fica livre para descrever em quantos detalhes achar necessário a sessão e os acontecimentos. Nunca se sabe quais detalhes podem ser importantes.
+Após essa burocracia, o Cronista fica livre para descrever em quantos detalhes achar necessário os acontecimentos da sessão. Nunca se sabe quais detalhes podem ser importantes mais tarde...
+
+O Cronista recebe 200 XP por cada relatório detalhado, e X XP por cada rumor que for investigado mais tarde.
