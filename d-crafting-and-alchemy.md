@@ -7,8 +7,6 @@ nav_order: 1
 
 # Artesanato & Alquimia
 
-## Artesanato & Alquimia
-
 Através dessa ação, um aventureiro que é pelo menos um _aprendiz_ em um certo _Ofício_ pode tentar criar ou assegurar itens relacionados ao seu ofício.
 
 Para fazer isso, eles inicialmente pagam 30% do valor do item que eles estão tentando criar ou assegurar, representando o custo do material, funcionários, e afins. _Instituições_ relevantes podem baixar esse valor para 10%.
