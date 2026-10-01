@@ -32,7 +32,7 @@ Mas dito isso, existem poucas razões para passar seu tempo participando de um j
 *   💀 - **Aceite a possibilidade da morte do seu personagem com graça e elegância.**
 *   🤝 - **E nunca, nunca culpe ninguém pelo que acontecer com seu personagem em Dolmenwood, nem a si mesmo.** É, afinal de contas, um jogo de dados e a sorte pode ser caprichosa.
 
-Leia também o nosso **[Código de Conduta](1-3-conduta.md)**.
+Leia também o nosso **[Código de Conduta](1-3-conduta.html)**.
 
 MUDAR TUDO DAQUI PRA BAIXO VVVVVVVVVVVVVVVVV
 
