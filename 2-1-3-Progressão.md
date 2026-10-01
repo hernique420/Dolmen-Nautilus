@@ -9,7 +9,7 @@ nav_order: 3
 
 Existem múltiplas maneiras de ganhar XP
 *   1g (em tesouro recuperado) = 1xp
-*    Cada tesouro tem um valor em ouro, e ao adquirir um tesouro e voltar em segurança, o aventureiro ganha 1xp por cada 1g que o tal tesouro vale. "Tesouro" se refere à moedas, jóias, gemas, e objetos de arte que são recuperados de locais perigosos (campos de inimigos, lar de monstros, etc). Objetos mágicos não costumam dar xp, já que são sua própria recompensa.
+*        Cada tesouro tem um valor em ouro, e ao adquirir um tesouro e voltar em segurança, o aventureiro ganha 1xp por cada 1g que o tal tesouro vale. "Tesouro" se refere à moedas, jóias, gemas, e objetos de arte que são recuperados de locais perigosos (campos de inimigos, lar de monstros, etc). Objetos mágicos não costumam dar xp, já que são sua própria recompensa.
 *   Criaturas derrotadas
     Isso se refere não apenas à criaturas mortas, mas criaturas que fugiram, foram afugentadas, etc.
 *   Confirmar a veracidade de um rumo
