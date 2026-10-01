@@ -7,6 +7,8 @@ nav_order: 3
 
 # Como ganhar XP?
 
+(OS VALORES ABAIXOS PODEM MUDAR DURANTE AS SESSÕES DE TESTE (AS QUATRO PRIMEIRAS, DIGAMOS)
+
 Existem múltiplas maneiras de ganhar XP
 *   1g (em tesouro recuperado) = 1xp
 
