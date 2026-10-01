@@ -34,8 +34,6 @@ Mas dito isso, existem poucas razões para passar seu tempo participando de um j
 
 Leia também o nosso **[Código de Conduta](1-3-conduta.html)**.
 
-MUDAR TUDO DAQUI PRA BAIXO VVVVVVVVVVVVVVVVV
-
 ## Próximos Passos na Guilda
 
 Esperamos que essa introdução tenha despertado sua curiosidade. 
@@ -45,8 +43,8 @@ Esperamos que essa introdução tenha despertado sua curiosidade.
 
 [Acesse nosso Discord!](LINK) É lá onde nossos jogos acontecem, e você pode encontrar todas as informações atualizadas.
 
-1.  **[Leia o Guia do Jogador](guia-do-jogador.html)** - O essencial para jogar em nosso mundo compartilhado.
-2.  **[Crie seu Personagem](criacao-de-personagem.html)** - Use nosso guia passo a passo.
-3.  **[Se informe sobre o mundo](lore.html)** - Tudo que sabíamos sobre Dolmenwood quando chegamos aqui.
-4.  **[Consulte o Banco de Rumores](rumores.html)** - Para planejar sua próxima expedição.
-5.  **[Veja o Quadro de Expedições no nosso Discord](XXX LINK PARA O DISCORD XXX)** - Para marcar sua sessão.
+1.  **[Leia o Guia do Jogador](2-0-guia-do-jogador.html)** - O essencial para jogar em nosso mundo compartilhado.
+2.  **[Crie seu Personagem](2-1-regras-da-casa.html.html)** - Use nosso guia passo a passo.
+3.  **[Se informe sobre o mundo](4-1-lore.html)** - Tudo que sabíamos sobre Dolmenwood quando chegamos aqui.
+4.  **[Consulte o Banco de Rumores](2-2-2-rumores.html)** - Para planejar sua próxima expedição.
+5.  **[Veja o Quadro de Expedições no nosso Discord](3-0-discord.html)** - Para marcar sua sessão.
