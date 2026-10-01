@@ -18,8 +18,8 @@ Temos uma campanha **comunitária e dirigida pelos jogadores**. Isso significa q
 
 Nossas mesas **não têm horário fixo**. Cabe a **você**:
 1.  Formar um grupo.
-2.  Escolher um objetivo para a sessão (baseado nos [rumores](rumores.md), nas informações compartilhadas entre jogadores, e nos seus próprios interesses).
-3.  [Agendar uma sessão](rumores.md) em um dos horários disponíveis.
+2.  Escolher um objetivo para a sessão (baseado nos [rumores](rumores.html), nas informações compartilhadas entre jogadores, e nos seus próprios interesses).
+3.  [Agendar uma sessão](rumores.html) em um dos horários disponíveis.
 
 Se você é um cavaleiro e quer explorar um calabouço cheio de esqueletos, talvez seja bom chamar um clérigo. Mas um grupo formado por 2 bardos e 2 freis, e a missão é uma simples pescaria, provavelmente não vai ter muitos problemas... certo? A liberdade (e a responsabilidade) de montar um grupo é dos jogadores, e também de informar seus colegas para os perigos que sua expedição promete. 
 
@@ -40,13 +40,13 @@ MUDAR TUDO DAQUI PRA BAIXO VVVVVVVVVVVVVVVVV
 
 Esperamos que essa introdução tenha despertado sua curiosidade. 
 
-*  Se você ainda não se sente pronto, você pode participar criando um **[Companheiro](companheiros.md)** que pode ser contratado pelos jogadores, ou disputar no **[Conselho](conselho.md)** para decidir como aplicar os fundos do Banco Comum. 
+*  Se você ainda não se sente pronto, você pode participar criando um **[Companheiro](companheiros.html)** que pode ser contratado pelos jogadores, ou disputar no **[Conselho](conselho.md)** para decidir como aplicar os fundos do Banco Comum. 
 *  Mas se você está seguindo o chamado da aventura, aqui estão os seus primeiros passos:
 
 [Acesse nosso Discord!](LINK) É lá onde nossos jogos acontecem, e você pode encontrar todas as informações atualizadas.
 
-1.  **[Leia o Guia do Jogador](guia-do-jogador.md)** - O essencial para jogar em nosso mundo compartilhado.
-2.  **[Crie seu Personagem](criacao-de-personagem.md)** - Use nosso guia passo a passo.
-3.  **[Se informe sobre o mundo](lore.md)** - Tudo que sabíamos sobre Dolmenwood quando chegamos aqui.
-4.  **[Consulte o Banco de Rumores](rumores.md)** - Para planejar sua próxima expedição.
+1.  **[Leia o Guia do Jogador](guia-do-jogador.html)** - O essencial para jogar em nosso mundo compartilhado.
+2.  **[Crie seu Personagem](criacao-de-personagem.html)** - Use nosso guia passo a passo.
+3.  **[Se informe sobre o mundo](lore.html)** - Tudo que sabíamos sobre Dolmenwood quando chegamos aqui.
+4.  **[Consulte o Banco de Rumores](rumores.html)** - Para planejar sua próxima expedição.
 5.  **[Veja o Quadro de Expedições no nosso Discord](XXX LINK PARA O DISCORD XXX)** - Para marcar sua sessão.
