@@ -4,6 +4,7 @@ title: Como Marcar uma Sessão
 parent: Aventura!
 nav_order: 1
 ---
+# Uma nova expedição!
 
 Um dos objetivos de um West Marches é que ninguém tenha que se comprometer com datas à longo prazo, mas isso requer que cada grupo de aventureiros marque sua própria sessão.
 
