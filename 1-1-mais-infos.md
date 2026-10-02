@@ -38,7 +38,7 @@ Leia também o nosso **[Código de Conduta](1-3-conduta.html)**.
 
 Esperamos que essa introdução tenha despertado sua curiosidade. 
 
-*  Se você ainda não se sente pronto, você pode participar criando um **[Companheiro](companheiros.html)** que pode ser contratado pelos jogadores, ou disputar no **[Conselho](conselho.md)** para decidir como aplicar os fundos do Banco Comum. 
+*  Se você ainda não se sente pronto, você pode participar criando um **[Companheiro](companheiros.html)** que pode ser contratado pelos jogadores, ou disputar no **[Conselho](conselho.md)** para decidir como aplicar os fundos do Banco Comum. [SISTEMA AINDA INATIVO]
 *  Mas se você está seguindo o chamado da aventura, aqui estão os seus primeiros passos:
 
 [Acesse nosso Discord!](LINK) É lá onde nossos jogos acontecem, e você pode encontrar todas as informações atualizadas.
