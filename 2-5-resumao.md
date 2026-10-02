@@ -72,7 +72,7 @@ Cada personagem tem **10 slots** para items equipados, o que significa qualquer 
 
 Máximo: um personagem não pode ter mais de 10 slots de itens equipados.
 
-## Itens guardados: 10 Slots / Container
+### Itens guardados: 10 Slots / Container
 
 Sacolas e mochilas têm 10 slots para itens guardados, isto é, itens guardados no container.
 
