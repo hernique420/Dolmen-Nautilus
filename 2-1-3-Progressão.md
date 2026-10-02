@@ -18,7 +18,7 @@ Existem múltiplas maneiras de ganhar XP
 
     > Isso se refere não apenas à criaturas mortas, mas criaturas que fugiram, foram afugentadas, etc.
     
-*   Confirmar a veracidade de um rumo
+*   Confirmar a veracidade de um rumor
   
     > A verificação definitiva de um rumor da Guilda já é um feito notável (200 xp no level 1-2).
     
