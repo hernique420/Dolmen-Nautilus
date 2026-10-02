@@ -59,10 +59,11 @@ Em calabouços, 3x a velocidade por Turno, ou 10x a velocidade em áreas previam
 
 Uma referência rápida:
 
-40' (12m) | 5 = 8 (12, se marcha forçada)
-30' (9m)  | 5 = 6 (9)
-20' (6m)  | 5 = 4 (6)
-10' (3m)  | 5 = 2 (3)
+Velocidade | PV
+40' (12m)  | ÷5 = 8 (12, se marcha forçada)
+30' (9m)   | ÷5 = 6 (9)
+20' (6m)   | ÷5 = 4 (6)
+10' (3m)   | ÷5 = 2 (3)
 
 # Peso
 
@@ -86,11 +87,11 @@ Sacolas e mochilas têm 10 slots para itens guardados, isto é, itens guardados 
 
 A Velocidade de um personagem é determinada pelo número de slots ocupados. 
 
-Eqpd. | Guard.|  Vel.
-0-3   | 0-10  | 40' (12m)
-4-5   | 11-12 | 30' (9m)
-6-7   | 13-14 | 20' (6m)
-8-10  | 15-16 | 10' (3m)
+Eqpd. | Guard. |  Vel.
+0-3   | 0-10   | 40' (12m)
+4-5   | 11-12  | 30' (9m)
+6-7   | 13-14  | 20' (6m)
+8-10  | 15-16  | 10' (3m)
 
 Se não for notado, cada objeto ocupa 1 slot.
 
