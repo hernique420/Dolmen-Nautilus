@@ -17,7 +17,7 @@ Temos uma campanha **comunitária e dirigida pelos jogadores**. Isso significa q
 *   ⚔️ A derrota de uma ameaça perigosa torna as estradas um pouco mais seguras para todo mundo.
 
 Nossas mesas **não têm horário fixo**. Cabe a **você**:
-1.  Formar um grupo.
+1.  Formar um grupo (ou se juntar à um grupo sendo formado pelo [Discord](3-0-discord.html).
 2.  Escolher um objetivo para a sessão (baseado nos [rumores](2-2-2-rumores.html), nas informações compartilhadas entre jogadores, e nos seus próprios interesses).
 3.  [Agendar uma sessão](2-2-1-marcar-sessao.html) em um dos horários disponíveis.
 
