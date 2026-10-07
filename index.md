@@ -25,4 +25,4 @@ Um RPG é um jogo de interpretação de papéis onde jogadores e um narrador col
 
 Normalmente, um RPG envolve um grupo fixo de 4 ou 5 pessoas que se reúnem semanalmente. Mas esta campanha é ao estilo **West Marches**, um formato de jogo codificado originalmente por [Ben Robbins](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/), mas com aquele nosso tempero, nossas modificações, e nossa tradução: uma **mesa aberta** e **comunitária**.
 
-### [Saiba mais aqui](mais-infos.md), ou navegue pelas abas na lateral esquerda!
+### [Saiba mais aqui](1-1-mais-infos.html), ou navegue pelas abas na lateral esquerda!
