@@ -33,6 +33,8 @@ Se o resultado da rolagem indica que o aventureiro gastou mais dinheiro do que p
 
 Enquanto tiver uma dívida, a ação **Farra & Filantropia** não pode ser utilizada. A dívida dobra a cada 30 dias, e como agiotas são geralmente sórdidos e inescrupulosos, podem haver ramificações por dívidas não pagas.
 
+Woodgrues recebem um modificador de +1 para xp se escolhem Farra, sem pagar +1 de ouro (um humano que rodou 3 no 1d4 em um Vilarejo pagaria 300g e receberia 300xp. Um woodgrue nessas exatas circunstâncias pagaria 300g e receberia 400xp)
+
 ## Chance de Rumor
 
 Após a resolução, o aventureiro roda ***1d6*** para descobrir se ouviu algum rumor interessante durante a ação. Em um 5 ou 6, um novo rumor é descoberto.
