@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Tesouro da Guilda</title>
+<style>
+:root{--bg:#f4efe3;--card:#fffaf0;--ink:#2b2418;--mut:#7a6d57;--ac:#4d6b3a;--in:#3d7a3a;--out:#a8432f;--bd:#d9ccb0;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1d1a14;--card:#2a251b;--ink:#efe6d2;--mut:#a89c82;--ac:#8fb36f;--in:#7fc07a;--out:#e07a63;--bd:#4a4232}}
+:root[data-theme="dark"]{--bg:#1d1a14;--card:#2a251b;--ink:#efe6d2;--mut:#a89c82;--ac:#8fb36f;--in:#7fc07a;--out:#e07a63;--bd:#4a4232}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.4 Georgia,'Times New Roman',serif}
+main{max-width:900px;margin:0 auto;padding:14px}
+h1{margin:0;font-size:22px}h2{font-size:16px;margin:0 0 8px}
+.sub{color:var(--mut);font-size:13px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:12px;margin:10px 0}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px}
+.st{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:8px;text-align:center}
+.st b{display:block;font-size:19px}.st span{font-size:12px;color:var(--mut)}
+.big b{color:var(--ac);font-size:24px}
+button{font:inherit;cursor:pointer;border:1px solid var(--bd);background:var(--card);color:var(--ink);border-radius:8px;padding:7px 11px}
+button:hover{border-color:var(--ac)}
+button.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+button.in.on{background:var(--in)}button.out.on{background:var(--out)}
+.row{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0;align-items:center}
+input,select{font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--bd);border-radius:8px;padding:7px;min-width:0}
+.f{display:flex;flex-direction:column;font-size:12px;color:var(--mut);gap:2px;flex:1 1 120px}
+.coins{display:grid;grid-template-columns:repeat(auto-fit,minmax(80px,1fr));gap:8px}
+.go{background:var(--ac);color:#fff;border-color:var(--ac);font-weight:bold;width:100%;padding:10px;margin-top:6px}
+.it{display:flex;gap:8px;align-items:center;padding:7px 0;border-bottom:1px solid var(--bd)}
+.it:last-child{border:0}.it .n{flex:1;min-width:0}.it small{color:var(--mut);display:block}
+.q{font-weight:bold;min-width:46px;text-align:right}
+.mini{padding:4px 8px;font-size:13px}
+.pi{color:var(--in)}.po{color:var(--out)}
+.tabs{display:flex;gap:6px;flex-wrap:wrap}
+.scroll{overflow-x:auto}
+#msg{font-size:12px;color:var(--mut)}
+</style></head><body><main>
+<h1>⚔️ Tesouro da Guilda</h1>
+<div class="sub">West Marches · registro compartilhado do grupo <span id="msg"></span></div>
+
+<div class="tabs" id="tabs"></div>
+<div id="view"></div>
+</main>
+<script>
+const COINS=[['cp','Cobre'],['sp','Prata'],['ep','Electro'],['gp','Ouro'],['pp','Platina']];
+let RATE={cp:.01,sp:.1,ep:.5,gp:1,pp:5};
+const CATS=[['moeda','🪙 Total de Moedas'],['gema','💎 Total de Gemas'],['item','🎒 Inventário']];
+const TABS=[...CATS,['his','📜 Histórico']];
+const LBL={moeda:'Moedas',gema:'Gemas',item:'Itens'};
+let dir='in',tab='moeda',WHO='',E=[],db=null,col=null;
+const $=i=>document.getElementById(i);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt=n=>(Math.round(n*100)/100).toLocaleString('pt-BR');
+const LS='dolmen-tesouro';
+function lsGet(){try{return JSON.parse(localStorage.getItem(LS)||'null')}catch(e){return null}}
+function lsSet(){try{localStorage.setItem(LS,JSON.stringify({E,RATE}))}catch(e){}}
+async function init(){
+ try{ if(window.claude){db=await claude.use('db'); if(db){col=db.collection('ledger');
+  col.onSnapshot(s=>{E=s.docs.map(d=>d.data()).filter(x=>x&&x.id);refresh();$('msg').textContent='· sincronizado ✓'},()=>{});
+  db.doc('config/rates').onSnapshot(s=>{if(s.exists){RATE={...RATE,...s.data()};refresh()}},()=>{});}}}catch(e){db=null}
+ if(!db){const l=lsGet();if(l){E=l.E||[];RATE=l.RATE||RATE}$('msg').textContent='· modo local (só neste navegador)'}
+ build();
+}
+async function add(rows){
+ const t=Date.now();
+ rows.forEach((r,i)=>{r.id=t+'-'+i+Math.random().toString(36).slice(2,5);r.ts=t+i});
+ if(col){for(const r of rows){try{await col.doc(r.id).set(r)}catch(e){$('msg').textContent='· erro ao salvar'}}}
+ else{E.push(...rows);lsSet();refresh()}
+}
+async function del(id){
+ if(!confirm('Apagar este registro?'))return;
+ if(col){try{await col.doc(id).delete()}catch(e){}}else{E=E.filter(x=>x.id!==id);lsSet();refresh()}
+}
+function unitVal(e){return e.cat==='moeda'?(RATE[e.name]??0):(+e.value||0)}
+function inventory(){
+ const m={};
+ E.forEach(e=>{const k=e.cat+'|'+e.name;const o=m[k]||(m[k]={cat:e.cat,name:e.name,q:0,v:0,last:0});
+  o.q+=(e.dir==='in'?1:-1)*e.qty; if(e.ts>=o.last&&e.value!=null&&e.cat!=='moeda'){o.last=e.ts;o.v=+e.value||0}});
+ return Object.values(m);
+}
+function tabs(){$('tabs').innerHTML=TABS.map(([t,l])=>`<button data-t="${t}" class="${t===tab?'on':''}">${l}</button>`).join('')}
+$('tabs').onclick=e=>{const t=e.target.dataset.t;if(!t)return;tab=t;build()};
+function build(){
+ tabs();
+ if(tab==='his'){$('view').innerHTML='<div class="card" id="listA"></div>';return hisView()}
+ $('view').innerHTML='<div class="card" id="top"></div><div class="card" id="formA"></div><div class="card" id="listA"></div>';
+ formView();refresh();
+}
+function refresh(){
+ if(!$('listA'))return;
+ if(tab==='his')return hisView();
+ topView();listView();
+}
+function topView(){
+ const inv=inventory().filter(o=>o.cat===tab&&o.q>0);
+ const v=inv.reduce((a,o)=>a+o.q*(tab==='moeda'?RATE[o.name]:o.v),0);
+ const n=inv.reduce((a,o)=>a+o.q,0);
+ const t={moeda:'TOTAL DE MOEDAS',gema:'TOTAL DE GEMAS',item:'INVENTÁRIO'}[tab];
+ $('top').innerHTML=`<div class="stats"><div class="st big"><span>${t}</span><b>${fmt(v)} po</b></div>`+
+ (tab==='moeda'?'':`<div class="st"><span>${tab==='gema'?'Gemas':'Itens'} guardados</span><b>${fmt(n)}</b></div>`)+'</div>';
+}
+function formView(){
+ const ph={gema:'Ex: Rubi lapidado',item:'Ex: Corda 15m'}[tab];
+ $('formA').innerHTML=`<h2>Registrar</h2>
+ <div class="row"><button class="in ${dir==='in'?'on':''}" id="bIn">⬇ Entrou</button><button class="out ${dir==='out'?'on':''}" id="bOut">⬆ Saiu</button></div>`+
+ (tab==='moeda'?'<div class="coins">'+COINS.map(([k,n])=>`<label class="f">${n} (${k})<input type="number" min="0" id="c_${k}" placeholder="0"></label>`).join('')+'</div>':
+ `<div class="row"><label class="f" style="flex:3 1 200px">Nome<input id="nm" placeholder="${ph}"></label>
+  <label class="f" style="flex:0 1 80px">Qtd<input type="number" min="1" value="1" id="qt"></label>
+  <label class="f" style="flex:1 1 110px">Valor unit. (po)<input type="number" min="0" step="any" id="vl" placeholder="0"></label></div>`)+
+ `<div class="row"><label class="f">Quem<input id="who" placeholder="Nome do personagem" value="${esc(WHO)}"></label>
+ ${dir==='out'?'<label class="f">Motivo da saída<select id="reason"><option>Item</option><option>Pesquisa</option><option>Retirada</option><option>Pagamento</option></select></label>':''}</div>
+ <button class="go" id="go">Registrar</button>`;
+ $('bIn').onclick=()=>{dir='in';formView()};
+ $('bOut').onclick=()=>{dir='out';formView()};
+ $('who').oninput=e=>{WHO=e.target.value};
+ $('go').onclick=submit;
+}
+async function submit(){
+ const base={dir,cat:tab,who:$('who').value.trim(),reason:dir==='out'?$('reason').value:''};
+ if(tab==='moeda'){
+  const rows=COINS.map(([k])=>({...base,name:k,qty:Math.floor(+$('c_'+k).value||0)})).filter(r=>r.qty>0);
+  if(!rows.length)return alert('Informe ao menos uma moeda.');
+  await add(rows);COINS.forEach(([k])=>$('c_'+k).value='');
+ }else{
+  const name=$('nm').value.trim(),qty=Math.floor(+$('qt').value||0);
+  if(!name||qty<1)return alert('Informe nome e quantidade.');
+  await add([{...base,name,qty,value:+$('vl').value||0}]);
+  $('nm').value='';$('vl').value='';$('qt').value=1;
+ }
+}
+function listView(){
+ let list=inventory().filter(o=>o.cat===tab&&o.q>0);
+ if(tab==='moeda')list=COINS.map(([k])=>list.find(o=>o.name===k)||{cat:tab,name:k,q:0});
+ const steps=tab==='item'?[1]:[];
+ $('listA').innerHTML=(list.length?list.map(o=>{
+  const u=tab==='moeda'?RATE[o.name]:o.v;const nm=tab==='moeda'?COINS.find(x=>x[0]===o.name)[1]+' ('+o.name+')':o.name;
+  const a=encodeURIComponent(o.name);
+  return `<div class="it"><div class="n">${esc(nm)}<small>${fmt(u)} po cada · total ${fmt(o.q*u)} po</small></div>
+  ${tab!=='item'?'':[...steps].reverse().map(s=>`<button class="mini po" data-a="out" data-k="${a}" data-n="${s}">−${s}</button>`).join('')}
+  <span class="q">${fmt(o.q)}</span>
+  ${tab!=='item'?'':steps.map(s=>`<button class="mini pi" data-a="in" data-k="${a}" data-n="${s}">+${s}</button>`).join('')}</div>`}).join(''):'<div class="sub">Nada aqui ainda. Registre acima!</div>');
+ $('listA').onclick=async e=>{const b=e.target.closest('button[data-a]');if(!b)return;
+  const name=decodeURIComponent(b.dataset.k),d=b.dataset.a,n=+b.dataset.n;
+  const cur=inventory().find(o=>o.cat===tab&&o.name===name);
+  if(d==='out'&&(!cur||cur.q<n))return;
+  await add([{dir:d,cat:tab,name,qty:n,who:WHO.trim(),reason:d==='out'?'Gasto/uso rápido':'',value:cur?cur.v:0}])};
+}
+function hisView(){
+ const rows=[...E].sort((a,b)=>b.ts-a.ts).filter(e=>LBL[e.cat]);
+ $('listA').innerHTML=(rows.length?`<div class="row"><button id="csv">⬇ Exportar CSV</button></div><div class="scroll">`+rows.map(e=>{
+  const d=new Date(e.ts).toLocaleString('pt-BR',{dateStyle:'short',timeStyle:'short'});
+  return `<div class="it"><div class="n"><span class="${e.dir==='in'?'pi':'po'}">${e.dir==='in'?'⬇ +':'⬆ −'}${fmt(e.qty)}</span> ${esc(e.name)} <small>${LBL[e.cat]} · ${fmt(e.qty*unitVal(e))} po · ${d}${e.who?' · '+esc(e.who):''}${e.reason?' · '+esc(e.reason):''}</small></div><button class="mini" data-d="${esc(e.id)}">🗑</button></div>`}).join('')+'</div>':'<div class="sub">Sem registros.</div>');
+ $('listA').onclick=e=>{const b=e.target.closest('button[data-d]');if(b)del(b.dataset.d)};
+ const c=$('csv');if(c)c.onclick=async()=>{
+  const q=s=>'"'+String(s??'').replace(/"/g,'""')+'"';
+  const csv='Data,Direção,Categoria,Nome,Qtd,Valor unit (po),Quem,Motivo\n'+rows.map(e=>[new Date(e.ts).toISOString(),e.dir==='in'?'Entrou':'Saiu',e.cat,e.name,e.qty,unitVal(e),e.who,e.reason].map(q).join(',')).join('\n');
+  try{const dl=await claude.use('downloads');await dl.save({filename:'tesouro-da-guilda.csv',data:csv})}catch(x){alert('Download indisponível aqui.')}};
+}
+function cfgView(){
+ $('listA').innerHTML='<h2>Valor das moedas em PO</h2><div class="sub">Ajuste conforme as regras da sua mesa.</div><div class="coins">'+
+ COINS.map(([k,n])=>`<label class="f">${n} (${k})<input type="number" step="any" min="0" data-r="${k}" value="${RATE[k]}"></label>`).join('')+'</div>';
+ $('listA').onchange=async e=>{const k=e.target.dataset.r;if(!k)return;RATE[k]=+e.target.value||0;
+  if(db){try{await db.doc('config/rates').set(RATE)}catch(x){}}else lsSet()};
+}
+init();
+</script></body></html>
