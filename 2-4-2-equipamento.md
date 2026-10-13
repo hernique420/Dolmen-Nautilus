@@ -16,7 +16,7 @@ Mantido por **Sidovique Sumoverbo**: Compra e venda de fungos e ervas (todas as 
 
 Mantido por **Joremeias Pé de Pudim** -- Espadas, adagas, prateamento de lâminas, e gravações.
 
-## Estábulo: "Atoleiro"
+## Estábulo e Taverna: "Atoleiro"
 
 Mantido por **Lumpo Chifre de Grog e Vimsle Caprichosa** -- Cavalos de viagem e mulas de boa qualidade quase toda semana. Estadia: 3sp por noite, por montaria.
 
