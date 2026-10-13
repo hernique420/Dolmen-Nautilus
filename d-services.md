@@ -9,7 +9,7 @@ nav_order: 1
 
 Aventureiros podem querer o serviço de indvíduos ou grupos especializados em diferentes campos. Os mais comuns estão listados aqui, mas o árbitro pode detalhar outros conforme necessário (por ex: contador, arquiteto, jurista, filósofo, agrimensor, espião, etc -- em diferentes níveis de raridade). 
 
-Serviços que estão prontamente disponíveis (alguns também listados aqui) não necessitam um turno de Downtime para serem contratados. Esta página serve para manter uma lista completa dos potenciais serviços disponíveis, e seus custos, mas caso o aventureiro ou a guilda não conheça nenhum especialista do tipo procurado, você pode gastar uma turno de Downtime para localizar um especialista, com 1-em-6 chance mínima de falha.
+Serviços que estão prontamente disponíveis (alguns também listados aqui) não necessitam um turno de Downtime para serem contratados. Esta página serve para manter uma lista completa dos potenciais serviços disponíveis, e seus custos, mas alguns podem já estar disponíveis em Chifre Fino. E caso o aventureiro ou a guilda não conheça nenhum especialista do tipo procurado, você pode gastar uma turno de Downtime para localizar um especialista, com 1-em-6 chance mínima de falha.
 
 ## Alquimista
 - *Disponibilidade: Cidades Grandes*
