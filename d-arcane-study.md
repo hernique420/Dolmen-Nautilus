@@ -9,7 +9,7 @@ nav_order: 1
 Conjuradores arcanos podem aprender novas magias estudando sob um mentor ou através de um processo de pesquisa. Aprender magias leva tempo e requer paz e silêncio.
 
 ### Aprendendo com um Mentor
-Se um personagem tiver uma relação estabelecida com um usuário de magia arcana que seja pelo menos 3 Níveis mais alto, eles podem consultar com ele para aprender novas magias. Aprender uma nova magia com um mentor leva 1 semana. O mentor normalmente espera algum serviço em retorno, talvez enviando o personagem em algum tipo de missão.
+Se um personagem tiver uma relação estabelecida com um usuário de magia arcana que seja pelo menos 2 Níveis mais alto, eles podem consultar com ele para aprender novas magias. Aprender uma nova magia com um mentor leva 1 semana. O mentor normalmente espera algum serviço em retorno, talvez enviando o personagem em algum tipo de missão. 
 
 ### Estudando um Livro de Magia
 Como objetos de grande poder, livros de magia são raramente encontrados à venda, mas podem ser encontrados como tesouros ou roubados de feiticeiros rivais. Para aprender magias de um livro de magia, o personagem deve ser capaz de entender a língua (por meio do estudo ou de mágica).
