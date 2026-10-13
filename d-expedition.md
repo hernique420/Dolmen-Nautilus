@@ -7,7 +7,7 @@ nav_order: 1
 
 ![expedition illustration](https://github.com/user-attachments/assets/a3263462-3e3a-4a69-a735-c6bacbe41e7b)
 
-Uma _Expedição_ é utilizada para extrair recursos ou assegurar uma área. Montar uma _Expedição_ gasta uma ação no **Turno de Downtime**.
+Uma _Expedição de Controle_ é utilizada para extrair recursos ou assegurar uma área. Montar uma _Expedição_ gasta uma ação no **Turno de Downtime**.
 
 Antes que uma _Expedição_ possa ser montada, a área deve ser mapeada pela Guilda, assim como todos os covis de monstros devem ser resolvidos, acordos com os habitantes locais devem ser feitos, e permissões dos donos da terra devem ser obtidas, conforme a necessidade.
 
