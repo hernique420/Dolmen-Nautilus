@@ -10,7 +10,7 @@ nav_order: 1
 
 Aventureiros podem construir fortificações, fundar vilarejos, aumentar o tamanho de um povoado, ou aplicar seu tempo e dinheiro para projetos de _Infraestrutura_ que beneficiem a todos.
 
-Para fundar novos vilarejos, a área ao seu redor deve ser mapeada pelos aventureiros, assegurada através de uma _Expedição_, e uma estabelecimento da Guilda deve ser construído no lugar. O custo de construção de um pequeno vilarejo é 5000g.
+Para fundar novos vilarejos, a área ao seu redor deve ser mapeada pelos aventureiros, assegurada através de uma _Expedição de Controle_, e uma estabelecimento da Guilda deve ser construído no lugar. O custo de construção de um pequeno vilarejo é 5000g.
 
 Para a construção de um estabelecimento da Guilda e edifícios específicos, use os preços em **Equipamentos e Serviços**.
 
@@ -18,7 +18,7 @@ Para mudar o _tipo_ ao aumentar o tamanho de um vilarejo, é preciso ter acesso 
 
 Um _relógio_ mostra o número de sucessos necessários para aumentar o tamanho de um povoado, que é igual ao nível almejado.
 
-Uma ação de _Infraestrutura_ requer um **Turno de Downtime**. Para fazer isso, o aventureiro paga o custo de investimento base (apenas uma vez), e roda _**2d6**_, com bônus por gastos extras e _Instituições_ estabelecidas, para um páximo de +3.
+Uma ação de _Infraestrutura_ requer um **Turno de Downtime**. Para fazer isso, o aventureiro paga o custo de investimento base (apenas uma vez), e roda _**2d6**_, com bônus por gastos extras e _Instituições_ estabelecidas, para um máximo de +3.
 
 | 2d6 | Resultado |
 | :-- | :-- |
