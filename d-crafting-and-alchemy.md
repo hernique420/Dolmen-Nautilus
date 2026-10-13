@@ -21,4 +21,4 @@ Então, o aventureiro roda **2d6**, além de qualquer bônus do seu ofício. Cad
 | 7-9 | Trate a próxima tentativa como um sucesso automático |
 | 2-6 | Nenhum progresso é feito |
 
-Parada cada 2000g do custo base de um item, 1 sucesso é necessário (ex: um item de 4000g precisaria de 2 sucessos).
+Para cada 2000g do custo base de um item, 1 sucesso é necessário (ex: um item de 4000g precisaria de 2 sucessos).
