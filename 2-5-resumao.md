@@ -6,7 +6,9 @@ nav_order: 5
 description: "Sumário das Regras Gerais"
 ---
 
-RESUMÃO DAS REGRAS
+# RESUMÃO DAS REGRAS
+
+Não é preciso decorar todas as regras aqui para jogar. Elas estão registradas aqui para que os jogadores possam ter uma ideia dos possíveis riscos e possam fazer seus próprios julgamentos do que fazer, como fazer, e onde fazer.
 
 # O Jogo
 
@@ -16,6 +18,85 @@ RESUMÃO DAS REGRAS
 4. O árbitro julga os resultados potenciais da ação dos jogadores;
 5. Qualquer rolagem de dados necessária é feita, e a ação é resolvida;
 6. O tempo passa e o jogo retorna para o passo 1.
+
+# Estrutura da Sessão
+
+1. Os jogadores [marcam uma sessão](2-2-1-marcar-sessao.html), e avisam ao DM o que planejam fazer
+2. Os jogadores usam o canal #planejamento no [discord](3-0-discord.html) para decidirem que equipamentos irão levar, para economizar tempo na hora da sessão
+3. A sessão inicia, e os jogadores declaram quem ocupará cada [cargo](2-2-4-funcoes.html) 
+4. Os principais procedimentos como viagem, acampamento, combate, e exploração de calabouços estão descritos abaixo
+5. Ao fim da sessão, o DM distribui a XP e divide os tesouros
+
+# Viajando:
+
+Cada grupo consegue viajar durante 8 horas por dia.
+
+## Procedimento geral de viagem:
+
+- DM checa e comunica o clima do dia
+- O guardião informa a velocidade do grupo, e o grupo determina o planejamento pro dia.
+- DM checa para encontros aleatórios, 1x por dia. O encontro acontece no momento em que o DM preferir, ao longo do dia. A chance de encontro depende do tipo de terreno. 1-em-3 para terrenos fáceis, 2-em-3 para terrenos moderados, e 3-em-6 para terrenos difíceis.
+- DM checa para ver se o grupo se perde, 1x por dia ou quando o grupo sai de uma estrada. A chance de se perder depende do tipo de terreno.
+- DM descreve a viagem, grupo decide interagir ou continuar.
+- Fim do dia de viagem, e início da fase de acampamento.
+
+## Mais informações:
+
+- Estradas contam como terreno fácil, independente da dificuldade do hex.
+- É impossível se perder seguindo uma estrada ou um rio.
+- Viajando por estradas, os personagens podem não ver elementos daquele hex que estariam mais distantes. 
+- Se o grupo estiver em montarias, tratamos como uma velocidade de 40.
+- Se o grupo estiver em um veículo, tratamos como uma velocidade de 30.
+
+- Um dia normal de viagem dura 12h: 8h são gastas viajando, e 4h descansando, montando e desmontando acampamento, etc. 
+- O grupo pode sempre declarar uma marcha forçada para viajar +4h, totalizando 12 ao invés de 8. Após uma marcha forçada, os personagens tomam -1 de exaustão que eles não podem recuperar naquele mesmo dia.
+
+- Uma vez que o grupo entra em um hex (quando não estão em uma estrada), eles verão todos os elementos daquele hex que não são secretos/escondidos.
+- O grupo pode gastar a mesma quantidade de horas que levaria para cruzar aquele hex para mapear completamente (investigar/search) aquele hex. A busca termina em um elemento escondido que foi encontrado, ou no centro do hex se não houver nada a ser encontrado.
+- Em terrenos moderados, montarias devem ser conduzidas e veículos não entram. Em terrenos difíceis, nem montarias nem veículos entram.
+
+# Acampamento
+
+O grupo precisa escolher:
+
+- 1 personagem para montar o acampamento. No caso de marcha forçada durante a viagem, 2 personagens.
+
+- 1 personagem para cuidar dos animais, se houverem.
+
+- **Lenha**: X personagens para conseguir lenha. 1d6 determina quanta lenha é encontrada, com um modificador -1 caso haja chuva, e -1 para terrenos abertos.
+
+- **Fogueira**: Com lenha disponível, os personagens montam uma fogueira (com uma chance de 4-em-6 caso haja vento forte ou chuva). 
+
+- **Janta**: Com equipamentos de cozinha (ex, panela) e ingredientes (ex, rações), um personagem pode fazer um Teste de Sabedoria para cozinhar uma refeição especial. Em um sucesso, os personagens recebem +1 no Teste de Constituição para ver se dormiram bem. No caso de falha, uma refeição ordinária é feita.
+
+Com ou sem o teste, os jogadores deduzem 1 ração ou equivalente de seus inventários.
+
+- **Camaradagem**: Um personagem pode entreter seus amigos com histórias, canção, piadas, e afins, caso passe em um Teste de Carisma. Em um sucesso, os personagens recebem +1 no Teste de Constituição para ver se dormiram bem. Noo caso de falha, o personagem que fez o teste deve rolar um Save Versus Doom, ou se sentir inseguro, o que faz com que ele receba -1 no Teste de Constituição para ver se dormiu bem.
+
+- **Exaustão**: se o grupo comer bem **e** tiver camaradagem, existe uma chance de 4-em-6 dos personagens se recuperarem de sua exaustão. Se fumo ou bebida estiverem presentes, esse sucesso é automático.
+
+- Uma noite tranquila: o grupo escolhe 4 personagens para ficar de guarda durante a noite (cada um por 2h), e a ordem da vigia. No caso de encontros noturnos, o DM decide aleatoriamente em qual vigia o encontro ocorre.
+
+- Cada integrante faz um Teste de Constituição para ver se dormiram bem, no caso de um clima moderado ou ruim, como na tabela à seguir:
+
+| Fogo?    | Cama?                     | Inverno    | Primavera | Verão    | Outono   |
+| Sem fogo | Sem cama                  | Impossível | Difícil   | Moderado | Difícil  |
+| Sem fogo | Saco de dormir ou barraca | Impossível | Moderado  | Fácil    | Moderado |
+| Sem fogo | Saco de dormir e barraca  | Difícil    | Moderado  | Fácil    | Moderado |
+| Com fogo | Sem cama                  | Impossível | Difícil   | Moderado | Difícil  |
+| Com fogo | Saco de dormir ou barraca | Difícil    | Fácil     | Fácil    | Fácil    |
+| Com fogo | Saco de dormir e barraca  | Moderado   | Fácil     | Fácil    | Fácil    |
+
+**Fácil**: os personagens dormem sem problema.
+**Moderado**: cada personagem deve passar em um Teste de Constituição, ou tomar -1 de Exaustão.
+**Difícil**: cada personagem deve passar em um Teste de Constituição com -2 de modificador, ou tomar -1 de Exaustão.
+**Impossível**: cada personagem toma -1 de exaustão.
+
+- Caso durma bem, o personagem também recupera 1 HP.
+
+## O DM:
+
+- Faz uma rolagem por noite para descobrir se houve um encontro aleatório. A chance depende do tipo de terreno, como durante a viagem. A distância do encontro, e se um ou os dois lados estão surpresos é decidido aleatoriamente, em uma rolagem fechada. A chance de cada lado estar surpreso é de 2-em-6, mas se não houver fogueira, a chance do lado opositor estar surpreso é de 3-em-6. 
 
 # Testes de perícia e de habilidade - d6
 
@@ -56,14 +137,6 @@ Um grupo **viajando junto** sempre usa a velocidade do seu personagem mais lento
 Quando **explorando**, o grupo usa **Pontos de Viagem** (PV) ao invés da velocidade. Por exemplo, um grupo com uma velocidade de 30'- 9m, tem 6 PV. Custa entre 2-4 PV para entrar ou investigar um hex de 10km, dependendo do terreno.
 
 Em calabouços, 3x a velocidade por Turno, ou 10x a velocidade em áreas previamente exploradas e mapeadas.
-
-Uma referência rápida:
-
-Velocidade | PV
-40' (12m)  | ÷5 = 8 (12, se marcha forçada)
-30' (9m)   | ÷5 = 6 (9)
-20' (6m)   | ÷5 = 4 (6)
-10' (3m)   | ÷5 = 2 (3)
 
 # Peso
 
