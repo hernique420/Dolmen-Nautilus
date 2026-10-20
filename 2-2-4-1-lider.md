@@ -18,6 +18,6 @@ A Ordem de Marcha é um registro de quem dos jogadores está na frente, quem est
 > 
 > CC
 > 
->  M
+> ME 
 > 
->  L
+> L
