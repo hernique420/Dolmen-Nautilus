@@ -164,6 +164,7 @@ Sacolas e mochilas têm 10 slots para itens guardados, isto é, itens guardados 
 A Velocidade de um personagem é determinada pelo número de slots ocupados. 
 
 Eqpd. | Guard. |  Vel.
+| :---| :---   | :---
 0-3   | 0-10   | 40' (12m)
 4-5   | 11-12  | 30' (9m)
 6-7   | 13-14  | 20' (6m)
@@ -382,7 +383,7 @@ Emboscada aumenta a chance de surpresa por 1.
 **Rolagem de reação**:
 
 2d6         | Reação
-
+| :---      | :---  
 2 ou menos  | Ataca 
 3-5         | Hostil, pode atacar
 6-8         | Incerto, desconfiado
