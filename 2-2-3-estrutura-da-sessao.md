@@ -12,4 +12,4 @@ Aventureiros que não se encontram em segurança ao fim da sessão são dados co
 
 Aventureiros podem fazer compras de equipamento e afins à vontade ao início da sessão. 
 
-Informações mais detalhadas podem ser encontradas no nosso [compilado de regras](2-5-resumao.html)
+Informações mais detalhadas podem ser encontradas no nosso [Compilado de Regras](2-5-resumao.html)
