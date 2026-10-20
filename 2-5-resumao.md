@@ -80,6 +80,7 @@ Com ou sem o teste, os jogadores deduzem 1 ração ou equivalente de seus invent
 - Cada integrante faz um Teste de Constituição para ver se dormiram bem, no caso de um clima moderado ou ruim, como na tabela à seguir:
 
 | Fogo?    | Cama?                     | Inverno    | Primavera | Verão    | Outono   |
+| :---     | :---                      | :---       | :---      | :---     | :---     |
 | Sem fogo | Sem cama                  | Impossível | Difícil   | Moderado | Difícil  |
 | Sem fogo | Saco de dormir ou barraca | Impossível | Moderado  | Fácil    | Moderado |
 | Sem fogo | Saco de dormir e barraca  | Difícil    | Moderado  | Fácil    | Moderado |
