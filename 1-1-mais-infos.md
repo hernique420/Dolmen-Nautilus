@@ -43,9 +43,11 @@ Esperamos que essa introdução tenha despertado sua curiosidade.
 
 [Acesse nosso Discord!](3-0-discord.html) É lá onde nossos jogos acontecem, e você pode encontrar todas as informações atualizadas.
 
-1.  **[Leia o Guia do Jogador](2-0-guia-do-jogador.html)** - O essencial para jogar em nosso mundo compartilhado.
-2.  **[Crie seu Personagem](2-1-regras-da-casa.html.html)** - Use nosso guia passo a passo.
-3.  **[Se informe sobre o mundo](4-1-lore.html)** - Tudo que sabíamos sobre Dolmenwood quando chegamos aqui.
+1.  **[Cheque o Guia do Jogador](2-0-Guia-do-Jogador.html)** - O essencial para jogar em nosso mundo compartilhado.
+2.  **[Crie seu Personagem](2-1-regras-da-casa.html)** - Use nosso guia passo a passo.
+3.  **[Se informe sobre o mundo](4-1-lore.html)** - Tudo que sabíamos sobre Dolmenwood quando chegamos aqui. [EM CONSTRUÇÃO]
 4.  **[Consulte o Banco de Rumores](2-2-2-rumores.html)** - Para planejar sua próxima expedição.
 5.  **[Veja o Quadro de Expedições no nosso Discord](3-0-discord.html)** - Para marcar sua sessão.
 6.  **[Um resumão de todas as regras](2-5-resumao.html)** - Não entre em pânico!
+
+E se estiver perdido, confira o **[Mapa do Site](1-4-mapasite.html)** para encontrar o que está procurando
