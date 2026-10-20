@@ -22,7 +22,7 @@ Não é preciso decorar todas as regras aqui para jogar. Elas estão registradas
 # Estrutura da Sessão
 
 1. Os jogadores [marcam uma sessão](2-2-1-marcar-sessao.html), e avisam ao DM o que planejam fazer
-2. Os jogadores usam o canal #planejamento no [discord](3-0-discord.html) para decidirem que equipamentos irão levar, para economizar tempo na hora da sessão
+2. Os jogadores usam o canal #planejamento no [Discord](3-0-discord.html) para decidirem que equipamentos irão levar, para economizar tempo na hora da sessão
 3. A sessão inicia, e os jogadores declaram quem ocupará cada [cargo](2-2-4-funcoes.html) 
 4. Os principais procedimentos como viagem, acampamento, combate, e exploração de calabouços estão descritos abaixo
 5. Ao fim da sessão, o DM distribui a XP e divide os tesouros. Uma parte dos tesouros, em gp, vai para os fundos da Guilda.
