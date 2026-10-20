@@ -11,6 +11,6 @@ Companheiros são um tipo de personagem especial, criados pelos jogadores da aud
 
 Companheiros não podem se machucar em missões. Ao invés disso, eles rodam **1d6** toda vez que algo negativo acontece com eles como um Teste de Moral, e se o valor for maior que o seu PV eles abandonam os aventureiros à sua sorte. Se menor, o companheiro resiste seu medo, mas o próximo Teste de Moral recebe -1.
 
-Companheiros sem classe recebem um pagamento fixo de 15g. Companheiros com classe recebem 15g como pagamento, e compartilham do XP (1/2) e do tesouro (1/4) recebido com os aventureiros.
+Companheiros sem classe recebem um pagamento fixo de 1gp por dia. Companheiros com classe compartilham do XP e do tesouro conseguido pelos aventureiros.
 
 O guia completo de como criar um companheiro estará disponível no Discord.
