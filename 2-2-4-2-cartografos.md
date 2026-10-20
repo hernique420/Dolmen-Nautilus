@@ -11,9 +11,9 @@ Talvez o cargo mais importante, a responsabilidade dos Cartógrafos é fazer per
 
 ## Básico de Cartografia
 
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e19e1523-1085-49c1-8074-808b0b4a9148" />
+O hex é uma abstração para que possamos medir o espaço, e de um lado de um hex até o seu lado oposto, são 10km. Conforme mais informações são obtidas por Cartógrafos através de aventuras, os aventureiros da Guilda devem se organizar no Discord para consolidar essa informação em um mapa que possa ser utilizado por todos. A consolidação regular do mapa também é recompensada com ouro.
 
-O mapa acima é um mapa de toda a extensão de Dolmenwood, e ao início da campanha, os jogadores conhecem apenas o hex 0710, onde está a Guilda e a cidade de Ponta do Chifre Fino. O hex é uma abstração para que possamos medir o espaço, e de um lado de um hex até o seu lado oposto, são 10km. Conforme mais informações são obtidas por Cartógrafos através de aventuras, os aventureiros da Guilda devem se organizar no Discord para consolidar essa informação em um mapa que possa ser utilizado por todos. A consolidação regular do mapa também é recompensada com ouro.
+Os cartógrafos estão se organizando através do #mapa no [Discord](3-0-discord.html)
 
 **Você não precisa desenhar bem para ser um cartógrafo.** 
 
@@ -30,11 +30,6 @@ _exemplo de mapa mais bonito e complexo do que o necessário_
 
 É importante notar que o Cartógrafo precisa andar com papel, tinta, e bico de pena (cedidos pela Guilda). Em calabouços, o Cartógrafo precisa das duas mãos e de luz para mapear.
 
-O cartógrafo recebe 50 XP por hex mapeado, e 50 XP por sala de calabouço. Novas descobertas em hexes ou salas previamente mapeadas também valem 50 XP.
-
-A recompensa por mapa consolidado no Discord é de 50 XP.
+O cartógrafo recebe 250xp quando o mapa é consolidado no Discord.
 
 Cartógrafos recorrentes podem receber benefícios especiais.
-
-
-
