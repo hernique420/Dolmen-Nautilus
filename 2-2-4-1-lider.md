@@ -10,7 +10,7 @@ O **Porta-voz** é geralmente o jogador que marcou a sessão. Como os aventureir
 
 Ao início da sessão, o **Porta-voz** e o [**Guardião**](2-2-4-4-guardiao.html) são os responsáveis por decidir a ordem de marcha básica, e avisar ao Árbitro quando a ordem de marcha mudar.
 
-A **Ordem de Marcha** é um registro de quem dos jogadores está na frente, quem está atrás, e assim por diante, para que os jogadores possam acompanhar a posição ficcional de seus personagens caso algo aconteça.
+A **Ordem de Marcha** é um registro de quais personagens estão à frente, quem está atrás, e assim por diante, para que os jogadores possam acompanhar a posição ficcional de seus personagens caso algo aconteça.
 
 Exemplo:
 
