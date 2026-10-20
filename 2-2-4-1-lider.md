@@ -23,3 +23,5 @@ Exemplo:
 > ME 
 > 
 > L
+
+O **Porta-voz** recebe 200xp ao fim de uma expedição de sucesso.
