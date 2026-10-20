@@ -33,3 +33,5 @@ _exemplo de mapa mais bonito e complexo do que o necessário_
 O cartógrafo recebe 250xp quando o mapa é consolidado no Discord.
 
 Cartógrafos recorrentes podem receber benefícios especiais.
+
+[Aqui uma ferramenta](https://dolmen-journey.vercel.app/) que pode ser útil para entender as distâncias e se localizar melhor
