@@ -11,3 +11,5 @@ Toda sessão dura entre duas e três horas. Toda sessão deve começar e acabar 
 Aventureiros que não se encontram em segurança ao fim da sessão são dados como **perdidos**, e perdem seu turno de **[Downtime](2-3-downtime.html)**, além de incorrerem em outros riscos durante o **[Resgate](d-rescue.html)**
 
 Aventureiros podem fazer compras de equipamento e afins à vontade ao início da sessão. 
+
+Informações mais detalhadas podem ser encontradas no nosso [compilado de regras](2-5-resumao.html)
