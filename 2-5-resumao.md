@@ -31,7 +31,7 @@ Não é preciso decorar todas as regras aqui para jogar. Elas estão registradas
 
 Cada grupo consegue viajar durante 8 horas por dia.
 
-## Procedimento geral de viagem:
+### Procedimento geral de viagem:
 
 - DM checa e comunica o clima do dia
 - O guardião informa a velocidade do grupo, e o grupo determina o planejamento pro dia.
@@ -40,7 +40,7 @@ Cada grupo consegue viajar durante 8 horas por dia.
 - DM descreve a viagem, grupo decide interagir ou continuar.
 - Fim do dia de viagem, e início da fase de acampamento.
 
-## Mais informações:
+### Mais informações:
 
 - Estradas contam como terreno fácil, independente da dificuldade do hex.
 - É impossível se perder seguindo uma estrada ou um rio.
@@ -94,11 +94,13 @@ Com ou sem o teste, os jogadores deduzem 1 ração ou equivalente de seus invent
 
 - Caso durma bem, o personagem também recupera 1 HP.
 
-## O DM:
+### O DM:
 
 - Faz uma rolagem por noite para descobrir se houve um encontro aleatório. A chance depende do tipo de terreno, como durante a viagem. A distância do encontro, e se um ou os dois lados estão surpresos é decidido aleatoriamente, em uma rolagem fechada. A chance de cada lado estar surpreso é de 2-em-6, mas se não houver fogueira, a chance do lado opositor estar surpreso é de 3-em-6. 
 
-# Testes de perícia e de habilidade - d6
+# Compilação de outras regras:
+
+## Testes de perícia e de habilidade - d6
 
 Um 6 é sempre um sucesso, e 1 é sempre uma falha.
 
@@ -108,7 +110,7 @@ Testes de habilidade representam sua competência inata. Adicione o seu modifica
 
 Testes de perícia representam suas habilidades aprendidas. Seu alvo de perícia pode ser menor que 6 se a sua classe ou kindred especificarem. Todos podem usar as perícias Escutar, Procurar, e Sobrevivência. Algumas classes tem outras perícias.
 
-# Tempo
+## Tempo
 
 É responsabilidade do árbitro manter o controle do tempo. Usaremos um contador de turnos e calendário (é o plano pelo menos!)
 
@@ -118,7 +120,7 @@ Quando em **combate**, o tempo é mantido através de **Rounds** de 10 segundos 
 
 Quando **viajando** pelos ermos, o tempo é mantido em **dias**.
 
-# Testes de Resistência - d20
+## Testes de Resistência - d20
 
 Um 20 é sempre sucesso, e 1 é sempre uma falha.
 
@@ -126,7 +128,7 @@ Existem cinco tipos de resistências: Doom, Ray, Hold, Blast, e Spell. Cada pers
 
 Adicione seu modificador de Sabedoria para Testes de Resistência contra Efeitos Mágicos.
 
-# Movimento
+## Movimento
 
 Onde as regras dizem 10' (10 feet), consideramos 3m (3 metros). Onde se diz 6 milhas, consideramos 10km.
 
@@ -138,7 +140,7 @@ Quando **explorando**, o grupo usa **Pontos de Viagem** (PV) ao invés da veloci
 
 Em calabouços, 3x a velocidade por Turno, ou 10x a velocidade em áreas previamente exploradas e mapeadas.
 
-# Peso
+## Peso
 
 O sistema de peso é baseado em slots, uma abstração para simplificar o processo. Cada item carregado ocupa de 0-3 slots. Quanto mais slots ocupados, menor a velocidade do personagem.
 
@@ -182,7 +184,7 @@ Alguns itens são vendidos **em grupo** e cada grupo ocupa 1 slot (velas - 10, t
 
 Um grupo de **até 100 moedas** ocupa 1 slot. 
 
-# Combate
+## Combate
 
 ### Declarações - início do round
 
@@ -249,7 +251,7 @@ Checa-se a primeira vez que um monstro morre, ou se mais da metade do lado tenha
 
 Após dois testes de sucesso, ou se os pontos de moral forem 12, os monstros ou NPC lutarão até a morte.
 
-# Perigos
+## Perigos
 
 ### Aventureiros Competentes
 
