@@ -12,6 +12,8 @@ Ao início da sessão, o Porta-voz e o Guardião são os responsáveis por decid
 
 A Ordem de Marcha é um registro de quem dos jogadores está na frente, quem está atrás, e assim por diante, para que os jogadores possam acompanhar a posição ficcional de seus personagens caso algo aconteça.
 
+Exemplo:
+
 > Árbitro: qual a sua ordem de marcha?
 > 
 > Porta-voz: Vamos em uma fila dupla, o Clérigo e o Cavaleiro na Frente, o Magista e o Encantador no meio, e o Ladino atrás
