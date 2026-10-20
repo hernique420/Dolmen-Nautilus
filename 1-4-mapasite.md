@@ -14,5 +14,5 @@ description: "Mapa do Site"
 ## [Equipamentos e Serviços disponíveis](2-4-2-equipamento.html)
 ## [Discord](3-0-discord.html)
 ## [Lore Inicial do Mundo](4-1-lore.html) [Em Construção]
-## [OSR e Estilo de Jogo] (1-2-osr.html)
+## [OSR e Estilo de Jogo](1-2-osr.html)
 
