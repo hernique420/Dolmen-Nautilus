@@ -14,7 +14,7 @@ A Ordem de Marcha é um registro de quem dos jogadores está na frente, quem est
 
 > Árbitro: qual a sua ordem de marcha?
 > 
-> Porta-voz: Vamos em uma fila dupla, o Clérigo e o Cavaleiro na Frente, o Magista no meio, e o Ladino atrás
+> Porta-voz: Vamos em uma fila dupla, o Clérigo e o Cavaleiro na Frente, o Magista e o Encantador no meio, e o Ladino atrás
 > 
 > CC
 > 
