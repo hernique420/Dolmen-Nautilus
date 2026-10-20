@@ -12,7 +12,6 @@ Talvez o cargo mais importante, a responsabilidade dos Cartógrafos é fazer per
 ## Básico de Cartografia
 
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e19e1523-1085-49c1-8074-808b0b4a9148" />
-*Mapa doado para a Guilda com a marcação da cidade de Ponta do Chifre Fino*
 
 O mapa acima é um mapa de toda a extensão de Dolmenwood, e ao início da campanha, os jogadores conhecem apenas o hex 0710, onde está a Guilda e a cidade de Ponta do Chifre Fino. O hex é uma abstração para que possamos medir o espaço, e de um lado de um hex até o seu lado oposto, são 10km. Conforme mais informações são obtidas por Cartógrafos através de aventuras, os aventureiros da Guilda devem se organizar no Discord para consolidar essa informação em um mapa que possa ser utilizado por todos. A consolidação regular do mapa também é recompensada com ouro.
 
