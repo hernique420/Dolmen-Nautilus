@@ -39,7 +39,7 @@ XP individual:
     
 *   [Farra](d-carousing.html) (variável)
 *   Sobreviver uma expedição (100xp)
-*   [Porta-voz](?) (200xp)
-*   [Cartógrafo](?) (250xp)
-*   [Cronista](?) (200xp)
-*   [Guardião](?) (200xp)
+*   [Porta-voz](2-2-4-1-lider.html) (200xp)
+*   [Cartógrafo](2-2-4-2-cartografos.html) (250xp)
+*   [Cronista](2-2-4-3-cronista.html) (200xp)
+*   [Guardião](2-2-4-4-guardiao.html) (200xp)
