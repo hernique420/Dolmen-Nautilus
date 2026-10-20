@@ -15,3 +15,7 @@ A Guilda recebe 20% de todo o tesouro adquirido ao fim de uma expedição. Esse 
 **Depósito seguro**: Fundos guardados de forma segura no banco da guilda. Sem taxas se o dinheiro for deixado lá por pelo menos um mês, 10% de taxas caso contrário.
 
 **Empréstimos**: Um item de igual valor deve ser deixado como depósito. A taxa é 10% do valor do empréstimo por mês. Personagens conhecidos e respeitados podem conseguir empréstimos por taxas menores e sem um depósito.
+
+## Conselho
+
+No canal #assembleia, no Discord, jogadores **Veteranos** (que participaram de 4 expedições ou mais) podem abrir votações e sugerir possíveis usos para os fundos da guilda, assim como decidir questões estruturais do funcionamento da Guilda no Discord, e no mundo ficcional (novos métodos de divisão de tesouro, com quem a Guilda deveria se aliar, etc.)
