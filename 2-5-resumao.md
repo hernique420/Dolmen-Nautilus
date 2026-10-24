@@ -97,7 +97,9 @@ Com ou sem o teste, os jogadores deduzem 1 ração ou equivalente de seus invent
 
 ### O DM:
 
-- Faz uma rolagem por noite para descobrir se houve um encontro aleatório. A chance depende do tipo de terreno, como durante a viagem. A distância do encontro, e se um ou os dois lados estão surpresos é decidido aleatoriamente, em uma rolagem fechada. A chance de cada lado estar surpreso é de 2-em-6, mas se não houver fogueira, a chance do lado opositor estar surpreso é de 3-em-6. 
+- Faz uma rolagem por noite para descobrir se houve um encontro aleatório. A chance depende do tipo de terreno, como durante a viagem. A distância do encontro, e se um ou os dois lados estão surpresos é decidido aleatoriamente, em uma rolagem fechada. A chance de cada lado estar surpreso é de 2-em-6, mas se não houver fogueira, a chance do lado opositor estar surpreso é de 3-em-6.
+
+- Importante notar que nem todo encontro aleatório, durante a viagem ou durante acampemento, é necessariamente hostil. Dito isso, o tipo de encontro e a predisposição das criaturas encontradas é rolada e portanto aleatória, fora do controle do DM. Podem ser 3 amigos breggles viajando bêbados que nem viram os jogadores, ou podem ser 4 ogros dispostos a destruir todos no seu caminho, sem conversa. 
 
 # Compilação de outras regras:
 
