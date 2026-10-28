@@ -37,4 +37,4 @@ Woodgrues recebem um modificador de +1 para xp se escolhem Farra, sem pagar +1 d
 
 ## Chance de Rumor
 
-Após a resolução, o aventureiro roda ***1d6*** para descobrir se ouviu algum rumor interessante durante a ação. Em um 6, um novo rumor é descoberto.
+Após a resolução, o aventureiro roda ***1d6*** para descobrir se ouviu algum rumor interessante durante a ação. Em um 6, um novo rumor é descoberto, ou novas informações sobre um rumor já existente.
