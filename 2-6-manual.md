@@ -1,0 +1,225 @@
+
+---
+layout: default
+title: Manual da Guilda
+parent: 🕯️ Intro
+nav_order: 6
+description: "manual da guilda"
+---
+
+# Manual da Guilda
+
+Este manual junta num lugar só as **regras da casa**: como a Guilda funciona, como marcar e conduzir uma expedição, e o que escolhemos ou mudamos dos livros. O que não estiver aqui segue o *Dolmenwood Player's Book* (DPB).
+
+Se alguma outra página do site disser diferente, **vale o que está aqui**. Estamos atualizando o resto aos poucos. A Guilda ou o Sr. Bituca não se responsabiliza por aventureiros que não leram o manual.
+
+<details open markdown="block">
+  <summary>Índice</summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
+## Antes da primeira sessão
+
+- Entrar no [Discord da Guilda](3-0-discord.html). É lá que tudo acontece: agendamento de sessões, planejamento, downtime, votações.
+- Criar o personagem. O passo a passo está no [Discord](https://discord.com/channels/1552000609119371294/1552066775800086588).
+- Regras opcionais que podem afetar as suas escolhas: na hora da criação: usamos **bônus de XP da Habilidade Primária** e o **XP extra dos humanos** (e a regra opcional do **fumo**, claro). **Não** usamos as kindred-classes.
+- Magos **não aprendem feitiços do livro de um personagem de nível 1**. O primeiro livro de um mago é sempre uma bagunça de anotações, impossível aprender algo.
+
+## Marcando uma expedição
+
+1. Escolha uma data entre as sessões disponíveis no Discord.
+2. Forme um grupo e abra um tópico no fórum de **Expedições**, com no mínimo **2 dias** de antecedência (por favorzinho).
+3. No tópico, informar:
+   - quem vai e quem fica em cada **cargo**;
+   - o que o grupo pretende fazer;
+   - de onde a expedição sai (ver [Onde a expedição começa](#onde-comeca)).
+4. Planejar o equipamento no canal **#planejamento**.
+
+Os 2 dias são pro nosso pobre @DM ter tempo de se preparar. Sessão bem preparada é sessão melhor pra todo mundo.
+
+## Cargos
+
+A Guilda requer que todo aventureiro em expedição assuma um cargo. O XP do cargo é **individual** e não entra na divisão.
+
+| Cargo | O que faz | XP |
+|---|---|---|
+| **Porta-voz** | Resolve impasses e debates sobre o que fazer, e fala pelo grupo. Decide a ordem de marcha junto com o Guardião. | 200 |
+| **Cartógrafo** | Mapeia os hexes e os calabouços para toda a Guilda. | 250 |
+| **Cronista** | Registra o que aconteceu e os rumores novos. | 200 |
+| **Guardião** | Cuida do inventário e dos suprimentos, informa a velocidade do grupo ao DM e fica de olho no relógio da sessão. | 200 |
+
+**Companheiros** são personagens que os aventureiros podem contratar quando precisam de ajuda, criados por jogadores da audiência.
+
+Mais detalhes nas páginas de [Cargos dos Aventureiros](2-2-4-funcoes.html).
+
+## Onde a expedição começa e termina {#onde-comeca}
+
+Toda sessão dura **entre duas e três horas** e precisa **começar e terminar num lugar seguro**. Lugares seguros são:
+
+- **Chifre Fino**, a casa da Guilda. Toda expedição sai daqui, a não ser que exista uma das opções abaixo.
+- **Casas da Guilda:** uma casa em outra vila ou cidade que a Guilda pagou, construiu e mantém com os seus fundos.
+- **Lugares seguros conquistados:** lugares que abrem quando o grupo cumpre uma condição. Por exemplo, a cabana do Tequel, na Mandinga da Bruxa, vira lugar seguro quando todos os hexes da Mandinga estiverem mapeados.
+
+Quem não estiver num lugar seguro no fim da sessão está **perdido**: perde a próxima Ação de Downtime e corre outros riscos no [Resgate](d-rescue.html).
+
+Voltar a tempo é responsabilidade dos aventureiros, principalmente do Guardião. Fiquem de olho no relógio.
+
+## Viagem
+
+Viajamos **hora a hora**, não com Pontos de Viagem. Se alguma página falar em PV, está desatualizada.
+
+- **Medidas:** 1 hex = **10 km** (6 milhas). 10′ = 3 m.
+- **Velocidade:** a do membro mais lento. Grupo montado anda a 40; com carroça ou carruagem, a 30. O **Guardião informa a velocidade** antes de traçarmos a rota.
+- **Terreno:**
+  - **Fácil:** terras cultivadas, floresta de fungos, colinas, campina, floresta aberta. **Estradas e trilhas contam como fácil**, seja lá o que atravessem.
+  - **Moderado:** brejo, floresta acidentada, floresta emaranhada.
+  - **Difícil:** floresta alagadiça, escarpada ou espinhosa, e pântano.
+
+**Num dia** (8 horas andando):
+
+| Velocidade | Fácil | Moderado | Difícil |
+|---|---|---|---|
+| 40 | **4 hexes** · 40 km | **2⅔ hexes** · 27 km | **2 hexes** · 20 km |
+| 30 | **3 hexes** · 30 km | **2 hexes** · 20 km | **1⅓ hex** · 13 km |
+| 20 | **2 hexes** · 20 km | **1⅓ hex** · 13 km | **1 hex** · 10 km |
+| 10 | **1⅓ hex** · 13 km | **⅔ hex** · 7 km | **⅓ hex** · 3 km |
+
+**Por hora:**
+
+| Velocidade | Fácil | Moderado | Difícil |
+|---|---|---|---|
+| 40 | 5 km | 3⅓ km | 2½ km |
+| 30 | 3¾ km | 2½ km | 1⅔ km |
+| 20 | 2½ km | 1⅔ km | 1¼ km |
+| 10 | 1⅔ km | ⅚ km | 0,4 km |
+
+- **Dia normal:** até 8 horas de viagem. O resto do dia vai em descanso, refeições e montar e desmontar acampamento.
+- **Marcha forçada:** até 12 horas, mas dá exaustão. Forçar de novo nos dias seguintes, sem descansar, acumula −1 por dia.
+- **Descanso:** 1 dia parado por semana de viagem (6 andando, 1 descansando), senão vem a exaustão.
+- **Buscar num hex:** primeiro chegar no centro dele, depois procurar. A busca conta como **10 km de movimento** e termina quando acham algo escondido ou voltam ao centro. (Velocidade 30 em terreno moderado: 4 horas.)
+- **Estradas e rios:** seguindo um, ninguém se perde. Mas pela estrada vocês podem deixar passar coisas do hex que ficam longe dela. Fora da estrada, entrar num hex mostra tudo o que não está escondido.
+- **Montarias e veículos:** em terreno moderado, montarias vão puxadas a pé e veículos não passam. Em terreno difícil, nenhum dos dois.
+- **Encontros e se perder:** como no livro. O DM rola.
+
+## Acampamento
+
+Do *Morning Wood* (Chubby Funster), do jeito que jogamos. Toda noite:
+
+1. **Tarefas.** Um personagem monta o acampamento (dois depois de marcha forçada), um cuida dos animais, se tiver, e o resto pode coletar lenha.
+2. **Lenha.** 1d6 pra quanto acham: −1 na chuva ou parecido, −1 em terreno aberto.
+3. **Fogueira.** Com lenha, acende. Com vento forte ou chuva, só em 4-em-6.
+4. **Janta.** Com utensílios e ingredientes, um personagem pode fazer um **Teste de Sabedoria** pra cozinhar algo especial: se passar, todo mundo ganha +1 no teste de sono. De qualquer jeito, todos gastam 1 ração.
+5. **Camaradagem.** Um personagem pode animar o grupo (histórias, músicas, piadas) com um **Teste de Carisma**: se passar, todo mundo ganha +1 no teste de sono. Se falhar, faz um **Save Versus Doom** ou fica inseguro: −1 no próprio teste de sono.
+6. **Exaustão.** Se comeram bem **e** tiveram camaradagem, 4-em-6 pra tirar a exaustão. Com fumo ou bebida, é automático.
+7. **Vigia.** Quatro personagens vigiam, 2 horas cada, na ordem que escolherem.
+8. **Sono.** Cada personagem faz um **Teste de Constituição** pra dormir bem, conforme fogueira, cama e estação:
+
+| Fogueira | Cama | Inverno | Primavera | Verão | Outono |
+|---|---|---|---|---|---|
+| Sem | Nada | Impossível | Difícil | Moderado | Difícil |
+| Sem | Saco de dormir **ou** barraca | Impossível | Moderado | Fácil | Moderado |
+| Sem | Saco de dormir **e** barraca | Difícil | Moderado | Fácil | Moderado |
+| Com | Nada | Impossível | Difícil | Moderado | Difícil |
+| Com | Saco de dormir **ou** barraca | Difícil | Fácil | Fácil | Fácil |
+| Com | Saco de dormir **e** barraca | Moderado | Fácil | Fácil | Fácil |
+
+- **Fácil:** todo mundo dorme bem.
+- **Moderado:** Teste de Constituição; quem falha ganha −1 de exaustão.
+- **Difícil:** Teste de Constituição com −2; quem falha ganha −1 de exaustão.
+- **Impossível:** todo mundo ganha −1 de exaustão.
+
+Dormir bem também cura **1 HP**.
+
+O DM rola um encontro de dia e um de noite. Encontro de noite cai numa vigia aleatória. Surpresa é 2-em-6 pra cada lado, mas, sem fogueira, quem chegar é surpreendido em 3-em-6.
+
+## Carga
+
+Usamos **slots**, não peso (DPB p149).
+
+- **Equipados** (vestidos, na mão, à mão): até **10 slots**. **Guardados** em containers: até **16 slots**. Mochila e sacola guardam 10 cada.
+- Uma mochila e até duas sacolas. Sacola ocupa uma mão. Tirar um item guardado em combate leva 1 Round.
+- Quase tudo ocupa **1 slot**. Coisas minúsculas não ocupam (a não ser que sejam muitas). Pacotes ocupam 1: 3 tochas, 10 velas, 12 cravos de ferro, 20 estrepes. Até 100 moedas ou gemas: 1.
+- **Volumosos** de duas mãos (baú, barril, vara de 3 m): 2 slots, não dá pra guardar.
+- Armadura leve 1, média 2, pesada 3. Escudo 1. Arma de duas mãos 2, outras armas 1. Até 20 flechas ou virotes: 1.
+
+| Equipados | Guardados | Velocidade |
+|---|---|---|
+| 0–3 | 0–10 | 40 |
+| 4–5 | 11–12 | 30 |
+| 6–7 | 13–14 | 20 |
+| 8–10 | 15–16 | 10 |
+
+Vejam os dois e usem a **mais lenta**.
+
+## XP
+
+**Pro grupo todo** (somado e dividido entre quem voltou):
+
+- **Tesouro:** 1 po = 1 XP, mas só quando volta em segurança. Itens mágicos não costumam dar XP, já que são a própria recompensa.
+- **Inimigos derrotados:** o XP da criatura. **Derrotar não é matar**: passar por ela ajudando, evitando, enganando ou fazendo amizade também vale o XP dela.
+- **200 XP** por: hex novo fora da estrada, hex buscado ou mapeado, descoberta (vila, covil, ruína, entrada de calabouço), rumor confirmado ou desmentido, estátua da Igreja restaurada (e 100 po).
+- **400 XP** por templo da Igreja restaurado (e 300 po).
+
+**Individual** (não é dividido):
+
+- **Voltou:** 100 XP pra todo mundo que foi e voltou.
+- **Cargo:** Porta-voz 200, Cartógrafo 250, Cronista 200, Guardião 200.
+- **Farra**, no Downtime: varia.
+
+## Tesouro
+
+O tesouro é dividido **no fim da aventura**. A Guilda fica com **uma parte**, igual a um aventureiro: com 5 aventureiros, divide-se o ouro por 6. Se alguma página falar em 20%, está desatualizada.
+
+A parte da Guilda paga as instalações, os gastos do dia a dia e a revenda do tesouro, e vai para os **fundos da Guilda**. Qualquer uso dos fundos precisa ser justificado e aprovado pelo Sr. Bituca. Veteranos (4 expedições ou mais) podem abrir votações sobre eles na **#assembleia**.
+
+**Companheiros** aventureiros levam a fração de parte combinada na contratação e metade do XP. Gente da cidade recebe diária.
+
+## Banco da Guilda
+
+A Guilda faz o papel do cambista do livro (DPB p160–161):
+
+- **Depósito:** deixem o dinheiro com a Guilda e recebam um comprovante. É **grátis se ficar pelo menos um mês**. Tirar antes custa **10%** do que for retirado. (O tempo do jogo corre junto com o real, então é um mês de verdade.)
+- **Câmbio:** 3% do valor trocado.
+- **Empréstimo:** 10% do valor por mês, deixando de garantia um item que valha o **dobro** do empréstimo. Gente conhecida e respeitada pode conseguir juros menores, e até sem garantia.
+
+## Herança
+
+Quando um personagem morre, o que era dele passa para o **próximo personagem do mesmo jogador**, menos **50%**, que a Guilda fica de imposto.
+
+## Downtime
+
+Todo aventureiro que **voltou** da expedição ganha **uma Ação de Downtime**, resolvida no Discord entre as sessões. A lista de ações e os detalhes estão na página de [Downtime](2-3-downtime.html).
+
+## Regras opcionais
+
+- **Usamos:** ir pra cima, defender e empurrar; lutar com duas armas; um 1 natural atirando num combate corpo a corpo pode acertar um amigo.
+- **Às vezes:** a rolagem de fuga do calabouço no fim da sessão.
+- **Não usamos:** à beira da morte (0 HP é morte), caminhos seguros pra sair do calabouço, acampamento rápido, dormir na vigia.
+- **Na criação:** sim pro bônus de XP da Habilidade Primária, o XP extra dos humanos e o fumo; não pras kindred-classes.
+
+## Nossos nomes
+
+Os nomes que usamos na mesa e o que os livros chamam.
+
+| Nosso nome | No livro |
+|---|---|
+| Chifre Fino | Lankshorn |
+| Canelalta | High-Hankle |
+| Brejabrega | Prigwort |
+| Mato Alto | the High Wold |
+| Castelo Mato Souto | Castle Brackenwold |
+| Lago Solongo | Lake Longmere |
+| Mandinga da Bruxa | Hag's Addle |
+| Mansão Pantanojo | Bogwitt Manor |
+| Acampamento dos Lenhadores | the Woodcutters' Encampment |
+| Casa de Fernebola | Ferneddbole House |
+| Atoleiro | Bogway's (estalagem) |
+| Trapo Tremulante | the Quivering Doily (estalagem) |
+
+---
+
+Qualquer dúvida, chamem no Discord. 👍
