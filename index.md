@@ -21,7 +21,7 @@ Essa é uma campanha de RPG, e essa campanha é um **"sandbox"**, um mundo abert
 
 ## O que é um RPG (e o que é um West Marches)?
 
-Um RPG é um jogo de conversa onde jogadores e um narrador colaboram para ver uma história emergente surgir na mesa (no nosso caso, no Discord). Quando algo é incerto ou oferece risco, uma rolagem de dados decide o destino.
+Um RPG é um jogo de conversa onde jogadores e um narrador colaboram para ver uma história emergir na mesa (no nosso caso, no Discord). Quando algo é incerto ou oferece risco, uma rolagem de dados decide o destino.
 
 Normalmente, um RPG envolve um grupo fixo de 4 ou 5 pessoas que se reúnem semanalmente. Mas esta campanha é ao estilo **West Marches**, um formato de jogo codificado originalmente por [Ben Robbins](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/), mas com aquele nosso tempero, nossas modificações, e nossa tradução: uma **mesa aberta** e **comunitária**.
 
